@@ -86,6 +86,9 @@ In this model, AI does not move freely, but it does not stand still either. It s
 
 > ⚠️ Its risk appears when the center is weak. If the core requirement, regression boundary, or no-crossing zone is unclear, exploration can drift back into the Stargazer Model.
 
+> “Give me a place to stand on, and I will move the Earth.”\
+> — Archimedes
+
 ### Feedback Loop
 
 #### Anomaly Loop
