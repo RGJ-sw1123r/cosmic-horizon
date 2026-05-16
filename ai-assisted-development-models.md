@@ -6,11 +6,15 @@ description: >-
 
 # 🛰️ AI-Assisted Development Models
 
+This methodology specification defines a practical framework for AI-assisted software development.
+
+It organizes three development models, one feedback loop, and a shared vocabulary for making AI-assisted work observable, controllable, and recoverable.
+
 In AI-assisted development, the bottleneck is no longer the speed of code generation.
 
 The real challenge is ensuring that generated code follows the right requirements, constraints, boundaries, and completion criteria.
 
-This document organizes three models for AI-assisted development:
+The three development models are:
 
 * **Stargazer Model**
 * **Observatory Model**
