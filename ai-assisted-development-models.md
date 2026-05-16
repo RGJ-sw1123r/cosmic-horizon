@@ -99,7 +99,7 @@ In this model, AI does not move freely, but it does not stand still either. It s
 
 The Anomaly Loop begins with deviation.
 
-Unlike the three models above, the Anomaly Loop begins after deviation appears and guides the response to that anomaly.
+It governs the response after deviation appears.
 
 An anomaly may be a local implementation defect, but it may also reveal that the observation system itself is incomplete, distorted, or drawn from the wrong coordinates.
 
