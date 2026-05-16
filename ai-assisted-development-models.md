@@ -86,9 +86,6 @@ In this model, AI does not move freely, but it does not stand still either. It s
 
 > ⚠️ Its risk appears when the center is weak. If the core requirement, regression boundary, or no-crossing zone is unclear, exploration can drift back into the Stargazer Model.
 
-> “Each planet’s orbit about the Sun is an ellipse. The Sun’s center is always located at one focus of the ellipse.”\
-> — Kepler’s First Law
-
 ### Feedback Loop
 
 #### Anomaly Loop
@@ -153,6 +150,26 @@ The Orbital Model begins with a center.
 The Anomaly Loop begins later, when deviation appears.
 
 Together, these concepts form a practical map for AI-assisted development: discover quickly, frame carefully, explore within a center, and transform anomalies into a sharper observation system.
+
+These models form the underlying elements of a larger way to reason about AI-assisted development.
+
+The following diagram maps these concepts onto a practical AI-assisted workflow.
+
+```mermaid
+flowchart LR
+	A[Issue / Requirement / ADR / API Spec] --> B[Observation System]
+	B --> C[AI Agent]
+	A --> D[Repository Context / Knowledge Base]
+	D --> C
+	C --> E[Implementation Candidate]
+	E --> F[Sandbox / Local Verification]
+	F --> G[Tests / Static Analysis / Security Check]
+	G --> H[Trace / Eval / Approval]
+	H --> I[PR / Release]
+	H --> J[Anomaly Loop]
+	J --> B
+	J --> A
+```
 
 > “The mathematics clearly called for a set of underlying elementary objects.”\
 > Those objects were quarks.\
