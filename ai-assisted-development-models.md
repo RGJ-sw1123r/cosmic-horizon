@@ -139,8 +139,8 @@ This response is useful when the anomaly is not isolated: the wrong requirement 
 
 Return to Origin brings the work back to the starting point, now guided by better coordinates.
 
-> “Nothing is lost, nothing is created, everything is transformed.”\
-> — Antoine Lavoisier
+> “The errors are not in the art, but in the artificers.”\
+> — Isaac Newton, _Principia_
 
 ### Model Relationship
 
@@ -174,9 +174,8 @@ flowchart LR
 	J --> A
 ```
 
-> “The mathematics clearly called for a set of underlying elementary objects.”\
-> Those objects were quarks.\
-> — Murray Gell-Mann
+> “Information is information, not matter or energy.”\
+> — Norbert Wiener
 
 ### Usage Strategy
 
