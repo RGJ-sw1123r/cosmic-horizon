@@ -103,9 +103,9 @@ The response depends on what the anomaly reveals.
 
 **Mending**
 
-Mending is used when the observation system still holds and the anomaly is limited to a local implementation defect.
+Mending is used when the observation system remains valid and the anomaly is limited to a local implementation defect.
 
-In this case, the existing requirements, constraints, boundaries, completion criteria, and verification procedures still hold. The broken part can be repaired inside the current frame.
+In this case, the existing requirements, constraints, boundaries, completion criteria, and verification procedures can stay in place. The broken part can be repaired inside the current frame.
 
 Mending handles the crack without redrawing the frame.
 
