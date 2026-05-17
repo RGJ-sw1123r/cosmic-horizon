@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🔭 Introduction](README.md)
+* [🔭 Cosmic Horizon: Start Here](README.md)
 * [🐎 Ride, Don’t Race](ride-dont-race/README.md)
   * [Reality and Ideal](ride-dont-race/reality-and-ideal.md)
   * [Why We Study](ride-dont-race/why-we-study.md)

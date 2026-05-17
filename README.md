@@ -1,17 +1,21 @@
 ---
 description: >-
-  A technical knowledge archive for software structure, architecture, and
-  AI-assisted development.
+  A technical knowledge archive for observing software structure, AI-assisted
+  development, verification, and engineering responsibility.
 ---
 
-# 🔭 Introduction
+# 🔭 Cosmic Horizon: Start Here
 
-## Cosmic Horizon
+### What this archive is
 
 Cosmic Horizon is a technical knowledge archive for documenting software structures that can be observed, understood, and refined into engineering insight.
 
 > “The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.”\
 > — Marcel Proust
+
+### Who this is for
+
+This archive is for developers, technical leads, and builders who want to use AI without giving up structure, judgment, or responsibility.
 
 ### Deep-Space Transmission
 
@@ -25,10 +29,16 @@ It waits to be found by the one who understands its signal.
 
 This is how the idea travels: not through mass persuasion, but through deep-space transmission.
 
-### Documents
+### How to Read This Archive
 
-* [Ride, Don’t Race](ride-dont-race/)
-* [AI-Assisted Development Models](ai-assisted-development-models.md)
+You can read this archive as a set of essays, but it is better understood as a map.
+
+Some pages describe perspective. Some pages define operating models. Some pages will become field notes, templates, and reusable artifacts.
+
+### Recommended Paths
+
+* Start with [Ride, Don’t Race](ride-dont-race/) if you want the philosophy behind this archive.
+* Read [AI-Assisted Development Models](ai-assisted-development-models.md) if you want the operating model.
 
 ### Links
 
