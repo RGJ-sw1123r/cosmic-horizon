@@ -46,9 +46,9 @@ Before AI begins to touch code, the developer must make the work observable: wha
 
 In this document, the observation system is the line that separates controlled AI-assisted development from simple code generation.
 
-### Models
+## Development Models
 
-#### Stargazer Model
+### Stargazer Model
 
 The Stargazer Model begins with discovery.
 
@@ -61,7 +61,7 @@ AI generates the first visible shape before the observation system is fully draw
 > “I have looked further into space than ever human being did before me.”\
 > — William Herschel
 
-#### Observatory Model
+### Observatory Model
 
 The Observatory Model begins with framing.
 
@@ -78,7 +78,7 @@ The Observatory Model turns AI-assisted development from code generation into co
 > “Measure what is measurable, and make measurable what is not so.”\
 > — Galileo Galilei
 
-#### Orbital Model
+### Orbital Model
 
 The Orbital Model begins with a center.
 
@@ -93,9 +93,9 @@ In this model, AI does not move freely, but it does not stand still either. It s
 > “Give me a place to stand on, and I will move the Earth.”\
 > — Archimedes
 
-### Feedback Loop
+## Feedback Loop
 
-#### Anomaly Loop
+### Anomaly Loop
 
 The Anomaly Loop begins with deviation.
 
@@ -137,16 +137,30 @@ Recalibration prevents AI from moving faster along the wrong path.
 
 Return to Origin is used when the current attempt has moved too far along a distorted frame.
 
-At this point, continuing to patch the result can make the work harder to trust. The developer reverts the broken attempt, updates the observation system, and asks AI to run the operation again within the corrected frame.
+At this point, continuing to patch the result can make the work harder to trust. The developer returns to a recorded origin, recalibrates the observation system, and runs the operation again with sharper coordinates.
 
-This response is useful when the anomaly is not isolated: the wrong requirement has shaped multiple changes, the boundary has already been crossed, or the generated result has spread regression risk across the codebase.
+An origin may consist of multiple recorded coordinates: a saved instruction, a prompt artifact, a requirement note, a design decision, an operation log, a system snapshot, or another stable baseline.
 
-Return to Origin brings the work back to the starting point, now guided by better coordinates.
+Return to Origin is not a simple reset.
+
+It is a recursive return to the coordinates where the operation began. The failed attempt becomes observational evidence: which constraint was missing, which boundary failed, which assumption became unstable, and which instruction pulled the work away from its intended path.
+
+The next attempt begins from the origin again, but not from the same understanding.
+
+The origin is the same.
+
+The observer has changed.
+
+The prompt becomes sharper.
+
+The frame becomes more precise.
+
+The loop carries memory forward.
 
 > “The errors are not in the art, but in the artificers.”\
 > — Isaac Newton, _Principia_
 
-### Model Relationship
+## Model Relationship
 
 The three models describe how AI-assisted work begins.
 
@@ -181,7 +195,7 @@ flowchart LR
 > “Information is information, not matter or energy.”\
 > — Norbert Wiener
 
-### Usage Strategy
+## Usage Strategy
 
 Use the Stargazer Model when discovery matters more than certainty.
 
