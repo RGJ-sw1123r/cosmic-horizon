@@ -221,3 +221,9 @@ Cosmic Horizon is a navigation log for looking back on our work, tracing the ori
 > “Do not wait for the market to validate your path. Hold the reins, build the future, and let the results become your proof.”
 >
 > — Cosmic Horizon
+
+## Related Coordinates
+
+* Read [Reality and Ideal](reality-and-ideal.md) to explore the tension between market reality and personal engineering ideals.
+* Read [Why We Study](why-we-study.md) to understand why learning still matters when AI can generate answers quickly.
+* Read [AI-Assisted Development Models](../operating-system/ai-assisted-development-models.md) to move from perspective into an operating model for AI-assisted development.
