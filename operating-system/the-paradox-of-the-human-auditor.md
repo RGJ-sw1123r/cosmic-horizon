@@ -6,7 +6,7 @@ description: >-
 
 # The Paradox of the Human Auditor
 
-### Do Not Say It So Easily
+## Do Not Say It So Easily
 
 “AI-generated output can simply be verified by humans.”
 
@@ -57,7 +57,7 @@ Saying “a person checked it” is not enough.
 >
 > The real question is whether our verification system itself can withstand the speed, volume, and complexity of AI-generated output.
 
-### The Imperfect Filter of Human Eyes
+## The Imperfect Filter of Human Eyes
 
 Human eyes matter.
 
@@ -111,7 +111,7 @@ Therefore, the role of the human is not to directly _see_ everything.
 
 The role of the human is to define the rules for what must be _seen_.
 
-### Humans Hallucinate Too
+## Humans Hallucinate Too
 
 Hallucination is not a word invented only for AI.
 
@@ -155,7 +155,7 @@ The role of the human is not to replace AI hallucination with human certainty.
 
 The role of the human is to design a system where machine hallucination and human false certainty can both be exposed, questioned, and corrected.
 
-### The Asymmetry of Machine Speed
+## The Asymmetry of Machine Speed
 
 The real danger of the AI era is the asymmetry between production and verification.
 
@@ -181,7 +181,7 @@ High-speed production without scalable verification is not progress.
 
 > **It is uncertainty running faster than control.**
 
-### Humans Define the Criteria
+## Humans Define the Criteria
 
 Automated audit is inevitable.
 
@@ -215,7 +215,7 @@ It is inevitable.
 
 But the final criteria that govern this audit architecture must still be defined by humans.
 
-### What Humans Should Still Audit
+## What Humans Should Still Audit
 
 What humans must audit is not the integrity of every single line of code.
 
@@ -261,7 +261,7 @@ But deciding which risks to accept, which costs to pay, and where the voyage sho
 >
 > **Humans are valuable because they can decide which defects are fatal.**
 
-### Defining the Auditable World
+## Defining the Auditable World
 
 The real role of the human is to define the world in which audit becomes possible.
 
@@ -292,7 +292,7 @@ In that sense, the human does not stop at auditing AI’s output.
 
 > **The human audits the system that audits AI.**
 
-### Conclusion
+## Conclusion
 
 In the age of AI, the claim that “humans can simply verify it” is dangerously naive.
 
@@ -325,3 +325,9 @@ It is a meta-layer perspective that defines the conditions of verification, and 
 > **Humans audit the audit system.**
 
 🛑
+
+## Related Coordinates
+
+* Read [AI-Assisted Development Models](ai-assisted-development-models.md) to place this audit problem inside a broader operating model for AI-assisted development.
+* Read [The Burden of Plain Speech](the-burden-of-plain-speech.md) to explore how clearer instructions reduce ambiguity before verification begins.
+* Read [Why We Study](../perspective/why-we-study.md) to connect human audit with the literacy required to judge AI-generated output.
