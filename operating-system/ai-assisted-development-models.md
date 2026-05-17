@@ -147,9 +147,9 @@ At this point, continuing to patch the result can make the work harder to trust.
 
 An origin may consist of multiple recorded coordinates: a saved instruction, a prompt artifact, a requirement note, a design decision, an operation log, a system snapshot, or another stable baseline.
 
-Return to Origin is a recursive return that preserves evidence.
+Return to Origin is a recursive return to the coordinates where the operation began.
 
-It is a recursive return to the coordinates where the operation began. The failed attempt becomes observational evidence: which constraint was missing, which boundary failed, which assumption became unstable, and which instruction pulled the work away from its intended path.
+The failed attempt is preserved as observational evidence: which constraint was missing, which boundary failed, which assumption became unstable, and which instruction pulled the work away from its intended path.
 
 The next attempt begins from the origin again, but not from the same understanding.
 

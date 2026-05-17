@@ -35,7 +35,7 @@ This is how the idea travels: not through mass persuasion, but through deep-spac
 
 You can read this archive as a set of essays, but it is better understood as a map.
 
-Some pages describe perspective. Some pages define operating models. Other pages will grow into field notes, templates, and reusable artifacts.
+Some artifacts describe perspective. Some artifacts define operating models. Others will grow into field notes, templates, and reusable records.
 
 ## Recommended Paths
 
