@@ -6,6 +6,8 @@ description: >-
 
 # Reality and Ideal
 
+> Calibration Log
+
 ## ⚖️ Reality-Driven vs. Ideal-Driven
 
 In the age of AI, developers stand between two competing pressures.
