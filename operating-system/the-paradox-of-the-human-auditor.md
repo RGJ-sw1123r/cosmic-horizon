@@ -1,7 +1,7 @@
 ---
 description: >-
-  Oh, please, do not say it so easily. A reflection on the limits of human
-  verification and the inevitability of automated audit.
+  An architectural breakdown of automated audit, the limits of manual code
+  review, and human governance in AI-assisted verification systems.
 ---
 
 # The Paradox of the Human Auditor

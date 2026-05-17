@@ -1,7 +1,7 @@
 ---
 description: >-
-  Beyond code generation lies the frontier of observation, structure, and
-  engineering truth.
+  A software engineering methodology for AI-assisted development models that
+  make machine-speed work observable, auditable, controllable, and recoverable.
 ---
 
 # 🛰️ AI-Assisted Development Models

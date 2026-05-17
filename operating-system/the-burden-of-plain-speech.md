@@ -1,8 +1,7 @@
 ---
 description: >-
-  Oh, please, say it plainly. A reflection on prompt ambiguity, machine
-  interpretation, and the burden of translating complex intent into human
-  context.
+  A reflection on prompt ambiguity, plain speech, and how structured
+  instructions become reusable artifacts for governing AI-assisted work.
 ---
 
 # The Burden of Plain Speech

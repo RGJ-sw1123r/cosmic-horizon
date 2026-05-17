@@ -1,7 +1,7 @@
 ---
 description: >-
-  A reflection on study, exams, certificates, coding tests, and responsibility
-  in the age of AI.
+  A reflection on why study, algorithmic literacy, certificates, coding tests,
+  and engineering judgment still matter in the age of generative AI.
 ---
 
 # Why We Study

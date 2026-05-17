@@ -1,8 +1,8 @@
 ---
 description: >-
-  The world often makes even simple ideas sound difficult. This artifact exists
-  for those still asking, “Will AI take my job?” or “What can I do that AI
-  cannot?”
+  A perspective on riding AI through structured instructions, traceability,
+  verification, and human responsibility instead of racing against machine
+  speed.
 ---
 
 # 🐎 Ride, Don’t Race

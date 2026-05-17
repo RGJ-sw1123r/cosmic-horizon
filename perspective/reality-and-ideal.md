@@ -1,7 +1,7 @@
 ---
 description: >-
-  A reflection on developers caught between market pressure and personal
-  philosophy in the age of AI.
+  A reflection on market reality, engineering ideals, architectural standards, 
+  and how developers prove their value in an LLM-shaped development landscape.
 ---
 
 # Reality and Ideal

@@ -1,7 +1,7 @@
 ---
 description: >-
-  A technical knowledge archive for observing software structure, AI-assisted
-  development, verification, and engineering responsibility.
+  An engineering knowledge archive for software architecture, AI-assisted
+  development, automated verification, and engineering responsibility.
 ---
 
 # 🔭 Cosmic Horizon: Start Here
