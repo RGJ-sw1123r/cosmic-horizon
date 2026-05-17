@@ -9,6 +9,12 @@ description: >-
 
 > Observation Log
 
+## Current Coordinates
+
+* AI is not a race to be won at machine speed.
+* Developers ride AI through structure, instruction, verification, traceability, and responsibility.
+* AI-assisted development begins when the developer stops chasing output and starts governing the system that produces it.
+
 ## AI-Assisted Development: Ride, Don’t Race
 
 > “The computer is the equivalent of a bicycle for our minds.”
