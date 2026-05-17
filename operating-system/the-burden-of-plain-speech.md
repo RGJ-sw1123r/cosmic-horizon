@@ -152,11 +152,13 @@ It is a vacuum.
 
 In the classical era of computing, the rule was simple: _Garbage In, Garbage Out._
 
-In the age of generative AI, this law becomes more dangerous.
+Bad input produced bad output, visible errors, or a system that simply broke.
 
-The machine no longer merely rejects weak input. It can transform weak input into a plausible, polished, and beautifully structured illusion.
+In the age of generative AI, this law becomes far more dangerous.
 
-A shallow prompt does not always produce visible garbage.
+Weak input can be transformed into a plausible, polished, and beautifully structured illusion.
+
+A shallow prompt does not always produce visible defects.
 
 Sometimes, it produces elegant garbage.
 

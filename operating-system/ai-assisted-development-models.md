@@ -174,9 +174,9 @@ The Stargazer Model begins with discovery.\
 The Observatory Model begins with framing.\
 The Orbital Model begins with a center.
 
-A Stargazer result may sometimes become elegant garbage: polished, coherent, and structurally seductive, yet built on weak or missing constraints.
+The Stargazer Model can sometimes produce elegant garbage: polished, coherent, and structurally seductive, yet built on weak or missing constraints.
 
-If treated as a disposable signal rather than accepted output, it can still reveal the shape of a missing center.
+If treated as a disposable signal rather than an accepted result, it can still reveal the shape of a missing center.
 
 That discovered center can become the starting point of the Orbital Model.
 
