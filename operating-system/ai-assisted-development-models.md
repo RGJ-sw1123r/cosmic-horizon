@@ -201,6 +201,15 @@ flowchart LR
 > “Information is information, not matter or energy.”\
 > — Norbert Wiener
 
+## Model Selection Matrix
+
+| Model             | Entry Point  | Operational Context                                                                          | Primary Leverage           | Systemic Risk                                                                  |
+| ----------------- | ------------ | -------------------------------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------ |
+| Stargazer Model   | Discovery    | Objective is ill-defined; exploration velocity takes precedence over structural certainty.   | High-velocity discovery    | Output hardens into legacy before constraints are mapped.                      |
+| Observatory Model | Framing      | Impact spans production code, team workflow, data consistency, or architectural maintenance. | Comprehensive auditability | A distorted frame systematically misguides the machine loop.                   |
+| Orbital Model     | Fixed Center | Multiple execution paths must be tested while anchoring a non-negotiable requirement.        | Centripetal exploration    | A decaying center forces the workflow to drift back into the Stargazer state.  |
+| Anomaly Loop      | Deviation    | Output has drifted, failed verification, or exposed an edge case in the validation system.   | Rapid recalibration        | Treating a systemic flaw as a localized defect conceals an architectural bias. |
+
 ## Usage Strategy
 
 Use the Stargazer Model when discovery matters more than certainty.
