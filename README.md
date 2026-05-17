@@ -27,7 +27,7 @@ This is how the idea travels: not through mass persuasion, but through deep-spac
 
 ### Documents
 
-* [Ride, Don’t Race](ride-dont-race.md)
+* [Ride, Don’t Race](ride-dont-race/)
 * [AI-Assisted Development Models](ai-assisted-development-models.md)
 
 ### Links
