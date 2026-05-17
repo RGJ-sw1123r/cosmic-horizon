@@ -9,7 +9,7 @@ description: >-
 
 > Translation Log
 
-### Instructions Are Interpreted, Not Merely Executed
+## Instructions Are Interpreted, Not Merely Executed
 
 Instructions are interpreted, not merely executed.
 
@@ -63,7 +63,7 @@ Writing a good prompt is not about pouring countless words into the machine.
 
 It is about fixing the boundary lines that AI must never interpret differently.
 
-### The Same Prompt Is Not the Same Instruction
+## The Same Prompt Is Not the Same Instruction
 
 The same prompt does not guarantee the same result.
 
@@ -99,7 +99,7 @@ The real issue is not whether a sentence was written.
 
 **The real issue is how wide and dangerous an interpretation space that sentence opened for the machine.**
 
-### Think Deeper
+## Think Deeper
 
 To speak plainly, you must first think deeper.
 
@@ -163,7 +163,7 @@ It is a runtime safety mechanism.
 
 The deeper the thought, the less the instruction drifts.
 
-### Scale the Thought
+## Scale the Thought
 
 A good thought must not stop inside the narrow fence of personal understanding.
 
@@ -225,7 +225,7 @@ Without scaled thought, AI collaboration remains improvisational gambling.
 
 With scaled thought, AI collaboration becomes controllable infrastructure.
 
-### Say It Plainly
+## Say It Plainly
 
 Only at the final stage should we speak plainly.
 
@@ -281,7 +281,7 @@ These three stages do not conflict with one another.
 
 They are bound together as a single, precise pipeline.
 
-### Prompt Design Patterns as Assets
+## Prompt Design Patterns as Assets
 
 When you repeatedly go through the painful process of thinking deeply and translating that thought into plain language, something strange begins to happen.
 
@@ -307,7 +307,7 @@ The human operator begins to govern a larger meta-system by combining these veri
 
 The brutal discipline of pursuing plain speech eventually yields durable engineering assets.
 
-### Conclusion
+## Conclusion
 
 In the age of AI, an instruction is not merely a list of commands.
 
@@ -350,3 +350,9 @@ It is a rigorous reduction of complex intent into a form that humans can finally
 > **Plain speech is what remains after deep thought has survived contact with scale.**
 
 🧭
+
+## Related Coordinates
+
+* Read [AI-Assisted Development Models](ai-assisted-development-models.md) to place clear instruction design inside a broader operating model for AI-assisted development.
+* Read [The Paradox of the Human Auditor](the-paradox-of-the-human-auditor.md) to examine why unclear instructions increase the burden of verification.
+* Read [Why We Study](../perspective/why-we-study.md) to connect plain speech with the literacy required to judge, refine, and take responsibility for AI-generated output.
