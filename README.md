@@ -15,7 +15,7 @@ Cosmic Horizon is a technical knowledge archive for documenting software structu
 
 ## Who This Is For
 
-This archive is for developers, technical leads, and builders who want to use AI without giving up structure, judgment, or responsibility.
+This archive is for developers, technical leads, and builders who want to work with AI without giving up structure, judgment, or responsibility.
 
 ## Deep-Space Transmission
 
@@ -25,7 +25,7 @@ It is designed to leave artifacts with clear coordinates.
 
 Like the Voyager Golden Record drifting through the deep cosmic ocean, this archive does not shout at the crowd.
 
-It waits to be found by the one who understands its signal.
+It waits to be found by those who understand its signal.
 
 This is how the idea travels: not through mass persuasion, but through deep-space transmission.
 
@@ -33,7 +33,7 @@ This is how the idea travels: not through mass persuasion, but through deep-spac
 
 You can read this archive as a set of essays, but it is better understood as a map.
 
-Some pages describe perspective. Some pages define operating models. Some pages will become field notes, templates, and reusable artifacts.
+Some pages describe perspective. Some pages define operating models. Other pages will grow into field notes, templates, and reusable artifacts.
 
 ## Recommended Paths
 
