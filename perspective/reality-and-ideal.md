@@ -1,6 +1,6 @@
 ---
 description: >-
-  A reflection on market reality, engineering ideals, architectural standards, 
+  A reflection on market reality, engineering ideals, architectural standards,
   and how developers prove their value in an LLM-shaped development landscape.
 ---
 
