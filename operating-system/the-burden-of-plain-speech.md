@@ -150,6 +150,16 @@ But that shortness is not clarity.
 
 It is a vacuum.
 
+In the classical era of computing, the rule was simple: _Garbage In, Garbage Out._
+
+In the age of generative AI, this law becomes more dangerous.
+
+The machine no longer merely rejects weak input. It can transform weak input into a plausible, polished, and beautifully structured illusion.
+
+A shallow prompt does not always produce visible garbage.
+
+Sometimes, it produces elegant garbage.
+
 Deep thought does not blindly make a prompt longer.
 
 Instead, it isolates what must be explicitly stated from what should be stripped away.
