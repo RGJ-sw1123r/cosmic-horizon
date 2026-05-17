@@ -6,14 +6,14 @@ description: >-
 
 # 🔭 Cosmic Horizon: Start Here
 
-## What this archive is
+## What This Archive Is
 
 Cosmic Horizon is a technical knowledge archive for documenting software structures that can be observed, understood, and refined into engineering insight.
 
 > “The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.”\
 > — Marcel Proust
 
-## Who this is for
+## Who This Is For
 
 This archive is for developers, technical leads, and builders who want to use AI without giving up structure, judgment, or responsibility.
 
