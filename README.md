@@ -39,8 +39,8 @@ Some pages describe perspective. Some pages define operating models. Other pages
 
 ## Recommended Paths
 
-* Start with [Ride, Don’t Race](ride-dont-race/) if you want the philosophy behind this archive.
-* Read [AI-Assisted Development Models](ai-assisted-development-models.md) if you want the operating model.
+* Start with [Ride, Don’t Race](perspective/ride-dont-race.md) if you want the philosophy behind this archive.
+* Read [AI-Assisted Development Models](operating-system/ai-assisted-development-models.md) if you want the operating model.
 
 ## Links
 

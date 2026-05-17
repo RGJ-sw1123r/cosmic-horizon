@@ -1,9 +1,15 @@
 # Table of contents
 
 * [🔭 Cosmic Horizon: Start Here](README.md)
-* [🐎 Ride, Don’t Race](ride-dont-race/README.md)
-  * [Reality and Ideal](ride-dont-race/reality-and-ideal.md)
-  * [Why We Study](ride-dont-race/why-we-study.md)
-  * [The Paradox of the Human Auditor](ride-dont-race/the-paradox-of-the-human-auditor.md)
-  * [The Burden of Plain Speech](ride-dont-race/the-burden-of-plain-speech.md)
-* [🛰️ AI-Assisted Development Models](ai-assisted-development-models.md)
+
+## Perspective
+
+* [🐎 Ride, Don’t Race](perspective/ride-dont-race.md)
+* [Reality and Ideal](perspective/reality-and-ideal.md)
+* [Why We Study](perspective/why-we-study.md)
+
+## Operating System
+
+* [🛰️ AI-Assisted Development Models](operating-system/ai-assisted-development-models.md)
+* [The Paradox of the Human Auditor](operating-system/the-paradox-of-the-human-auditor.md)
+* [The Burden of Plain Speech](operating-system/the-burden-of-plain-speech.md)
