@@ -176,7 +176,7 @@ But they must never be swallowed by it.
 They must speak the language of the market when necessary.\
 But they must never become developers who can _only_ speak the language of the market.
 
-### Conclusion
+## Conclusion
 
 The reality-driven developer and the ideal-driven developer are not enemies living on opposite shores.
 
@@ -197,3 +197,9 @@ We must ride AI, but decide for ourselves where the voyage should go.
 Only those who can read reality while holding fast to the ideal can declare the structure of the next voyage.
 
 ⛵
+
+## Related Coordinates
+
+* Read [Ride, Don’t Race](ride-dont-race.md) to return to the core perspective behind this archive.
+* Read [Why We Study](why-we-study.md) to explore why learning still matters when AI can generate answers quickly.
+* Read [AI-Assisted Development Models](../operating-system/ai-assisted-development-models.md) to move from personal perspective into an operating model for AI-assisted development.
