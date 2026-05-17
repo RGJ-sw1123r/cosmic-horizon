@@ -8,7 +8,7 @@ description: >-
 
 > Observation Log
 
-### A Question Before an Answer
+## A Question Before an Answer
 
 This artifact does not begin with an answer.
 
@@ -52,7 +52,7 @@ The issue lies in what we believe they actually prove.
 
 This artifact is an observation log for thinking through that question.
 
-### Study Is Not Memorization
+## Study Is Not Memorization
 
 Study is not the mere act of committing information to memory.
 
@@ -102,7 +102,7 @@ We do not study to memorize the answer.
 
 We study to build the internal system of literacy and audit required to judge it.
 
-### Why Study Through AI?
+## Why Study Through AI?
 
 Studying in the age of AI will often happen _through_ AI.
 
@@ -140,7 +140,7 @@ AI is an accelerator that delivers raw materials at machine speed.
 
 Study is the friction of converting those raw materials into one’s own system of judgment.
 
-### When Technology Becomes a Medium
+## When Technology Becomes a Medium
 
 In the age of AI, our relationship with languages and frameworks begins to change.
 
@@ -206,7 +206,7 @@ But the responsibility to judge whether that translation is sound remains human.
 
 As technology sinks toward the layer of machine code, the developer must rise higher to read the architecture.
 
-### Why Study When AI Learns Faster?
+## Why Study When AI Learns Faster?
 
 AI learns faster than humans.
 
@@ -248,7 +248,7 @@ Study in the age of AI is not a race of velocity.
 
 Study is the act of keeping our grip on the reins.
 
-### Can Study Itself Be Delegated?
+## Can Study Itself Be Delegated?
 
 This invites an even colder question.
 
@@ -318,7 +318,7 @@ We do not study to execute everything manually.
 
 We study to remain capable of taking responsibility for what AI executes.
 
-### Study Begins with Responsibility Calibration
+## Study Begins with Responsibility Calibration
 
 Studying is not about digging endlessly into every piece of technology until you hit bedrock.
 
@@ -372,7 +372,7 @@ To delegate while understanding your responsibility limits is strategy.
 
 To delegate without seeing those limits is gambling.
 
-### Who Pays for the Study?
+## Who Pays for the Study?
 
 This forces us back into the friction of reality.
 
@@ -438,7 +438,7 @@ What must I deeply understand to hold real accountability?
 
 And what must I display so that the market can decode my competence?
 
-### Are Exams Becoming Old Rituals?
+## Are Exams Becoming Old Rituals?
 
 Exams provoke one of the most uncomfortable questions in the age of AI.
 
@@ -482,7 +482,7 @@ The real question is not whether exams are necessary.
 
 The real question is which exams still earn the right to exist.
 
-### Are These Also Market Narratives?
+## Are These Also Market Narratives?
 
 Exams, certificates, coding tests, and algorithms are not purely objective evaluation instruments.
 
@@ -524,7 +524,7 @@ It means the market often prefers low-resolution proxies over high-resolution un
 
 And when a proxy becomes too convenient, it begins to function like marketing.
 
-### What Exams Still Measure
+## What Exams Still Measure
 
 An exam is not the ultimate proof of intelligence.
 
@@ -578,7 +578,7 @@ Exams in the age of AI must stop testing only for the correct answer.
 
 They must begin testing for the architecture of judgment.
 
-### What Certificates Really Prove
+## What Certificates Really Prove
 
 Certificates operate on the same spectrum.
 
@@ -624,7 +624,7 @@ A certificate is not a destination.
 
 It is a signpost along the voyage.
 
-### What Coding Tests Actually Measure
+## What Coding Tests Actually Measure
 
 The coding test remains a deeply ambiguous mechanism for the modern developer.
 
@@ -684,7 +684,7 @@ A coding test cannot explain your total value as an engineer.
 
 But it can still serve as a diagnostic tool for glimpsing one fragment of your algorithmic literacy.
 
-### Why Algorithms Still Matter
+## Why Algorithms Still Matter
 
 Algorithms are not a collection of formulas you are expected to manually implement in production every day.
 
@@ -734,7 +734,7 @@ Algorithms are not a metric of a developer’s manual speed.
 
 They are the balance required to ride the machine without being thrown off.
 
-### Conclusion
+## Conclusion
 
 We do not study to learn faster than AI.
 
@@ -779,3 +779,9 @@ We study so that, even when riding the machine, we do not lose our direction.
 > “The more AI produces results, the higher your eyes must rise — because your name is the one that must stand behind them.”
 
 🧠
+
+## Related Coordinates
+
+* Read [Ride, Don’t Race](ride-dont-race.md) to return to the core perspective behind working with AI rather than racing against it.
+* Read [Reality and Ideal](reality-and-ideal.md) to explore how market pressure and personal philosophy shape the way developers prove their value.
+* Read [The Paradox of the Human Auditor](../operating-system/the-paradox-of-the-human-auditor.md) to examine why human judgment alone is not enough without structured verification.
