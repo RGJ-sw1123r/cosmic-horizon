@@ -6,6 +6,12 @@ description: >-
 
 # The Paradox of the Human Auditor
 
+## Current Coordinates
+
+* Human verification cannot scale by simply chasing AI-generated output with human eyes.
+* Machine-speed production requires verification systems that machines can execute and humans can govern.
+* The future of audit belongs to systems where machines inspect the output and humans audit the audit system.
+
 ## Do Not Say It So Easily
 
 “AI-generated output can simply be verified by humans.”

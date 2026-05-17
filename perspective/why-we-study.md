@@ -8,6 +8,12 @@ description: >-
 
 > Observation Log
 
+## Current Coordinates
+
+* Study still matters when AI can explain, summarize, solve, and generate faster than humans.
+* Study is no longer only the act of memorizing answers; it is the act of building judgment, literacy, and auditability.
+* We study so that, even when riding the machine, we do not lose our direction.
+
 ## A Question Before an Answer
 
 This artifact does not begin with an answer.

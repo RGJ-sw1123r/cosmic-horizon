@@ -9,6 +9,12 @@ description: >-
 
 > Translation Log
 
+## Current Coordinates
+
+* Prompts are engineered artifacts, not disposable requests.
+* Plain speech begins with deep thought, scales through repeatable instruction patterns, and ends as language humans can understand and defend.
+* A good instruction reduces drift by defining the world in which AI is allowed to act.
+
 ## Instructions Are Interpreted, Not Merely Executed
 
 Instructions are interpreted, not merely executed.

@@ -6,6 +6,12 @@ description: >-
 
 # 🛰️ AI-Assisted Development Models
 
+## Current Coordinates
+
+* AI-assisted development requires models that make machine-speed work observable, controllable, and recoverable.
+* The central problem is no longer code generation speed, but the ability to frame, verify, and recover the work before and after AI acts.
+* These models turn AI-assisted development from improvisational prompting into an operating system.
+
 This methodology specification defines a practical framework for AI-assisted software development.
 
 It organizes three development models, one feedback loop, and a shared vocabulary for making AI-assisted work observable, controllable, and recoverable.
