@@ -221,6 +221,21 @@ It is inevitable.
 
 But the final criteria that govern this audit architecture must still be defined by humans.
 
+## Capability Alignment Matrix
+
+Audit architecture aligns each layer of verification with the capability best suited to handle it.
+
+Machines carry scale, repetition, and consistency.
+
+Humans carry context, judgment, responsibility, and direction.
+
+| Audit Layer                | Primary Engine         | Structural Rationale                                                                                                                                                         | Human Accountability                                                                                            |
+| -------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Deterministic Verification | Automated Systems      | Syntax validation, type checking, regression suites, and static analysis require mathematical consistency and fatigue-free execution at scale.                               | Formulate immutable thresholds, error bounds, and deterministic escalation paths.                               |
+| High-Volume Inspection     | Machine-Assisted Audit | Automated production generates output volumes beyond human inspection capacity. First-line ingestion must scale with generation velocity.                                    | Architect the inspection filters, declare signal-to-noise priorities, and intercept anomalies.                  |
+| Ambiguous Signals          | Human-Machine Synergy  | Edge cases, probabilistic drift, and incomplete test coverage require a hybrid loop of algorithmic detection and heuristic interpretation.                                   | Synthesize fluid ambiguities into hardened constraints, precise test vectors, or revised instructions.          |
+| Contextual Judgment        | Humans                 | Strategic direction, liability risk, ethical overhead, operational burden, and total recoverability require values-based decision-making rather than mechanical computation. | Determine risk tolerability, authorize escalation, rollback, or halt conditions, and anchor systemic direction. |
+
 ## What Humans Should Still Audit
 
 What humans must audit is not the integrity of every single line of code.
