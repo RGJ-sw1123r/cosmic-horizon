@@ -20,7 +20,7 @@ The three development models are:
 * **Observatory Model**
 * **Orbital Model**
 
-### Core Thesis
+## Core Thesis
 
 Code generation is no longer the center of gravity in software development.
 
@@ -36,7 +36,7 @@ In the AI era, engineering begins before implementation.
 
 It begins by drawing the observation system.
 
-### Observation System
+## Observation System
 
 An observation system is a set of requirements, constraints, boundaries, completion criteria, regression signals, and verification procedures that make AI-assisted work reviewable, controllable, and recoverable.
 
@@ -199,7 +199,7 @@ Use the Anomaly Loop when the result begins to drift.
 
 An anomaly may be more than a simple failure. It may require mending, diagnosis, recalibration, or a return to origin.
 
-### Closing Thesis
+## Closing Thesis
 
 AI-assisted development does not end with faster code generation.
 
@@ -211,3 +211,10 @@ Beyond code generation, engineering begins with observation.
 
 > “In the fields of observation, chance favors only the prepared mind.”\
 > — Louis Pasteur
+
+## Related Coordinates
+
+* Read [Ride, Don’t Race](../perspective/ride-dont-race.md) to understand the core perspective behind working with AI rather than racing against it.
+* Read [The Paradox of the Human Auditor](the-paradox-of-the-human-auditor.md) to examine why human review alone is not enough without structured verification.
+* Read [The Burden of Plain Speech](the-burden-of-plain-speech.md) to explore how clear instructions become reusable artifacts in AI-assisted work.
+* Read [Why We Study](../perspective/why-we-study.md) to connect these operating models with the literacy required to judge AI-generated output.
