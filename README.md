@@ -27,13 +27,13 @@ This is how the idea travels: not through mass persuasion, but through deep-spac
 
 ### Documents
 
-* \[[Ride, Don’t Race](ride-dont-race.md)]
-* \[[AI-Assisted Development Models](ai-assisted-development-models.md)]
+* [Ride, Don’t Race](ride-dont-race.md)
+* [AI-Assisted Development Models](ai-assisted-development-models.md)
 
 ### Links
 
 * GitHub: [@RGJ-sw1123r](https://github.com/RGJ-sw1123r)
-* Published Site: \[[Visit Cosmic Horizon](https://riu-salze-studio.gitbook.io/cosmic-horizon/)]
+* Published Site: [Visit Cosmic Horizon](https://riu-salze-studio.gitbook.io/cosmic-horizon/)
 
 ### License
 
