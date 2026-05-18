@@ -10,7 +10,7 @@ description: >-
 
 Cosmic Horizon is a technical knowledge archive for documenting software structures that can be observed, understood, and refined into engineering insight.
 
-It focuses on structure, constraints, verification, and responsibility in software work shaped by AI.
+It focuses on structure, constraints, verification, recovery, and responsibility in software work shaped by AI.
 
 > “The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.”\
 > — Marcel Proust
