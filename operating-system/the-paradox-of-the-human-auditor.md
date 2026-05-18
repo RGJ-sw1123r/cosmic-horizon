@@ -2,6 +2,8 @@
 description: >-
   An architectural breakdown of automated audit, the limits of manual code
   review, and human governance in AI-assisted verification systems.
+tags:
+  - operating-system
 ---
 
 # The Paradox of the Human Auditor

@@ -3,6 +3,8 @@ description: >-
   A perspective on riding AI through structured instructions, traceability,
   verification, and human responsibility instead of racing against machine
   speed.
+tags:
+  - perspective
 ---
 
 # 🐎 Ride, Don’t Race

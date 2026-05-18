@@ -2,6 +2,8 @@
 description: >-
   A reflection on why study, algorithmic literacy, certificates, coding tests,
   and engineering judgment still matter in the age of generative AI.
+tags:
+  - perspective
 ---
 
 # Why We Study

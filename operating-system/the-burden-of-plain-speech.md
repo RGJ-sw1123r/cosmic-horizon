@@ -2,6 +2,8 @@
 description: >-
   A reflection on prompt ambiguity, plain speech, and how structured
   instructions become reusable artifacts for governing AI-assisted work.
+tags:
+  - operating-system
 ---
 
 # The Burden of Plain Speech

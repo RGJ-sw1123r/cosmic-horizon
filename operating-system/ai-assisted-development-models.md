@@ -2,6 +2,8 @@
 description: >-
   A software engineering methodology for AI-assisted development models that
   make machine-speed work observable, auditable, controllable, and recoverable.
+tags:
+  - operating-system
 ---
 
 # 🛰️ AI-Assisted Development Models
