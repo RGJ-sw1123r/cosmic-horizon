@@ -297,6 +297,16 @@ The goal is not to inherit this exact file blindly.
 
 The critical mission is to define your own boundaries before an autonomous agent defines them for you.
 
+#### Next Coordinates
+
+For a concrete protocol derived from this pattern, see \[protocol] AGENTS.md Blueprint.
+
+Related signal:
+
+Codex Chat Viewer is one practical artifact from this orbit: a local-first viewer for Codex CLI session logs, built to make AI-assisted work easier to inspect, review, document, and revisit after the work is done.
+
+GitHub: [RGJ-sw1123r/codex-chat-viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)
+
 > Personal coordinates guide the traveler.
 >
 > Shared boundaries govern the mission.
@@ -305,4 +315,3 @@ The critical mission is to define your own boundaries before an autonomous agent
 >
 > — Cosmic Horizon
 
-For a concrete protocol derived from this pattern, see [\[protocol\] AGENTS.md Blueprint](protocol-agents.md-blueprint.md).
