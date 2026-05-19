@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🔭 Cosmic Horizon: Start Here](README.md)
+* [🔭 Cosmic Horizon: Start Here (KR)](cosmic-horizon-start-here-kr.md)
 
 ## Perspective
 

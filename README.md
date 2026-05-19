@@ -6,6 +6,8 @@ description: >-
 
 # 🔭 Cosmic Horizon: Start Here
 
+**Language:** English | [한국어](cosmic-horizon-start-here-kr.md)
+
 ## What This Archive Is
 
 Cosmic Horizon is a technical knowledge archive for documenting software structures that can be observed, understood, and refined into engineering insight.
@@ -42,6 +44,7 @@ Some artifacts describe perspective. Some artifacts define operating models. Oth
 * Start with [Ride, Don’t Race](perspective/ride-dont-race.md) if you want the philosophy behind this archive.
 * Read [AI-Assisted Development Models](operating-system/ai-assisted-development-models.md) if you want the operating model.
 * Read [FTL-Bound Agents](operating-system/pattern-ftl-bound-agents/) if you want to design AGENTS.md, CLAUDE.md, or similar agent instruction files as boundary systems for AI-assisted work.
+* Explore [Codex Chat Viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer?utm_source=chatgpt.com) if you want a practical artifact from this orbit: a local-first viewer for Codex CLI session logs, built to inspect, review, document, and revisit AI-assisted work.
 
 ## Links
 
