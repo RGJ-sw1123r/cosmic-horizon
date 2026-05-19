@@ -1,14 +1,16 @@
 ---
 description: >-
-  AI-assisted development is not doctrine. It is a ration: useful, compressed,
-  ituational, and dangerous when mistaken for a complete diet.
+  A navigation log on treating AI-assisted development as a situational tool,
+  while separating Difference from Wrong across engineering, security, and
+  responsibility.
 tags:
   - perspective
 ---
 
 # Space Rations
 
-> Navigation Log
+> AI-assisted development is not doctrine.\
+> It is a ration: useful, compressed, situational, and dangerous when mistaken for a complete diet.
 >
 > **Captain’s Order**\
 > Take only what the mission requires.\
@@ -95,7 +97,7 @@ The problem is not a specific language, a specific framework, or vibe coding its
 
 The problem is the attitude that turns any technology or methodology into the only correct answer.
 
-### Security-Driven Starvation: Engineering Starvation
+### Security-Driven Starvation
 
 Security is not a lightweight concern.
 
@@ -127,33 +129,6 @@ Blocking is easy.\
 Design is hard.
 
 Engineering lives on the hard side.
-
-### Vibe Coding Is Not the Answer
-
-High-speed development with AI is not an absolute gospel.
-
-It is one method among many that an engineer may choose. It can be powerful in the right situation, but it cannot always replace the entire development system.
-
-An unfamiliar technical system is not wrong simply because it is unfamiliar.
-
-Conversely, the human process of building structure from the ground up is not primitive simply because AI can generate an implementation in seconds.
-
-AI-assisted development is not the answer.\
-It is not a heresy that must be forbidden, either.
-
-It is compressed.\
-It can be taken out quickly.\
-It can help survival in specific situations.
-
-But the moment it is mistaken for a complete development system, it becomes dangerous.
-
-Without the basic physical strength of architectural literacy, system invariants, data flow, responsibility boundaries, and verifiability, AI-centered development becomes malnutrition, not productivity.
-
-There is no absolute doctrine in engineering.
-
-There are only tool packages selected according to the situation, the weight of risk, the capability of the team, and the state of the system.
-
-AI-centered development is also not a truth to worship.
 
 It is one approach to select and control according to situation and risk.
 
