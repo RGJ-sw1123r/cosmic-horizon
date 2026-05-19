@@ -4,7 +4,7 @@ description: 소프트웨어 구조, AI 활용 개발, 자동화 검증, 엔지�
 
 # 🔭 Cosmic Horizon: Start Here (KR)
 
-**언어:** [English](./) | 한국어
+**언어 :** [English](./) | 한국어
 
 ## Cosmic Horizon 한국어 안내
 
