@@ -16,7 +16,7 @@ tags:
 > Take only what the mission requires.\
 > Do not mistake rations for the whole diet.
 
-### Different is not Wrong
+## Different is not Wrong
 
 Wars happen more often between those who believe they share the same root than between completely separate worlds.
 
@@ -74,7 +74,7 @@ Wrong is a risk to control.
 
 When this distinction collapses, engineering stops being judgment and becomes an inquisition.
 
-### Two Arrogances, Two Isolations
+## Two Arrogances, Two Isolations
 
 The development market in the age of AI is being torn into a strange set of extremes.
 
@@ -97,7 +97,7 @@ The problem is not a specific language, a specific framework, or vibe coding its
 
 The problem is the attitude that turns any technology or methodology into the only correct answer.
 
-### Security-Driven Starvation
+## Security-Driven Starvation
 
 Security is not a lightweight concern.
 
@@ -130,7 +130,7 @@ Design is hard.
 
 Engineering lives on the hard side.
 
-### Neither Gospel Nor Heresy
+## Neither Gospel Nor Heresy
 
 High-speed development with AI is not an absolute gospel.
 
@@ -156,7 +156,7 @@ AI-centered development is also not a truth to worship.
 
 It is one approach to select and control according to situation and risk.
 
-### What Is Truly Wrong
+## What Is Truly Wrong
 
 Then what, in this age, should we firmly call Wrong?
 
@@ -188,7 +188,7 @@ Wrong is a signal of collapse.
 Difference must be accepted and coordinated.\
 Wrong must be audited and controlled.
 
-### The Flexibility of the One Holding the Reins
+## The Flexibility of the One Holding the Reins
 
 A true engineer does not stake everything on style and judge another person’s method as wrong.
 
@@ -227,7 +227,13 @@ Cosmic Horizon is not a shout meant to persuade everyone.
 
 It is a coordinate left in the distance.
 
-### Navigation Log — day 15102: Captain’s Doctrine
+## Related Coordinates
+
+* Read [Ride, Don’t Race](ride-dont-race.md) to return to the core navigation philosophy behind Cosmic Horizon.
+* Read [AI-Assisted Development Models](../operating-system/ai-assisted-development-models.md) to move from this perspective into an operating model for AI-assisted development.
+* Read [FTL-Bound Agents](../operating-system/pattern-ftl-bound-agents/) to see how bounded, observable, and non-doctrinal AI-assisted work becomes an agent instruction pattern.
+
+## Navigation Log — day 15102: Captain’s Doctrine
 
 Refusing to turn technology into doctrine does not mean drifting without any rule.
 
@@ -251,6 +257,6 @@ It is simply the coordinate that brought this ship here.
 
 > Different opens the map.\
 > Wrong breaks the ship.\
-> Coordinates remain for those who can read the signal.
+> **Coordinates remain for those who can read the signal.**
 >
 > — Cosmic Horizon
