@@ -6,7 +6,7 @@ description: >-
 
 # 🔭 Cosmic Horizon: Start Here
 
-**Language :** English | [한국어](cosmic-horizon-start-here-kr.md)
+**Language:** English | [한국어](cosmic-horizon-start-here-kr.md)
 
 ## What This Archive Is
 
