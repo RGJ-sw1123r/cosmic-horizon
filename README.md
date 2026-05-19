@@ -29,7 +29,7 @@ It is designed to leave artifacts with clear coordinates.
 
 Like the Voyager Golden Record drifting through the deep cosmic ocean, this archive does not shout at the crowd.
 
-It waits to be found by those who understand its signal.
+It waits to be discovered by those who can read its signal.
 
 This is how the idea travels: not through mass persuasion, but through deep-space transmission.
 
