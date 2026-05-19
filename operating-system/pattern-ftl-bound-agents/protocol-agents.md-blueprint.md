@@ -47,7 +47,7 @@ One-line rule:
 
 Before acting, choose one route.
 
-### Fast Path
+### Fast Path — Low Risk
 
 Use the fast path only when all conditions are true:
 
@@ -63,7 +63,7 @@ Fast path:
 
 If observation shows that any condition is false, switch to the default path.
 
-### Default Path
+### Default Path — Standard Risk
 
 Use the default path for implementation work, structural changes, refactoring, behavior changes, boundary changes, or unclear work.
 
@@ -71,7 +71,7 @@ Default path:
 
     Observe → Ground → Declare → Execute → Report
 
-### Stop Path
+### Stop Path — High Risk / Ambiguity
 
 Stop before execution when any condition is true:
 
@@ -250,6 +250,7 @@ Execution rules:
 - do not rename unrelated code
 - do not replace existing patterns with preferred patterns unless requested
 - do not silently remove user intent
+- do not leave commented-out old code or temporary explanatory comments in the final code unless requested
 
 If execution reveals that the task is broader or riskier than declared, stop and report before continuing.
 
