@@ -297,9 +297,9 @@ The goal is not to inherit this exact file blindly.
 
 The critical mission is to define your own boundaries before an autonomous agent defines them for you.
 
-#### Next Coordinates
+### Next Coordinates
 
-For a concrete protocol derived from this pattern, see \[protocol] AGENTS.md Blueprint.
+For a concrete protocol derived from this pattern, see [\[protocol\] AGENTS.md Blueprint](protocol-agents.md-blueprint.md).
 
 Related signal:
 
