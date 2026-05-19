@@ -2,6 +2,8 @@
 description: >-
   A protocol blueprint for turning AGENTS.md into a boundary system that routes
   AI-assisted work, reduces drift, and preserves human responsibility.
+tags:
+  - operating-system
 ---
 
 # \[protocol] AGENTS.md Blueprint
@@ -10,7 +12,7 @@ This is not a universal AGENTS.md.
 
 **This is a blueprint, not a doctrine.**
 
-It is a reference implementation derived from the FTL-Bound Agents pattern.
+It is a reference implementation derived from the [FTL-Bound Agents](./) pattern.
 
 Copy it, adapt it, or reject it.
 

@@ -326,6 +326,8 @@ The human operator begins to govern a larger meta-system by combining these veri
 
 The brutal discipline of pursuing plain speech eventually yields durable engineering assets.
 
+The next coordinate of this idea appears in [FTL-Bound Agents](pattern-ftl-bound-agents/): a pattern for turning reusable instruction assets into boundary systems for AI-assisted work.
+
 ## Conclusion
 
 In the age of AI, an instruction is not merely a list of commands.

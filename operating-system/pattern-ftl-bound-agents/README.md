@@ -1,8 +1,10 @@
 ---
 description: Mapping Context Boundaries and Safe-Disengagement Rules for AI Agents
+tags:
+  - operating-system
 ---
 
-# \[reference] FTL-Bound Agents
+# \[pattern] FTL-Bound Agents
 
 > Survival Log from the Drift
 
@@ -302,3 +304,5 @@ The critical mission is to define your own boundaries before an autonomous agent
 > Survived paths become maps for the next signal.
 >
 > — Cosmic Horizon
+
+For a concrete protocol derived from this pattern, see [\[protocol\] AGENTS.md Blueprint](protocol-agents.md-blueprint.md).
