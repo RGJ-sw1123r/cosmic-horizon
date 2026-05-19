@@ -54,4 +54,4 @@ AGENTS.md, CLAUDE.md 같은 agent instruction file을 작업 경계 시스템으
 
 #### [Codex Chat Viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)
 
-AI 작업 로그를 관측·검토·기록하기 위해 만든 실제 도구입니다.
+AI 작업 로그를 관측·검토·기록하기 위해 만든 실제 도구입니다. (openAI)

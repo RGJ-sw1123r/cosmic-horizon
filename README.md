@@ -31,7 +31,7 @@ Like the Voyager Golden Record drifting through the deep cosmic ocean, this arch
 
 It waits to be discovered by those who can read its signal.
 
-This is how the idea travels: not through mass persuasion, but through deep-space transmission.
+This is how the signal travels: not through mass persuasion, but through deep-space transmission.
 
 ## How to Read This Archive
 
