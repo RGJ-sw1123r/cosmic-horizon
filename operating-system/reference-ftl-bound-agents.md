@@ -4,8 +4,6 @@ description: Mapping Context Boundaries and Safe-Disengagement Rules for AI Agen
 
 # \[reference] FTL-Bound Agents
 
-
-
 > Survival Log from the Drift
 
 ### Current Coordinates
@@ -108,9 +106,9 @@ The wormhole may change by tool.
 
 The map must remain observable.
 
-Entry points are ephemeral; boundaries are invariant.
-
-— Cosmic Horizon
+> Entry points are ephemeral; boundaries are invariant.
+>
+> — Cosmic Horizon
 
 ### Chart Routes, Not Advice
 
