@@ -130,8 +130,6 @@ Design is hard.
 
 Engineering lives on the hard side.
 
-It is one approach to select and control according to situation and risk.
-
 ### Neither Gospel Nor Heresy
 
 High-speed development with AI is not an absolute gospel.

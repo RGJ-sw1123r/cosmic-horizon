@@ -299,6 +299,8 @@ The critical mission is to define your own boundaries before an autonomous agent
 
 ### Next Coordinates
 
+For the deeper perspective behind bounded, observable, and non-doctrinal AI-assisted work, read [Space Rations](../../perspective/space-rations.md).
+
 For a concrete protocol derived from this pattern, see [\[protocol\] AGENTS.md Blueprint](protocol-agents.md-blueprint.md).
 
 Related signal:
