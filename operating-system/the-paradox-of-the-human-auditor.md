@@ -354,3 +354,4 @@ It is a meta-layer perspective that defines the conditions of verification, and 
 * Read [AI-Assisted Development Models](ai-assisted-development-models.md) to place this audit problem inside a broader operating model for AI-assisted development.
 * Read [The Burden of Plain Speech](the-burden-of-plain-speech.md) to explore how clearer instructions reduce ambiguity before verification begins.
 * Read [Why We Study](../perspective/why-we-study.md) to connect human audit with the literacy required to judge AI-generated output.
+* Read The [Vanishing Senior](../perspective/the-vanishing-senior.md) to explore how AI changes the authority and responsibility of human judgment.

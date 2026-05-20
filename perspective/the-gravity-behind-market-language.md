@@ -295,6 +295,7 @@ It is the one who can read why that label appeared, what gravity produced it, an
 ## Related Coordinates
 
 * Read [Ride, Don’t Race](ride-dont-race.md) to return to the core perspective behind this archive.
+* Read [The Vanishing Senior](the-vanishing-senior.md) to examine how AI changes the gravity of seniority, authority, and verification.
 * Read [Why We Study](why-we-study.md) to explore why learning still matters when AI can generate answers quickly.
 * Read [Space Rations](space-rations.md) to examine the difference between Different and Wrong in AI-assisted engineering.
 * Read [AI-Assisted Development Models](../operating-system/ai-assisted-development-models.md) to move from personal perspective into an operating model for AI-assisted development.

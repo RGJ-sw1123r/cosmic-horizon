@@ -7,6 +7,7 @@
 
 * [🐎 Ride, Don’t Race](perspective/ride-dont-race.md)
 * [The Gravity Behind Market Language](perspective/the-gravity-behind-market-language.md)
+* [The Vanishing Senior](perspective/the-vanishing-senior.md)
 * [Why We Study](perspective/why-we-study.md)
 * [Space Rations](perspective/space-rations.md)
 
