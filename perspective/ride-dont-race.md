@@ -232,7 +232,7 @@ Cosmic Horizon is a navigation log for looking back on our work, tracing the ori
 
 ## Related Coordinates
 
-* Read [Reality and Ideal](reality-and-ideal.md) to explore the tension between market reality and personal engineering ideals.
+* Read [The Gravity Behind Market Language](the-gravity-behind-market-language.md) to examine how market labels should be translated into structure, cost, risk, and responsibility.
 * Read [Why We Study](why-we-study.md) to understand why learning still matters when AI can generate answers quickly.
 * Read [AI-Assisted Development Models](../operating-system/ai-assisted-development-models.md) to move from perspective into an operating model for AI-assisted development.
 * Read [Space Rations](space-rations.md) if you want the deeper perspective behind Difference, Wrong, and responsibility in AI-assisted engineering.

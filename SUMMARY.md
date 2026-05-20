@@ -6,7 +6,7 @@
 ## Perspective
 
 * [🐎 Ride, Don’t Race](perspective/ride-dont-race.md)
-* [Reality and Ideal](perspective/reality-and-ideal.md)
+* [The Gravity Behind Market Language](perspective/the-gravity-behind-market-language.md)
 * [Why We Study](perspective/why-we-study.md)
 * [Space Rations](perspective/space-rations.md)
 

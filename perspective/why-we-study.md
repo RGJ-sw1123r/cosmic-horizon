@@ -791,5 +791,5 @@ We study so that, even when riding the machine, we do not lose our direction.
 ## Related Coordinates
 
 * Read [Ride, Don’t Race](ride-dont-race.md) to return to the core perspective behind working with AI rather than racing against it.
-* Read [Reality and Ideal](reality-and-ideal.md) to explore how market pressure and personal philosophy shape the way developers prove their value.
+* Read The [Gravity Behind Market Language](the-gravity-behind-market-language.md) to explore how engineers translate market labels into structure, cost, risk, and responsibility.
 * Read [The Paradox of the Human Auditor](../operating-system/the-paradox-of-the-human-auditor.md) to examine why human judgment alone is not enough without structured verification.
