@@ -103,7 +103,7 @@ Only those who can stand under the bright light of constant verification, hold t
 
 ## Related Coordinates
 
-* Read The [Gravity Behind Market Language](the-gravity-behind-market-language.md) to understand how to translate shallow technology labels into structure, cost, risk, and responsibility.
+* Read [The Gravity Behind Market Language](the-gravity-behind-market-language.md) to understand how to translate shallow technology labels into structure, cost, risk, and responsibility.
 * Read [Why We Study](why-we-study.md) to explore why human learning and context retention matter even more when verification tools are ubiquitous.
 * Read [The Paradox of the Human Auditor](../operating-system/the-paradox-of-the-human-auditor.md) to examine the evolving role of human judgment in an automated world.
 * Read [Space Rations](space-rations.md) to understand how to distinguish between a pattern that is genuinely wrong versus one that is simply different.
