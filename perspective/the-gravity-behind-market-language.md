@@ -82,6 +82,11 @@ The market says the name of the technology.
 
 The engineer reads the structure that made the name necessary.
 
+> Some eat the apple.\
+> Some observe the fall.\
+> Both survive.\
+> Only one turns gravity into coordinates.
+
 ## The Danger of Market Realism
 
 A developer must read the market.
