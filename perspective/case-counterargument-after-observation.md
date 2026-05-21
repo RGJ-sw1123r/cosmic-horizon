@@ -145,6 +145,6 @@ Counterargument comes after.
 ## Related Coordinates
 
 * Read [Space Rations](space-rations.md) to understand how to distinguish between Different and Wrong.
-* Read [Why We Study ](why-we-study.md)to explore why literacy and auditability matter when AI can answer faster than humans.
+* Read [Why We Study](why-we-study.md) to explore why literacy and auditability matter when AI can answer faster than humans.
 * Read [The Vanishing Senior](the-vanishing-senior.md) to examine how judgment must survive contact with critique.
 * Read [AI-Assisted Development Models](../operating-system/ai-assisted-development-models.md) to understand how observation, grounding, execution, and reporting form an operating structure.

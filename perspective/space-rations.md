@@ -229,7 +229,7 @@ It is a coordinate left in the distance.
 
 ## Related Coordinates
 
-* Read [Counterargument After Observation to see](case-counterargument-after-observation.md) how the boundary between Different and Wrong extends from AI responses into human feedback, disagreement, and leadership.
+* Read [Counterargument After Observation](case-counterargument-after-observation.md) to see how the boundary between Different and Wrong extends from AI responses into human feedback, disagreement, and leadership.
 * Read [Ride, Don’t Race](ride-dont-race.md) to return to the core navigation philosophy behind Cosmic Horizon.
 * Read [AI-Assisted Development Models](../operating-system/ai-assisted-development-models.md) to move from this perspective into an operating model for AI-assisted development.
 * Read [FTL-Bound Agents](../operating-system/pattern-ftl-bound-agents/) to see how bounded, observable, and non-doctrinal AI-assisted work becomes an agent instruction pattern.
