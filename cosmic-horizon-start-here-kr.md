@@ -1,72 +1,70 @@
 ---
-description: 소프트웨어 구조, AI 활용 개발, 자동화 검증, 엔지니어링 책임을 중심으로 정리한 기술 지식 아카이브입니다.
+description: AI 활용 개발, 인간의 판단, 관측 가능한 엔지니어링 작업을 다루는 에세이 기반 엔지니어링 아카이브입니다.
 ---
 
 # 🔭 Cosmic Horizon: Start Here (KR)
 
 **언어:** [English](./) | 한국어
 
-## Cosmic Horizon 한국어 안내
+## 이 아카이브는 무엇인가
 
-Cosmic Horizon은 AI 시대의 개발을 단순히 “코드를 더 빨리 만드는 일”로 보지 않습니다.
+Cosmic Horizon은 소프트웨어, AI-assisted work, 인간의 판단에 대한 관측을 이해하고, 다듬고, 다시 돌아올 수 있는 좌표로 바꾸기 위한 에세이 기반 엔지니어링 아카이브입니다.
 
-AI가 구현 속도를 크게 끌어올린 시대에는 개발자의 역할도 달라져야 합니다. 중요한 것은 더 많은 코드를 직접 치는 능력만이 아니라, 작업의 경계를 정하고, AI가 만든 결과를 검증하고, 책임질 수 있는 구조를 남기는 능력입니다.
+이 아카이브는 AI가 개발 속도를 바꾸는 시대에, 소프트웨어 작업 안에서 구조, 제약, 검증, 복귀, 책임을 어떻게 다룰 것인지에 집중합니다.
 
-이 아카이브는 그런 관점에서 소프트웨어 구조, AI 활용 개발, 자동화 검증, 작업 지시, 책임 경계를 정리한 개인 기술 아카이브입니다.
+> “진정한 발견의 항해는 새로운 풍경을 찾는 것이 아니라, 새로운 눈을 갖는 데 있다.”\
+> — Marcel Proust로 널리 알려진 문장
 
-여기서 말하는 Cosmic Horizon은 제품이나 방법론의 이름이라기보다, AI-assisted development를 다루기 위한 하나의 사고 프레임입니다. 관측하고, 구조를 이해하고, 경계를 선언한 뒤, 검증 가능한 방식으로 작업을 진행하려는 기준을 담고 있습니다.
+## 누구를 위한 문서인가
 
-## 이 아카이브가 보여주는 것
-
-* AI를 단순 코드 생성 도구가 아니라, 개발 흐름을 구조화하는 도구로 다루는 관점
-* AGENTS.md / CLAUDE.md 같은 지시 파일을 프롬프트가 아니라 작업 경계로 보는 기준
-* Observe → Ground → Declare → Execute → Report 형태의 AI 작업 통제 루프
-* AI가 만든 결과를 검증하고 책임질 수 있도록 남기는 기록과 검증 기준
-* 실제 프로젝트와 연결 가능한 개발 철학, 작업 방식, 문서화 기준
-
-**Cosmic Horizon**은 개념을 하나의 좌표계로 제시합니다.
-
-새로운 기술 스택이나 도메인을 배울 때 그 세계의 언어를 익히듯, 이 아카이브에도 반복해서 사용하는 표현들이 있습니다.
-
-* **Coordinates**: 판단 기준과 관측된 위치를 남기는 좌표
-* **Signal**: 필요한 사람이 나중에 발견할 수 있도록 남겨둔 기록
-* **Orbit**: 작업이 벗어나지 않아야 할 궤도와 경계
-* **Boundary**: AI와 사람이 넘지 말아야 할 작업 경계
-* **Observation**: 실행보다 먼저 맥락, 구조, 경계, 위험을 관측하는 기본 행위
-* **Verification**: 결과를 완료라고 말하기 전에 확인해야 할 검증 상태
-* **Responsibility**: AI를 사용해도 인간에게 남는 판단과 책임
-* **Audit**: 결과와 과정이 신뢰 가능한지 다시 확인하는 감사 행위
-
-이 표현들은 AI-assisted development를 관측, 경계, 검증, 책임의 문제로 바라보기 위한 이 아카이브의 기본 문법입니다.
+이 아카이브는 AI와 함께 일하되, 구조와 판단과 책임을 포기하지 않으려는 개발자, 기술 리더, 그리고 아키텍처를 고민하는 사람들을 위한 문서입니다.\
+동시에 내 사고의 속도가 관측보다 앞서 나갈 때마다, 다시 원점을 찾기 위한 나만의 이정표이기도 합니다.
 
 ## Deep-Space Transmission
 
-Cosmic Horizon은 대중을 설득하기 위해 만들어진 문서가 아닙니다.
+Cosmic Horizon은 대중을 설득하기 위해 존재하는 아카이브가 아닙니다.
 
-이 아카이브는 명확한 좌표를 가진 artifact를 남기기 위해 만들어졌습니다.
+이 아카이브는 명확한 좌표를 가진 artifact를 남기기 위해 존재합니다.
 
-Voyager Golden Record가 깊은 우주 바다를 떠돌듯, Cosmic Horizon은 이 신호를 이해하는 사람이 언젠가 발견하기를 기다립니다.
+Voyager Golden Record가 깊은 우주 바다를 떠돌듯, Cosmic Horizon은 군중에게 소리치지 않습니다.
 
-이 아이디어는 대중 설득을 통해 퍼지는 것이 아니라, deep-space transmission처럼 먼 곳으로 전송됩니다.
+이 signal을 읽을 수 있는 사람이 언젠가 발견하기를 기다립니다.
 
-## 추천 읽기 순서
+그 signal은 대중 설득이 아니라, deep-space transmission의 방식으로 이동합니다.
 
-#### [Ride, Don’t Race](perspective/ride-dont-race.md)
+## 이 아카이브를 읽는 법
 
-AI와 속도 경쟁을 하는 대신, AI를 타고 방향과 책임을 통제한다는 기본 관점입니다.
+이 아카이브는 에세이 모음처럼 읽을 수도 있습니다.\
+하지만 그보다 하나의 **지도(map)**&#xB85C; 이해하는 것이 더 정확합니다.
 
-#### [Space Rations](perspective/space-rations.md)
+어떤 기록은 관점을 제시하고, 어떤 기록은 운영 모델을 정의합니다.\
+또 다른 기록은 현장의 노트, 템플릿, 재사용 가능한 record로 작동합니다.
 
-AI-assisted development를 절대 교리도 금지도 아닌 상황별 도구로 다루는 관점입니다.
+## 이 아카이브는 왜 쓰이는가
 
-#### [FTL-Bound Agents](operating-system/pattern-ftl-bound-agents/)
+문서화는 생각이 끝난 뒤에 남는 잔해가 아닙니다.\
+낯선 signal의 관측을 단단한 좌표로 바꾸는 행위입니다.
 
-AGENTS.md, CLAUDE.md 같은 agent instruction file을 작업 경계 시스템으로 해석한 문서입니다.
+인사이트가 그저 한 번 스쳐 지나가는 반응으로 사라지지 않도록 이 아카이브를 씁니다.\
+무언가를 관측하면 이해하려 노력하고, 이해한 것은 다시 돌아올 수 있는 형태로 선언해 두려는 것입니다.
 
-#### [AGENTS.md Blueprint](operating-system/pattern-ftl-bound-agents/protocol-agents.md-blueprint.md)
+이 아카이브로 원칙대로 완벽하게 살아가고 있음을 증명하려는 게 아닙니다.\
+오히려 그러지 못하고 있기 때문에 기록하는 것입니다.
 
-실제 개발 환경에서 참고할 수 있는 AI 작업 지시 프로토콜 예시입니다.
+판단이 너무 빨라질 때, 언어가 모호해질 때, 혹은 AI가 책임보다 빠르게 작업을 가속할 때, 이 아카이브는 언제든 원점으로 되돌아오기 위한 이정표가 됩니다.
 
-#### [Codex Chat Viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)
+## 이 아카이브가 움직이는 방식
 
-AI 작업 로그를 관측·검토·기록하기 위해 만든 실제 도구입니다. (openAI)
+* Ride, Don’t Race부터 읽으면 이 아카이브의 기본 철학을 볼 수 있습니다.
+* AI-Assisted Development Models를 읽으면 AI-assisted work를 다루는 운영 모델을 이해할 수 있습니다.
+* FTL-Bound Agents를 읽으면 AGENTS.md, CLAUDE.md 같은 agent instruction file을 AI-assisted work의 boundary system으로 설계하는 관점을 볼 수 있습니다.
+* [Codex Chat Viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)를 보면 이 orbit에서 나온 실제 artifact를 확인할 수 있습니다. Codex CLI 세션 로그를 관측하고, 검토하고, 문서화하고, 다시 돌아보기 위해 만든 local-first viewer입니다.
+
+## Links
+
+* GitHub: [@RGJ-sw1123r](https://github.com/RGJ-sw1123r)
+* Published Site: [Visit Cosmic Horizon](https://riu-salze-studio.gitbook.io/cosmic-horizon/)
+
+## License
+
+이 저작물은 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 라이선스 하에 이용할 수 있습니다.

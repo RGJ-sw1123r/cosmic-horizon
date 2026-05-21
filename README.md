@@ -15,17 +15,18 @@ Cosmic Horizon is an essay-driven engineering archive for turning observations a
 It focuses on structure, constraints, verification, recovery, and responsibility in software work shaped by AI.
 
 > “The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.”\
-> — Marcel Proust
+> — Often attributed to Marcel Proust
 
 ## Who This Is For
 
-This archive is for developers, technical leads, and builders who want to work with AI without giving up structure, judgment, or responsibility.
+This archive is for developers, technical leads, and those who care about architecture while working with AI without giving up structure, judgment, or responsibility.\
+It is also my own landmark for returning to origin whenever the speed of my thinking moves ahead of observation.
 
 ## Deep-Space Transmission
 
-Cosmic Horizon is not designed to persuade the masses.
+Cosmic Horizon is not an archive built to persuade the masses.
 
-It is designed to leave artifacts with clear coordinates.
+It exists to leave artifacts with clear coordinates.
 
 Like the Voyager Golden Record drifting through the deep cosmic ocean, this archive does not shout at the crowd.
 
@@ -35,23 +36,24 @@ This is how the signal travels: not through mass persuasion, but through deep-sp
 
 ## How to Read This Archive
 
-You can read this archive as a set of essays, but it is better understood as a map.
+You may read this archive as a set of essays.\
+But it is more accurately understood as a **map**.
 
-Some artifacts describe perspective. Some define operating models. Others serve as field notes, templates, and reusable records.
+Some entries present perspective. Some define operating models. Others serve as field notes, templates, and reusable records.
 
 ## Why This Archive Is Written
 
-Documentation is not what remains after thought.\
-It is how observation becomes a coordinate.
+Documentation is not debris left after thought.\
+It is the act of turning the observation of an unfamiliar signal into a firm coordinate.
 
-This archive exists because insight should not disappear as a passing reaction.\
+I write this archive so that insight does not disappear as a passing reaction.\
 When I observe something, I try to understand it.\
 When I understand it, I try to declare it in a form I can return to.
 
-I do not write this archive to prove that I already live perfectly by its principles.\
-I write it because I do not.
+This archive is not written to prove that I live perfectly by its principles.\
+It is written because I do not.
 
-It is a set of coordinates to return to when judgment moves too fast, language becomes vague, or AI accelerates work faster than responsibility can follow.
+When judgment moves too fast, when language becomes vague, or when AI accelerates work faster than responsibility can follow, this archive becomes a landmark for returning to origin.
 
 ## How This Archive Moves
 
