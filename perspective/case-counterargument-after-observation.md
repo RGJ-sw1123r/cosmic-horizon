@@ -30,7 +30,7 @@ At this speed, the object should appear in approximately forty minutes.”
 
 Perhaps those who warned me about the danger of this voyage were right.
 
-I handed my archive to an AI and asked for its impression.
+I asked for guidance on this voyage.
 
 What came back was praise.
 
