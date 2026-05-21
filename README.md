@@ -1,7 +1,7 @@
 ---
 description: >-
-  An engineering knowledge archive for software architecture, AI-assisted
-  development, automated verification, and engineering responsibility.
+  An essay-driven engineering archive on AI-assisted development, human
+  judgment, and observable engineering work.
 ---
 
 # 🔭 Cosmic Horizon: Start Here
@@ -10,7 +10,7 @@ description: >-
 
 ## What This Archive Is
 
-Cosmic Horizon is a technical knowledge archive for documenting software structures that can be observed, understood, and refined into engineering insight.
+Cosmic Horizon is an essay-driven engineering archive for turning observations about software, AI-assisted work, and human judgment into coordinates that can be understood, refined, and returned to.
 
 It focuses on structure, constraints, verification, recovery, and responsibility in software work shaped by AI.
 
@@ -37,7 +37,7 @@ This is how the signal travels: not through mass persuasion, but through deep-sp
 
 You can read this archive as a set of essays, but it is better understood as a map.
 
-Some artifacts describe perspective. Some artifacts define operating models. Others will grow into field notes, templates, and reusable records.
+Some artifacts describe perspective. Some define operating models. Others serve as field notes, templates, and reusable records.
 
 ## Why This Archive Is Written
 
