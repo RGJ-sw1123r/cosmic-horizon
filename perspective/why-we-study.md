@@ -791,6 +791,7 @@ We study so that, even when riding the machine, we do not lose our direction.
 ## Related Coordinates
 
 * Read [Ride, Don’t Race](ride-dont-race.md) to return to the core perspective behind working with AI rather than racing against it.
+* Read [Counterargument After Observation](case-counterargument-after-observation.md) to examine why fast judgment must still return to observation before it becomes critique.
 * Read [The Gravity Behind Market Language](the-gravity-behind-market-language.md) to explore how engineers translate market labels into structure, cost, risk, and responsibility.
 * Read [The Vanishing Senior](the-vanishing-senior.md) to explore how AI changes the relationship between learning, verification, and senior judgment.
 * Read [The Paradox of the Human Auditor](../operating-system/the-paradox-of-the-human-auditor.md) to examine why human judgment alone is not enough without structured verification.
