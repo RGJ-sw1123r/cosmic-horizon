@@ -188,7 +188,8 @@ Who owns the boundary?\
 Who explains the behavior when it fails?\
 Who decides when automation must stop?
 
-Only after this translation does market language become engineering material.
+Only after this translation does market language become engineering material.\
+Until then, it remains raw ore, not yet refined into something engineers can build with.
 
 Before that, it is only vocabulary.
 
