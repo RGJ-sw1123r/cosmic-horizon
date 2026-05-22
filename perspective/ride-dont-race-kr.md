@@ -227,7 +227,7 @@ Cosmic Horizon은 우리가 걸어온 작업을 되돌아보고, 문제의 기�
 >
 > — Cosmic Horizon
 
-### 이웃 좌표계
+## 이웃 좌표계
 
 * [The Gravity Behind Market Language (KR)](the-gravity-behind-market-language-kr.md)를 읽고, 시장의 언어를 어떻게 구조, 비용, 위험, 그리고 책임이라는 구체적인 언어로 해석하고 녹여내야 하는지 살펴봅니다.
 * [Why We Study](why-we-study.md)를 읽고, AI가 정답을 순식간에 뱉어내는 시대에도, 왜 인간의 배움이 여전히 본질적인 가치를 갖는지 이해합니다.
