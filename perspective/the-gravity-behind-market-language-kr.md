@@ -6,7 +6,7 @@ tags:
 
 # The Gravity Behind Market Language (KR)
 
-> 관측 로그
+> 캘리브레이션 로그
 
 ## 현재 좌표계
 
