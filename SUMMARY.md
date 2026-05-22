@@ -6,6 +6,7 @@
 ## Perspective
 
 * [🐎 Ride, Don’t Race](perspective/ride-dont-race.md)
+* [🐎 Ride, Don’t Race (KR)](perspective/ride-dont-race-kr.md)
 * [The Gravity Behind Market Language](perspective/the-gravity-behind-market-language.md)
 * [The Vanishing Senior](perspective/the-vanishing-senior.md)
 * [Why We Study](perspective/why-we-study.md)
