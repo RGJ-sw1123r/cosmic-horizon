@@ -32,7 +32,7 @@ Where is the capital flowing?
 The other is the pressure of ideals.
 
 How do I actually want to work?\
-What kind of structure do I believe is a good structure?\
+What do I consider a good structure?\
 What should be documented and recorded?\
 How far should automation go, and where must human responsibility begin?\
 Is a developer merely a producer, or someone who declares structure?
@@ -189,8 +189,6 @@ Who decides when automation must stop?
 
 Only after this translation does market language become engineering material.\
 Until then, it remains raw ore, not yet refined into something engineers can build with.
-
-Before that, it is only vocabulary.
 
 This is why a developer should neither blindly follow the market nor retreat into private ideals.
 
