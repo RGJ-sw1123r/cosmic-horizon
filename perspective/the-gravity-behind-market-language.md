@@ -35,7 +35,7 @@ How do I actually want to work?\
 What do I consider a good structure?\
 What should be documented and recorded?\
 How far should automation go, and where must human responsibility begin?\
-Is a developer merely a producer, or someone who declares structure?
+Is a developer merely a coder, or someone who declares structure?
 
 These two pressures collide.
 
@@ -95,7 +95,7 @@ It is isolation.
 
 The market tells us what companies are afraid of, what they are willing to pay for, what they cannot solve internally, and what language they currently use to describe value.
 
-A developer who cannot speak any market language may have good taste, but no channel through which that taste can be recognized.
+A developer who cannot speak any market language may have good instincts, but no channel through which those instincts can be recognized.
 
 Reality matters.
 
@@ -111,9 +111,9 @@ The market often speaks before it understands itself.
 It may demand AI without knowing what work should be automated.\
 It may demand MSA without understanding operational overhead.\
 It may demand full-stack developers while actually needing someone who can translate unclear business flow into stable system boundaries.\
-It may demand productivity while ignoring the verification cost created by fast output.
+It may demand productivity while ignoring the verification debt that fast output leaves behind.
 
-If developers accept the label as reality, they become flattened.
+If developers accept the label as reality, they stop interpreting problems and become components of market demand.
 
 They stop asking what problem the technology is solving.\
 They stop asking where the cost moved.\
@@ -137,7 +137,7 @@ A developer may protect their own ideals so strongly that those ideals stop touc
 A private standard no one can read.\
 A vocabulary no team can use.\
 A structure that reduces no cost.\
-A document that prevents no confusion.\
+A document that clarifies nothing.\
 A principle that never reaches a working system.
 
 These do not survive for long.
