@@ -82,10 +82,9 @@ The market says the name of the technology.
 
 The engineer reads the structure that made the name necessary.
 
-> Some eat the apple.\
-> Some observe the fall.\
-> Both survive.\
-> Only one turns gravity into coordinates.
+> Some eat the fallen apple.\
+> Some observe the phenomenon behind its fall.\
+> Faced with the same apple, only the latter turns gravity into coordinates.
 
 ## The Danger of Market Realism
 
