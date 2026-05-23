@@ -55,7 +55,7 @@ And now, software engineering is facing its own AlphaGo moment.
 
 ## The Junior Armed With AI
 
-Today, junior developers no longer need to wait until they have accumulated enough experience to examine a senior's technical judgment with something close to an audit. Their IDE keeps a powerful LLM on standby.
+Today, junior developers no longer need to wait until they have accumulated enough experience to examine a senior's technical judgment almost as if conducting an audit. Their IDE keeps a powerful LLM on standby.
 
 When a senior declares, "We shouldn't touch this structure," or "The moment we split this boundary, it will create a bottleneck," the junior no longer has to lean on vague trust alone. They can feed system boundaries, past change history, and the senior's stated reasoning directly into AI and ask:
 
@@ -85,7 +85,7 @@ When a junior brings AI as a weapon and places verification results and countera
 
 They struggle desperately to protect the childish fantasy of their own "infallibility"—a fantasy an always-on verification system no longer permits.
 
-But a true senior, an architect who understands the gravity of verification acting upon them, willingly accepts this verification and audit.
+But a true senior, an architect who understands the gravity of verification acting upon them, willingly welcomes this verification and audit.
 
 They know in their bones that engineering is not merely about serving as a human compiler that produces syntactically correct code. To them, even a sharp critique from AI is just another useful signal for strengthening the system.
 
@@ -115,7 +115,7 @@ It is the ability to read hidden field context, bear the cost of failure, and re
 
 The old seniors who ruled by leaning on the thin mysticism of "distance from verification" will vanish like smoke from the market.
 
-Only true architects can lead the next great voyage: those who can stand under the cold, bright light of constant verification, take the reins of questions and counterarguments as they flood in, and turn the rough gravity before them into clear coordinates.
+Only true architects can lead the next great voyage: those who can stand under the cold, bright light of constant verification, take the reins of the flood of questions and counterarguments in both hands, and turn the rough gravity before them into clear coordinates.
 
 ## Related Coordinates
 

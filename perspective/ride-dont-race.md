@@ -130,7 +130,7 @@ The market still asks the rider:
 
 “Can you maintain that speed without the horse?”
 
-“How long can you sprint at full speed with nothing equipped, using only your bare body?”
+“How long can you sprint at full speed with no equipment, relying only on your own body?”
 
 Of course, these questions are not entirely useless. Basic stamina always matters.
 
@@ -156,9 +156,9 @@ The ability to leverage AI is exactly the same.
 
 It is:
 
-The command to direct AI effectively.
+The ability to command AI effectively.
 
-The discernment to judge whether AI’s output is true.
+The discernment to judge whether AI’s output is sound.
 
 The discipline to turn the workflow into a consistent asset through documentation.
 
