@@ -774,7 +774,7 @@ We study so that, even when we ride the machine, we do not lose direction.
 
 > “We do not study to run faster than AI. We study so that, the moment we climb onto the wild horse called AI, we do not lose direction.”
 >
-> “The more output AI produces, the farther the human gaze must reach. In the end, the name that stands behind that output is yours.”
+> “The more output AI produces, the farther the human gaze must reach. In the end, the name that stands behind that output is **yours**.”
 
 🧠
 
