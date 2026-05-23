@@ -12,6 +12,7 @@
 * [The Vanishing Senior](perspective/the-vanishing-senior.md)
 * [The Vanishing Senior (KR)](perspective/the-vanishing-senior-kr.md)
 * [Why We Study](perspective/why-we-study.md)
+* [Why We Study (KR)](perspective/why-we-study-kr.md)
 * [\[case\] Counterargument After Observation](perspective/case-counterargument-after-observation.md)
 * [Space Rations](perspective/space-rations.md)
 

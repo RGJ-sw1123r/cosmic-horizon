@@ -286,7 +286,7 @@ AI 시대에 살아남는 개발자는 새로 나온 이름표를 누구보다 �
 
 * [Ride, Don’t Race (KR)](ride-dont-race-kr.md)를 읽고, 이 아카이브의 뿌리가 되는 핵심 철학이자 기계의 속도에 휩쓸리지 않는 탑승자의 관점으로 돌아갑니다.
 * [The Vanishing Senior (KR)](the-vanishing-senior-kr.md)를 읽고, AI가 시니어의 무게감, 권위, 그리고 검증의 역학 관계를 어떻게 바꾸어 놓았는지 추적합니다.
-* [Why We Study](why-we-study.md)를 읽고, AI가 순식간에 정답을 뱉어내는 시대에도 왜 인간의 배움이 여전히 본질적인 가치를 갖는지 탐구합니다.
+* [Why We Study (KR)](why-we-study-kr.md)를 읽고, AI가 순식간에 정답을 뱉어내는 시대에도 왜 인간의 배움이 여전히 본질적인 가치를 갖는지 탐구합니다.
 * [Counterargument After Observation](case-counterargument-after-observation.md)를 읽고, 빠른 구조화 능력이 오히려 타인의 신호(Signal)를 내 편견의 소음(Noise)으로 오염시키는 위험을 짚어봅니다.
 * [Space Rations](space-rations.md)를 읽고, AI 보조 엔지니어링 환경에서 마주하는 다름(Different)과 틀림(Wrong), 그리고 책임의 이면을 파헤칩니다.
 * [AI-Assisted Development Models](../operating-system/ai-assisted-development-models.md)를 읽고, 개인의 관점을 넘어, AI 보조 개발을 실제 구동 가능한 팀의 운영 모델(Operating Model)로 이식하는 법을 다룹니다.
