@@ -19,6 +19,7 @@
 ## Operating System
 
 * [🛰️ AI-Assisted Development Models](operating-system/ai-assisted-development-models.md)
+* [Codex as an Execution Layer](operating-system/codex-as-an-execution-layer.md)
 * [Codex as an Execution Layer (KR)](operating-system/codex-as-an-execution-layer-kr.md)
 * [The Paradox of the Human Auditor](operating-system/the-paradox-of-the-human-auditor.md)
 * [The Burden of Plain Speech](operating-system/the-burden-of-plain-speech.md)
