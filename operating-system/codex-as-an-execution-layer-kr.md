@@ -1,7 +1,5 @@
 ---
-description: >-
-  인간의 판단을 상위에 두고 AI 구현을 하위 실행 계층으로 두는  AI-assisted operating system 안에서, OpenAI
-  Codex가 왜 현재의 작업 방식에 적합한 도구인지 정리한 문서.
+description: 인간의 판단을 상위에 두고 AI 실행을 하위에 두는 운영체계에서 Codex가 적합한 이유.
 tags:
   - operating-system
 ---
@@ -309,7 +307,7 @@ Codex에는 플랜별 사용 한도가 있다. 한도에 가까워지거나 도�
 
 하지만 시장에서 드러난 신호도 있다.
 
-Claude Code의 가격과 플랜을 둘러싼 혼선이 있었을 때, OpenAI Codex 쪽에서는 Codex가 Free와 Plus 플랜 모두에서 계속 제공될 것이라고 공개적으로 말했다. Sam Altman도 같은 흐름에서 “We want you to have a lot of AI!”라고 반응했다.
+Claude Code의 가격과 플랜을 둘러싼 혼선이 있었을 때, OpenAI Codex 쪽에서는 Claude Code의 가격과 플랜을 둘러싼 혼선이 있었을 때, OpenAI Codex 쪽에서는 Codex가 Free와 Plus 플랜에서도 제공된다는 방향의 공개 반응을 보였다. Sam Altman도 같은 흐름에서 “We want you to have a lot of AI!”라고 반응했다.
 
 이 발언은 공식 가격 정책 문서가 아니다.
 
@@ -365,7 +363,7 @@ AI에게 실행을 맡긴다.\
 
 ## Related Coordinates
 
-* [Ride, Don’t Race (KR)](../perspective/ride-dont-race-kr.md)는 이 선택은 도구의 속도에 끌려가지 않고, 자신의 리듬으로 도구를 통제하는 탑승자의 관점과 연결된다.
+* [Ride, Don’t Race (KR)](../perspective/ride-dont-race-kr.md)는 도구의 속도에 끌려가지 않고, 자신의 리듬으로 도구를 통제하는 탑승자의 관점과 연결된다.
 * [The Gravity Behind Market Language (KR)](../perspective/the-gravity-behind-market-language-kr.md)는 시장이 붙인 AI 도구의 이름표를 구조, 비용, 위험, 책임으로 번역해야 하는 이유를 다룬다. 이 문서는 그 관점을 Codex 선택에 적용한 기록이다.
 * [AI-Assisted Development Models](ai-assisted-development-models.md)는 이 도구 선택의 배경이 되는 observation system을 설명한다. 요구사항, 제약, 경계, 완료 기준이 선언된 뒤 Codex가 하위 실행 계층에 놓이는 이유와 연결된다.
 * [\[pattern\] FTL-Bound Agents](pattern-ftl-bound-agents/)는 Codex 같은 실행 계층이 해석을 통해 작업 범위를 넓히지 않도록, agent instruction file을 운영 경계로 다루는 방식을 설명한다.
@@ -379,7 +377,7 @@ AI에게 실행을 맡긴다.\
 * **Stack Overflow Developer Survey 2025 — AI Usage** — Stack Overflow, [Developer Survey 2025: AI](https://survey.stackoverflow.co/2025/ai). AI 도구 사용률, AI agent 사용률, vibe coding 관련 응답을 확인하는 데 사용했다.
 * **Anthropic Claude Code Usage** — Anthropic Help Center, [Use Claude Code with your Pro or Max plan](https://support.claude.com/en/articles/11145838-use-claude-code-with-your-pro-or-max-plan). Claude와 Claude Code의 사용량 한도 공유 구조를 확인하는 데 사용했다.
 * **Google Gemini Code Assist Quotas** — Google Developers, [Quotas and limits | Gemini Code Assist](https://developers.google.com/gemini-code-assist/resources/quotas). Gemini Code Assist agent mode와 Gemini CLI의 요청 쿼터 구조를 확인하는 데 사용했다.
-* **OpenAI Codex Market Signal** — Business Insider, [Anthropic's Claude Code pricing pain is Sam Altman's gain](https://www.businessinsider.com/anthropic-claude-code-price-confusion-sam-altman-2026-4). Sam Altman의 “We want you to have a lot of AI!” 발언과 Codex Free/Plus 제공 관련 공개 반응을 시장 신호로 해석하는 데 사용했다. 관련 X 링크: [Sam Altman](https://x.com/sama/status/2046752492093165708), [Thibault Sottiaux](https://x.com/thsottiaux/status/2046740759056162816).
+* **OpenAI Codex Market Signal** — Business Insider, [Anthropic's Claude Code pricing pain is Sam Altman's pleasure](https://www.businessinsider.com/anthropic-claude-code-price-confusion-sam-altman-2026-4). Sam Altman의 “We want you to have a lot of AI!” 발언과 Codex Free/Plus 제공 관련 공개 반응을 시장 신호로 해석하는 데 사용했다. 관련 X 링크: [Sam Altman](https://x.com/sama/status/2046752492093165708), [Thibault Sottiaux](https://x.com/thsottiaux/status/2046740759056162816).
 
 
 
