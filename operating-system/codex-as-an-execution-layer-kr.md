@@ -307,7 +307,7 @@ Codex에는 플랜별 사용 한도가 있다. 한도에 가까워지거나 도�
 
 하지만 시장에서 드러난 신호도 있다.
 
-Claude Code의 가격과 플랜을 둘러싼 혼선이 있었을 때, OpenAI Codex 쪽에서는 Claude Code의 가격과 플랜을 둘러싼 혼선이 있었을 때, OpenAI Codex 쪽에서는 Codex가 Free와 Plus 플랜에서도 제공된다는 방향의 공개 반응을 보였다. Sam Altman도 같은 흐름에서 “We want you to have a lot of AI!”라고 반응했다.
+Claude Code의 가격과 플랜을 둘러싼 혼선이 있었을 때, OpenAI Codex 쪽에서는 Codex가 Free와 Plus 플랜에서도 제공된다는 방향의 공개 반응을 보였다. Sam Altman도 같은 흐름에서 “We want you to have a lot of AI!”라고 반응했다.
 
 이 발언은 공식 가격 정책 문서가 아니다.
 
