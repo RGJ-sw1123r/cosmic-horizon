@@ -70,4 +70,10 @@ Voyager Golden Record가 깊은 우주 바다를 떠돌듯, Cosmic Horizon도 �
 
 ## License
 
-이 저작물은 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 라이선스 하에 이용할 수 있습니다.
+이 저작물은 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 라이선스 하에 이용할 수 있습니다.
+
+Cosmic Horizon은 비상업적 이용과 동일조건공유를 전제로 공개되는 아카이브입니다.
+
+이 아카이브는 비상업적 목적에 한해 읽기, 공유, 인용, 번역, 각색할 수 있습니다. 단, 적절한 저작자 표시, 변경사항 표시, 라이선스 링크 제공이 필요하며, 이 저작물을 바탕으로 만든 파생물도 동일한 라이선스로 배포해야 합니다.
+
+상업적 이용, 유료 재배포, 유료 교육자료, 컨설팅 자료, 제품화된 재사용, 상업 제품 또는 서비스에의 편입은 저자의 사전 서면 허가가 필요합니다.
