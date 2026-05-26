@@ -2,6 +2,8 @@
 description: >-
   기계 속도로 진행되는 AI 보조 작업을 관측 가능하고, 감사(audit) 가능하며, 통제 가능하고, 복구 가능한 상태로 만드는
   AI-assisted development 운영 모델.
+tags:
+  - operating-system
 ---
 
 # 🛰️ AI-Assisted Development Models (KR)
