@@ -69,7 +69,7 @@ When judgment moves too fast, when language becomes vague, or when AI accelerate
 
 ## License
 
-This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Cosmic Horizon is shared as a non-commercial, share-alike archive.
 
