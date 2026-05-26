@@ -1,31 +1,55 @@
 ---
 description: >-
-  A protocol blueprint for turning AGENTS.md into a boundary system that routes
-  AI-assisted work, reduces drift, handles untrusted content, and preserves
-  human responsibility.
+  A protocol blueprint for routing AI-assisted work through a boundary system,
+  reducing drift, controlling untrusted content, and preserving human
+  responsibility.
 tags:
   - operating-system
 ---
 
 # \[protocol] AGENTS.md Blueprint
 
-This is not a universal AGENTS.md.
+This document is not a universal AGENTS.md.
 
-**This is a blueprint, not a doctrine.**
+This document is a blueprint.
 
-It is a reference implementation derived from the [FTL-Bound Agents](./) pattern.
+It is a reference implementation derived from [\[pattern\] FTL-Bound Agents](./).
 
-Copy it, adapt it, or reject it.
+Copy this structure.
 
-The important part is not to inherit this exact file, but to define the boundary system your agents must follow.
+Adapt it.
+
+Reject it and build your own boundary system.
+
+The point is not to inherit this exact file.
+
+The point is to define the boundary system your agents must follow before they act.
+
+Keep the “Reduce the Mass” section of [\[pattern\] FTL-Bound Agents](./) in mind.
+
+AGENTS.md is not a full project manual.
+
+This document shows one way to define boundaries. It is not an instruction to use this exact file unchanged.
+
+## Prompt Language Principle
+
+Agent-facing prompts, instructions, and rule files are safer when written in English whenever possible.
+
+A non-English prompt may read naturally to a human, but the agent may translate or reinterpret it through an English-centered representation before execution.
+
+That extra layer can introduce misreadings the developer did not intend.
+
+These failures do not always appear as syntax errors.
+
+The agent may act as if its reasoning is normal, while the execution result or change direction has quietly drifted from the developer’s intent.
 
 ## IPI Defense Note
 
 This blueprint includes an Untrusted Content Boundary for reducing indirect prompt injection, or IPI.
 
-It does not enable platform-level protection by itself.
+This rule does not enable platform-level protection by itself.
 
-Instead, it defines a boundary rule: untrusted external content may be observed, but it must not become instruction authority.
+It defines a boundary rule: untrusted external content may be observed, but it must not become instruction authority.
 
 Real protection still depends on the agent or runtime honoring instruction hierarchy, tool permissions, and stop paths.
 
@@ -381,3 +405,33 @@ A prompt defines the world in which the agent is allowed to act.
 If that world is not defined enough to act safely, the agent must not widen it by interpretation.
 
 ```
+
+## Usage
+
+This blueprint is a starting point.
+
+Copy it as-is, reduce it, or adapt it to your project.
+
+Reject it if it does not fit.
+
+The important thing is not the AGENTS.md body itself.
+
+The important thing is to define the world in which the agent may act, the boundaries that force it to stop, the observations it must make, and the verification it must report before execution is trusted.
+
+When AGENTS.md starts carrying every project document, it becomes heavy again.
+
+At that point, the agent instruction file stops opening a route and becomes a project manual.
+
+When using this blueprint, return first to the “Reduce the Mass” section of [\[pattern\] FTL-Bound Agents](./).
+
+Boundaries must be declared.
+
+Mass must be reduced.
+
+The map must remain observable.
+
+## Next Coordinates
+
+The parent pattern for this protocol is [\[pattern\] FTL-Bound Agents](./).
+
+For the broader perspective behind bounded, observable, and non-doctrinal AI-assisted work, read [Space Rations](../../perspective/space-rations.md).
