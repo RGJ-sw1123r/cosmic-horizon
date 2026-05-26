@@ -12,7 +12,7 @@ tags:
 
 이 문서는 blueprint다.
 
-[FTL-Bound Agents pattern](./)에서 파생된 reference implementation이다.
+[FTL-Bound Agents pattern (KR)](./)에서 파생된 reference implementation이다.
 
 이 구조를 그대로 복사해도 된다.
 
@@ -22,7 +22,7 @@ tags:
 
 핵심은 이 파일을 그대로 상속하는 것이 아니라, agent가 따라야 할 boundary system을 먼저 정의하는 데 있다.
 
-특히 [질량을 줄여라](./#undefined-2)를 명심해야 한다.
+특히 [FTL-Bound Agents pattern (KR)](./)의 “질량을 줄여라”를 명심해야 한다.
 
 AGENTS.md는 프로젝트 매뉴얼 전체가 아니다.
 
@@ -44,7 +44,7 @@ Agent는 그 오독을 바탕으로 정상적으로 추론한 것처럼 행동�
 
 실제 agent가 읽고 실행할 instruction은 영어 원문을 유지한다.
 
-### IPI Defense Note
+## IPI Defense Note
 
 이 blueprint는 indirect prompt injection, 즉 IPI를 줄이기 위한 Untrusted Content Boundary를 포함한다.
 
@@ -421,7 +421,7 @@ AGENTS.md가 모든 프로젝트 문서를 품기 시작하면 다시 무거워�
 
 그 순간 agent instruction file은 route가 아니라 project manual이 된다.
 
-이 blueprint를 사용할 때도 [질량을 줄여라](./#undefined-2)를 먼저 확인해야 한다.
+이 blueprint를 사용할 때도 [FTL-Bound Agents pattern (KR)](./)의 “질량을 줄여라”를 먼저 확인해야 한다.
 
 경계는 설정되어야 한다.
 
