@@ -26,3 +26,4 @@
 * [The Burden of Plain Speech](operating-system/the-burden-of-plain-speech.md)
 * [\[pattern\] FTL-Bound Agents](operating-system/pattern-ftl-bound-agents/README.md)
   * [\[protocol\] AGENTS.md Blueprint](operating-system/pattern-ftl-bound-agents/protocol-agents.md-blueprint.md)
+* [\[pattern\] FTL-Bound Agents (KR)](operating-system/pattern-ftl-bound-agents-kr.md)

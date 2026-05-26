@@ -8,19 +8,19 @@ tags:
 
 > Survival Log from the Drift
 
-### Current Coordinates
+## Current Coordinates
 
-* Agent instruction files are prompts in a technical sense, but they should not be treated as disposable requests.
-* A good AGENTS.md or CLAUDE.md does not merely tell an AI agent what to do. It defines the world in which the agent is allowed to act.
-* The purpose of an agent instruction file is to reduce dangerous interpretation space, not to contain every project detail.
+* Agent instruction files are prompts in the technical sense, but they are not disposable requests.
+* A good AGENTS.md or CLAUDE.md does more than tell an AI agent what to do. It defines the world in which the agent is allowed to act.
+* The purpose of an agent instruction file is to reduce dangerous interpretation space, not to carry every detail of the project.
 
-### A Prompt, but Not Merely a Prompt
+## A Prompt, but Not Merely a Prompt
 
 Technically, AGENTS.md, CLAUDE.md, and similar files are prompts.
 
-They are instructions placed in front of an AI system, influencing how the agent reads the project, chooses actions, edits files, runs commands, and reports results.
+They are instructions placed in front of an AI system. They shape how the agent reads the project, chooses actions, edits files, runs commands, and reports results.
 
-But inside Cosmic Horizon, they are not treated as ordinary prompts.
+Inside Cosmic Horizon, they are not treated as ordinary prompts.
 
 An ordinary prompt asks for output.
 
@@ -34,9 +34,9 @@ They interpret them.
 
 When the boundary is vague, the agent widens the task through interpretation.
 
-When the boundary is clear, the agent works inside a declared world—moving within bounded orbits where assumptions are verified, not guessed.
+When the boundary is clear, the agent moves inside a declared world. Assumptions are verified, not guessed. Execution stays inside a bounded orbit.
 
-### Reduce the Mass
+## Reduce the Mass
 
 Agent instruction files should not become full project manuals.
 
@@ -52,8 +52,8 @@ Through them, different AI agents can enter the right context, load the right bo
 
 They should define:
 
-* when an agent may use a fast path
-* when an agent must use a default path
+* when an agent may use the fast path
+* when an agent must use the default path
 * when an agent must stop
 * when an agent must declare before execution
 * when project-specific documents must be loaded
@@ -69,13 +69,13 @@ They record:
 * approval gates
 * verification rules
 
-Inside Cosmic Horizon, those documents form the observatory layer.
+Inside Cosmic Horizon, those documents form the Observatory Layer.
 
 > Excessive mass collapses the orbit.
 >
 > — Cosmic Horizon
 
-### Decouple the Wormhole
+## Decouple the Wormhole
 
 A reusable agent instruction system must separate common execution rules from project-specific boundaries.
 
@@ -83,9 +83,9 @@ Agent instruction files are not the project map.
 
 They are controlled wormholes into project-specific space.
 
-Depending on the environment, this wormhole may manifest as `AGENTS.md`, `CLAUDE.md`, `GEMINI.md`, `.cursorrules`, Roo Code rules, Cline instructions, or any other tool-specific entry point.
+Depending on the environment, this wormhole may appear as `AGENTS.md`, `CLAUDE.md`, `GEMINI.md`, `.cursorrules`, Roo Code rules, Cline instructions, or another tool-specific entry point.
 
-The project map should live elsewhere.
+The project map must live elsewhere.
 
 It belongs to the Observatory Layer, defined by stable boundary documents such as:
 
@@ -98,11 +98,15 @@ It belongs to the Observatory Layer, defined by stable boundary documents such a
 
 These files do not need to exist in every project.
 
-They are deployed only when the project scale, company governance, team conventions, or task domain requires them.
+Deploy them only when the project scale, company governance, team conventions, or task domain requires them.
 
-The critical insight is not about enforcing a universal filename, rigid directory structure, or identical instruction format across different tools.
+The point is not to enforce one universal filename, one rigid directory structure, or one identical instruction format across every tool.
 
-The critical insight is that every AI agent must know how to locate project-specific boundaries, and missing boundaries must remain explicit instead of being invented.
+The point is that every AI agent must know where to find project-specific boundaries.
+
+When a boundary is missing, the agent must report it as missing.
+
+It must not invent the map.
 
 The wormhole may change by tool.
 
@@ -112,7 +116,7 @@ The map must remain observable.
 >
 > — Cosmic Horizon
 
-### Chart Routes, Not Advice
+## Chart Routes, Not Advice
 
 Weak instruction files often sound reasonable on the surface.
 
@@ -124,19 +128,23 @@ They offer passive advice:
 * use relevant files
 * preserve the existing flow when possible
 
-These sentences are not useless, but they leave too much interpretation space.
+These sentences are not useless.
+
+They are too soft.
+
+They leave too much interpretation space.
 
 What counts as simple?
 
 What is relevant?
 
-When is preservation “possible”?
+When is preservation possible?
 
 What looks minimal to the model may still be destructive to the project.
 
 Stronger instruction files do not advise.
 
-They chart explicit routes.
+They chart routes.
 
 * **If** the task only changes wording or formatting → **use the fast path.**
 * **If** the task changes source behavior → **use the default path.**
@@ -150,7 +158,7 @@ Advice asks the model to behave well.
 
 A route tells the model what to do when a condition appears.
 
-#### Control the Interpretation Space
+### Control the Interpretation Space
 
 Plain instructions do not remove interpretation.
 
@@ -158,15 +166,15 @@ They reduce dangerous interpretation space.
 
 No agent instruction file can eliminate every act of abstraction, inference, or judgment.
 
-AI agents still need to read context, compare patterns, choose tools, and decide how to apply a rule to the current task.
+AI agents still need to read context, compare patterns, choose tools, and decide how a rule applies to the current task.
 
-The goal is not to make interpretation disappear.
+The mission is not to erase interpretation.
 
-The goal is to prevent interpretation from becoming unauthorized execution.
+The mission is to stop interpretation from becoming unauthorized execution.
 
 A good instruction file makes the safe path obvious, the risky path visible, and the forbidden path unavailable.
 
-When the remaining ambiguity is harmless, the agent can continue.
+When the remaining ambiguity is harmless, the agent may continue.
 
 When the remaining ambiguity affects scope, boundary, approval, verification, or responsibility, the agent must stop.
 
@@ -178,13 +186,13 @@ It is compressed control.
 >
 > — Cosmic Horizon
 
-### The Last Read-Only Gate
+## The Last Read-Only Gate
 
-Declaration marks the final read-only checkpoint before execution.
+Declaration is the final read-only checkpoint before execution.
 
 At this point, the agent has observed the project, grounded the task, and identified the intended route.
 
-But it has not yet earned permission to change the world.
+It has not earned permission to change the world.
 
 Before a non-trivial task enters execution, the agent must declare:
 
@@ -209,35 +217,35 @@ This gate exists because misunderstanding is cheapest before the working tree ch
 
 Once unintended edits enter the project, the human operator must spend attention recovering the original orbit.
 
-A declaration gives the human one last chance to correct the trajectory before execution leaves debris in the working tree.
+Declaration gives the human one last chance to correct the trajectory before execution leaves debris in the working tree.
 
 > The cleanest rollback is the one never needed.
 >
 > — Cosmic Horizon
 
-### Proportional Momentum
+## Proportional Momentum
 
 A practical agent instruction system must keep task control proportional to task risk.
 
-Not every edit requires the same level of structural control.
+Not every edit deserves the same procedural weight.
 
-A simple wording change should not carry the same procedural weight as an architectural refactor, dependency change, or deployment change.
+A wording change should not carry the same burden as an architectural refactor, dependency change, or deployment change.
 
-Three distinct orbits are enough to govern most AI-assisted workflows.
+Three orbits are enough to govern most AI-assisted workflows.
 
-#### 1. The Fast Path — Low Risk
+### 1. The Fast Path — Low Risk
 
 Used for simple formatting, wording, or minor documentation updates.
 
 > **Observe → Execute → Report**
 
-#### 2. The Default Path — Standard Risk
+### 2. The Default Path — Standard Risk
 
 Used for tasks that alter source behavior, logic, project state, or execution flow.
 
 > **Observe → Ground → Declare → Execute → Report**
 
-#### 3. The Stop Path — High Risk / Ambiguity
+### 3. The Stop Path — High Risk / Ambiguity
 
 Used when the agent encounters structural conflicts, boundary breaches, missing approval, or unresolved uncertainty.
 
@@ -253,7 +261,7 @@ Ambiguity routes the agent to human decision, not autonomous interpretation.
 >
 > — Cosmic Horizon
 
-### Sovereign Coordinates, Shared Missions
+## Sovereign Coordinates, Shared Missions
 
 Agent instruction files can be intensely personal.
 
@@ -271,7 +279,7 @@ Personal rules may still exist as local navigation aids.
 
 When personal coordinates collide with shared project boundaries, the shared boundary governs the mission unless it is explicitly renegotiated.
 
-A mature agent workflow separates three distinct layers of gravity:
+A mature agent workflow separates three layers of gravity:
 
 * Personal Operating Style — private navigation aids and individual risk tolerance
 * Team-Level Agreements — shared operational contracts and communication protocols
@@ -281,23 +289,23 @@ Tools change.
 
 Responsibility boundaries remain explicit.
 
-### The Survival Log
+## The Survival Log
 
-This document is a survival log, not an absolute doctrine.
+This document is a survival log.
 
-This framework records one way we learned to survive the drift: by capturing repeated failures, structural misunderstandings, and painful recovery patterns, then refining them into reusable boundary artifacts.
+It records one way to survive the drift: capture repeated failures, structural misunderstandings, and painful recovery patterns, then refine them into reusable boundary artifacts.
 
 You may copy this structure.
 
 You may adapt it.
 
-You may reject it entirely and forge your own.
+You may reject it and forge your own.
 
-The goal is not to inherit this exact file blindly.
+The mission is not to inherit this exact file.
 
-The critical mission is to define your own boundaries before an autonomous agent defines them for you.
+The mission is to define your own boundaries before an autonomous agent defines them for you.
 
-### Next Coordinates
+## Next Coordinates
 
 For the deeper perspective behind bounded, observable, and non-doctrinal AI-assisted work, read [Space Rations](../../perspective/space-rations.md).
 
