@@ -362,7 +362,7 @@ AI에게 실행을 맡긴다.\
 * [Ride, Don’t Race (KR)](../perspective/ride-dont-race-kr.md)는 도구의 속도에 끌려가지 않고, 자신의 리듬으로 도구를 통제하는 탑승자의 관점과 연결된다.
 * [The Gravity Behind Market Language (KR)](../perspective/the-gravity-behind-market-language-kr.md)는 시장이 붙인 AI 도구의 이름표를 구조, 비용, 위험, 책임으로 번역해야 하는 이유를 다룬다. 이 문서는 그 관점을 Codex 선택에 적용한 기록이다.
 * [AI-Assisted Development Models (KR)](ai-assisted-development-models-kr.md)는 이 도구 선택의 배경이 되는 observation system을 설명한다. 요구사항, 제약, 경계, 완료 기준이 선언된 뒤 Codex가 하위 실행 계층에 놓이는 이유와 연결된다.
-* [\[pattern\] FTL-Bound Agents (KR)](pattern-ftl-bound-agents-kr.md)는 Codex 같은 실행 계층이 해석을 통해 작업 범위를 넓히지 않도록, agent instruction file을 운영 경계로 다루는 방식을 설명한다.
+* [\[pattern\] FTL-Bound Agents (KR)](pattern-ftl-bound-agents-kr/)는 Codex 같은 실행 계층이 해석을 통해 작업 범위를 넓히지 않도록, agent instruction file을 운영 경계로 다루는 방식을 설명한다.
 * [\[protocol\] AGENTS.md Blueprint](pattern-ftl-bound-agents/protocol-agents.md-blueprint.md)는 그 경계를 AGENTS.md 형태의 반복 가능한 프로젝트 지시 체계로 구현하는 방식을 보여준다.
 
 ## Source Notes
