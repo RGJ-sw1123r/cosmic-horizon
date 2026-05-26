@@ -10,17 +10,11 @@ tags:
 
 ## Current Coordinates
 
-* AI-assisted development requires models that make machine-speed work observable, controllable, and recoverable.
-* The central problem is no longer code generation speed, but the ability to frame, verify, and recover the work before and after AI acts.
-* These models turn AI-assisted development from improvisational prompting into an operating system.
+* In AI-assisted development, the bottleneck is no longer code generation.
+* The central problem lies in making the work before and after AI acts observable, verifiable, and recoverable.
+* These models are a practical map for turning improvisational prompting into an operating system.
 
-This methodology specification defines a practical framework for AI-assisted software development.
-
-It organizes three development models, one feedback loop, and a shared vocabulary for making AI-assisted work observable, controllable, and recoverable.
-
-In AI-assisted development, the bottleneck is no longer the speed of code generation.
-
-The real challenge is ensuring that generated code follows the right requirements, constraints, boundaries, and completion criteria.
+This document organizes three development models, one feedback loop, and a shared vocabulary for making AI-assisted work observable, controllable, and recoverable.
 
 The three development models are:
 
@@ -30,15 +24,15 @@ The three development models are:
 
 ## Core Thesis
 
-Code generation is no longer the center of gravity in software development.
+Code generation is no longer the gravity at the center of software development.
 
-When AI can generate code faster than humans can review it, the real engineering problem drifts elsewhere. It moves toward observation, constraint, boundary, verification, and recovery.
+When AI can generate code faster than humans can review it, the real engineering problem moves elsewhere. The center of the problem shifts toward observation, constraint, boundary, verification, and recovery.
 
-An AI-assisted workflow without an observation system is not progress. It is uncertainty moving at machine speed.
+An AI-assisted workflow without an observation system is not progress. It is only uncertainty moving at machine speed.
 
-The value of the developer is no longer measured by how quickly code can be written, but by how clearly the work can be framed before AI begins to act.
+The value of the developer is no longer measured by how quickly code can be written. It appears in how clearly the work can be framed before AI begins to act.
 
-A developer must draw the frame: what the system should observe, what the AI must preserve, what it may reshape, what it must never break, and how the result will be judged.
+The developer must draw the frame: what the system should observe, what the AI must preserve, what it may reshape, what it must never break, and how the result will be judged.
 
 In the AI era, engineering begins before implementation.
 
@@ -46,13 +40,13 @@ It begins by drawing the observation system.
 
 ## Observation System
 
-An observation system is a set of requirements, constraints, boundaries, completion criteria, regression signals, and verification procedures that make AI-assisted work reviewable, controllable, and recoverable.
+An observation system is the set of requirements, constraints, boundaries, completion criteria, regression signals, and verification procedures that make AI-assisted work reviewable, controllable, and recoverable.
 
-Before AI begins to touch code, the developer must make the work observable: what should happen, what must be preserved, what may be changed, what must never break, and how the result will be judged.
+Before AI touches code, the developer must make the work observable: what should happen, what must be preserved, what may change, what must never break, and how the result will be judged.
 
 > ⚠️ Without this frame, AI can still generate code. But the work becomes harder to review, harder to trust, and harder to recover when it drifts.
 
-In this document, the observation system is the line that separates controlled AI-assisted development from simple code generation.
+In this document, the observation system functions as the criterion that separates controlled AI-assisted development from simple code generation.
 
 ## Development Models
 
@@ -73,9 +67,9 @@ AI generates the first visible shape before the observation system is fully draw
 
 The Observatory Model begins with framing.
 
-Before AI begins to generate or reshape code, the developer draws the observation system: requirements, constraints, boundaries, completion criteria, regression signals, and verification procedures.
+Before AI begins to generate or reshape code, the developer draws the observation system first. Requirements, constraints, boundaries, completion criteria, regression signals, and verification procedures belong here.
 
-In this model, AI does not start from an empty sky. It works inside a visible frame. The developer defines what must be preserved, what may be changed, what must never break, and how the result will be judged.
+In this model, AI does not start from an empty sky. It works inside a visible frame. The developer defines what must be preserved, what may change, what must never break, and how the result will be judged.
 
 The Observatory Model turns AI-assisted development from code generation into controlled engineering work.
 
@@ -90,9 +84,9 @@ The Observatory Model turns AI-assisted development from code generation into co
 
 The Orbital Model begins with a center.
 
-Instead of drawing the full observation system in advance, the developer fixes the core requirement, regression boundary, and no-crossing zone first. AI is then allowed to explore implementation candidates within that orbit.
+Instead of drawing the full observation system from the start, the developer first fixes the core requirement, regression boundary, and no-crossing zone. AI is then allowed to explore implementation candidates within that orbit.
 
-In this model, AI does not move freely, but it does not stand still either. It searches, reshapes, and compares possible implementations while remaining bound to the center that must not be lost.
+In this model, AI does not drift freely. But it does not stand still either. It searches, reshapes, and compares possible implementations while remaining bound to the center that must not be lost.
 
 > ⚡ Its strength is controlled exploration. This model works well for UI flows, dashboards, report screens, documentation structure, internal tools, library adoption, and situations where multiple implementation candidates need to be compared quickly.
 
@@ -107,9 +101,9 @@ In this model, AI does not move freely, but it does not stand still either. It s
 
 The Anomaly Loop begins with deviation.
 
-It governs the response after deviation appears.
+This loop governs the response after deviation appears.
 
-An anomaly may be a local implementation defect, but it may also reveal that the observation system itself is incomplete, distorted, or drawn from the wrong coordinates.
+An anomaly may be a local implementation defect. But it may also reveal that the observation system itself is incomplete, distorted, or drawn from the wrong coordinates.
 
 The response depends on what the anomaly reveals.
 
@@ -117,7 +111,7 @@ The response depends on what the anomaly reveals.
 
 Mending is used when the observation system remains valid and the anomaly is limited to a local implementation defect.
 
-In this case, the existing requirements, constraints, boundaries, completion criteria, and verification procedures can stay in place. The broken part can be repaired inside the current frame.
+In this case, the existing requirements, constraints, boundaries, completion criteria, and verification procedures can remain in place. The broken part can be repaired inside the current frame.
 
 Mending handles the crack without redrawing the frame.
 
@@ -137,7 +131,7 @@ Recalibration is used when the anomaly reveals that the observation system itsel
 
 The issue is not limited to a broken implementation. A requirement may be missing, a constraint may be too weak, a boundary may be unclear, or the completion criteria may not reflect the actual work.
 
-In this case, the developer adjusts the frame before asking AI to continue: requirements, constraints, boundaries, completion criteria, regression signals, and verification procedures are refined into sharper coordinates.
+In this case, the developer adjusts the frame before asking AI to continue. Requirements, constraints, boundaries, completion criteria, regression signals, and verification procedures are refined into sharper coordinates.
 
 Recalibration prevents AI from moving faster along the wrong path.
 
@@ -149,7 +143,7 @@ At this point, continuing to patch the result can make the work harder to trust.
 
 An origin may consist of multiple recorded coordinates: a saved instruction, a prompt artifact, a requirement note, a design decision, an operation log, a system snapshot, or another stable baseline.
 
-Return to Origin is a recursive return to the coordinates where the operation began.
+Return to Origin means returning to the coordinates where the work began.
 
 The failed attempt is preserved as observational evidence: which constraint was missing, which boundary failed, which assumption became unstable, and which instruction pulled the work away from its intended path.
 
@@ -192,18 +186,18 @@ The following diagram maps these concepts onto a practical AI-assisted workflow.
 
 ```mermaid
 flowchart LR
-	A[Issue / Requirement / ADR / API Spec] --> B[Observation System]
-	B --> C[AI Agent]
-	A --> D[Repository Context / Knowledge Base]
-	D --> C
-	C --> E[Implementation Candidate]
-	E --> F[Sandbox / Local Verification]
-	F --> G[Tests / Static Analysis / Security Check]
-	G --> H[Trace / Eval / Approval]
-	H --> I[PR / Release]
-	H --> J[Anomaly Loop]
-	J --> B
-	J --> A
+    A["Issue / Requirement / ADR / API Spec"] --> B["Observation System"]
+    B --> C["AI Agent"]
+    A --> D["Repository Context / Knowledge Base"]
+    D --> C
+    C --> E["Implementation Candidate"]
+    E --> F["Sandbox / Local Verification"]
+    F --> G["Tests / Static Analysis / Security Check"]
+    G --> H["Trace / Eval / Approval"]
+    H --> I["PR / Release"]
+    H --> J["Anomaly Loop"]
+    J --> B
+    J --> A
 ```
 
 > “Information is information, not matter or energy.”\
@@ -211,12 +205,12 @@ flowchart LR
 
 ## Model Selection Matrix
 
-| Model             | Entry Point  | Operational Context                                                                          | Primary Leverage           | Systemic Risk                                                                  |
-| ----------------- | ------------ | -------------------------------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------ |
-| Stargazer Model   | Discovery    | Objective is ill-defined; exploration velocity takes precedence over structural certainty.   | High-velocity discovery    | Output hardens into legacy before constraints are mapped.                      |
-| Observatory Model | Framing      | Impact spans production code, team workflow, data consistency, or architectural maintenance. | Comprehensive auditability | A distorted frame systematically misguides the machine loop.                   |
-| Orbital Model     | Fixed Center | Multiple execution paths must be tested while anchoring a non-negotiable requirement.        | Centripetal exploration    | A decaying center forces the workflow to drift back into the Stargazer state.  |
-| Anomaly Loop      | Deviation    | Output has drifted, failed verification, or exposed an edge case in the validation system.   | Rapid recalibration        | Treating a systemic flaw as a localized defect conceals an architectural bias. |
+| Model             | Entry Point  | Operational Context                                                                            | Primary Leverage                  | Systemic Risk                                                                  |
+| ----------------- | ------------ | ---------------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------------------------------------ |
+| Stargazer Model   | Discovery    | Objective is unclear, and exploration speed matters more than structural certainty.            | High-velocity discovery           | Output hardens into legacy before constraints are mapped.                      |
+| Observatory Model | Framing      | Impact reaches production code, team workflow, data consistency, or architectural maintenance. | Auditability of the full workflow | A distorted frame systematically misguides the entire AI work loop.            |
+| Orbital Model     | Fixed Center | Multiple execution paths must be tested while anchoring a non-negotiable requirement.          | Centripetal exploration           | A weakened center pushes the workflow back toward the Stargazer state.         |
+| Anomaly Loop      | Deviation    | Output has drifted, failed verification, or exposed a boundary case in the validation system.  | Rapid recalibration               | Treating a systemic flaw as a localized defect conceals an architectural bias. |
 
 ## Usage Strategy
 
@@ -251,7 +245,7 @@ Beyond code generation, engineering begins with observation.
 
 ## Related Coordinates
 
-* Read [Ride, Don’t Race](../perspective/ride-dont-race.md) to understand the core perspective behind working with AI rather than racing against it.
+* Read [Ride, Don’t Race](../perspective/ride-dont-race.md) to return to the core perspective of working with AI rather than racing against it.
 * Read [Codex as an Execution Layer](codex-as-an-execution-layer.md) to see how this operating model is applied to a concrete tool choice, placing Codex downstream after observation, requirements, constraints, boundaries, and completion criteria have been declared.
 * Read [The Paradox of the Human Auditor](the-paradox-of-the-human-auditor.md) to examine why human review alone is not enough without structured verification.
 * Read [The Burden of Plain Speech](the-burden-of-plain-speech.md) to explore how clear instructions become reusable artifacts in AI-assisted work.

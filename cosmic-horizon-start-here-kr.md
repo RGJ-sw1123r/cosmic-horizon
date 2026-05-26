@@ -59,7 +59,7 @@ Voyager Golden Record가 깊은 우주 바다를 떠돌듯, Cosmic Horizon도 �
 ## 이 아카이브가 움직이는 방식
 
 * [Ride, Don’t Race (KR)](perspective/ride-dont-race-kr.md)부터 읽으면 이 아카이브의 기본 철학을 확인할 수 있습니다.
-* [AI-Assisted Development Models](operating-system/ai-assisted-development-models.md)를 읽으면 AI-assisted work를 다루는 운영 모델을 이해할 수 있습니다.
+* [AI-Assisted Development Models (KR)](operating-system/ai-assisted-development-models-kr.md)를 읽으면 AI-assisted work를 다루는 운영 모델을 이해할 수 있습니다.
 * [FTL-Bound Agents](operating-system/pattern-ftl-bound-agents/)를 읽으면 AGENTS.md, CLAUDE.md 같은 agent instruction file을 AI-assisted work의 boundary system으로 설계하는 관점을 볼 수 있습니다.
 * [Codex Chat Viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)를 보면 이 orbit에서 나온 실제 artifact를 확인할 수 있습니다. Codex CLI 세션 로그를 관측하고, 검토하고, 문서화하고, 다시 돌아보기 위해 만든 local-first viewer입니다.
 
