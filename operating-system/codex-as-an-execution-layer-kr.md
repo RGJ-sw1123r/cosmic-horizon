@@ -16,7 +16,7 @@ tags:
 * Codex는 이미 선언된 좌표 안에서 움직이는 하위 실행 계층이다.
 * 이 문서에서 말하는 Codex는 ChatGPT 웹 대화 공간과 분리해, 프로젝트 컨텍스트를 읽고 CLI에서 파일 수정과 명령 실행을 수행하는 하위 실행 계층을 가리킨다.
 * 핵심은 OpenAI 생태계 일반이 아니라, 웹 기획 공간과 CLI 실행 공간의 분리다.
-* 이 문서는 ChatGPT나 Codex를 모든 AI 작업의 표준으로 삼자는 글이 아니다.
+* 이 문서는 ChatGPT를 기획 공간으로, Codex를 실행 계층으로 배치하는 운영 방식을 설명한다.
 * AGENTS.md와 agent instruction file은 특정 벤더에 종속된 문법이 아니라, AI agent를 선언된 경계 안에서 움직이게 만드는 운영 장치다.
 * 도구의 비용 구조와 작업 흐름은 단순한 가격 문제가 아니라, 작업자가 생각하고 실행하는 방식을 바꾸는 운영 조건이다.
 
@@ -119,9 +119,7 @@ AI 활용 개발에서는, 문서화가 먼저 온다.
 
 OpenAI의 Codex best practices도 좋은 작업 지시에 Goal, Context, Constraints, Done when을 넣으라고 설명한다.
 
-이 기준이 단순한 프롬프트 잘 작성하는 팁으로 여겨지지 않기를 바란다.
-
-이것은 엔지니어링이다.
+이 기준은 AI의 추론 여백을 줄이는 엔지니어링이다.
 
 AI가 추론만으로 빈칸을 채워야 하는 여지를 줄이는 방법이다.
 
@@ -147,7 +145,7 @@ diff를 남긴다.\
 
 이 작업이 항상 인간의 손으로 직접 수행되어야 하는 것은 아니다.
 
-구현이 무가치하다는 뜻이 아니다.
+구현은 선언된 프레임 안에서 실행으로 가치를 갖는다.
 
 무게중심이 이동했다는 뜻이다.
 
@@ -186,9 +184,7 @@ AI에게 맡길 수 있는 단위로 지시를 다시 써야 한다.
 
 현재 OpenAI의 Codex는 ChatGPT 플랜 안에서 사용할 수 있지만, 플랜별 사용 한도가 있고 agentic usage limit에 포함된다.
 
-이 문서에서 중요한 것은 Codex가 무제한인지가 아니다.
-
-중요한 것은 기획/구상 공간과 CLI 실행 공간이 분리되어 있다는 점이다.
+이 문서의 핵심은 기획/구상 공간과 CLI 실행 공간의 분리다.
 
 현재의 작업 방식에서 ChatGPT는 관측하고, 질문하고, 정제하고, 문서화하는 공간으로 쓰인다.
 
@@ -269,7 +265,7 @@ AI는 판단자가 아니라 관측 보조자, 질문자, 정리자, 검산자, 
 
 도구는 운영체계의 일부다.
 
-따라서 이 문서는 ChatGPT나 Codex를 모든 AI 작업의 정답으로 제시하지 않는다.
+따라서 이 문서는 현재 작업 방식에서 어떤 도구가 실행 계층으로 적합한지 판별하는 기준을 다룬다.
 
 이 문서가 말하는 것은 특정 제품의 우월성이 아니라, 현재의 작업 방식에서 어떤 도구가 가장 적합한 실행 계층으로 놓이는가이다.
 
@@ -378,6 +374,3 @@ AI에게 실행을 맡긴다.\
 * **Anthropic Claude Code Usage** — Anthropic Help Center, [Use Claude Code with your Pro or Max plan](https://support.claude.com/en/articles/11145838-use-claude-code-with-your-pro-or-max-plan). Claude와 Claude Code의 사용량 한도 공유 구조를 확인하는 데 사용했다.
 * **Google Gemini Code Assist Quotas** — Google Developers, [Quotas and limits | Gemini Code Assist](https://developers.google.com/gemini-code-assist/resources/quotas). Gemini Code Assist agent mode와 Gemini CLI의 요청 쿼터 구조를 확인하는 데 사용했다.
 * **OpenAI Codex Market Signal** — Business Insider, [Anthropic's Claude Code pricing pain is Sam Altman's pleasure](https://www.businessinsider.com/anthropic-claude-code-price-confusion-sam-altman-2026-4). Sam Altman의 “We want you to have a lot of AI!” 발언과 Codex Free/Plus 제공 관련 공개 반응을 시장 신호로 해석하는 데 사용했다. 관련 X 링크: [Sam Altman](https://x.com/sama/status/2046752492093165708), [Thibault Sottiaux](https://x.com/thsottiaux/status/2046740759056162816).
-
-
-

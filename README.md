@@ -50,8 +50,7 @@ I write this archive so that insight does not disappear as a passing reaction.\
 When I observe something, I try to understand it.\
 When I understand it, I try to declare it in a form I can return to.
 
-This archive is not written to prove that I live perfectly by its principles.\
-It is written because I do not.
+These pages are coordinates for returning to origin.
 
 When judgment moves too fast, when language becomes vague, or when AI accelerates work faster than responsibility can follow, this archive becomes a landmark for returning to origin.
 

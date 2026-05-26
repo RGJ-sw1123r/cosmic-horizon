@@ -140,7 +140,7 @@ An unfamiliar technical system is not wrong simply because it is unfamiliar.
 
 Conversely, the human process of building structure from the ground up is not primitive simply because AI can generate an implementation in seconds.
 
-AI-assisted development is not the answer. It is not a heresy that must be forbidden, either.
+AI-assisted development is compressed rations: useful for survival in specific situations, dangerous when turned into doctrine.
 
 It is compressed. It can be taken out quickly. It can help survival in specific situations.
 
@@ -207,9 +207,9 @@ They enjoy Difference, but control Wrong with precision.\
 They use tools when the mission requires them, and keep them under observable boundaries.\
 Then they record the path they crossed for the next voyage.
 
-That is why this page is not written to persuade the masses.
+That is why this page leaves observed coordinates.
 
-It does not claim that this way is the answer.
+It records one observed way of navigating this orbit.
 
 It simply leaves observed coordinates.
 
@@ -223,7 +223,7 @@ Those who understand this signal may take what they need.
 
 Those who do not need this signal may continue along their own orbit.
 
-Cosmic Horizon is not a shout meant to persuade everyone.
+Cosmic Horizon is a coordinate left in the distance.
 
 It is a coordinate left in the distance.
 

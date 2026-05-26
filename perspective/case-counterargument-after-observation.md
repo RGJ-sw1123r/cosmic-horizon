@@ -16,8 +16,7 @@ tags:
 
 ## Current Coordinates
 
-* This archive is not proof that I always live by what it says.
-* It exists precisely because I do not.
+* This archive records the coordinates I return to when judgment moves too fast.
 * This insight began in conversation with AI, but extends into how I face people, organizations, feedback, and disagreement.
 * Counterargument comes only after observation.
 

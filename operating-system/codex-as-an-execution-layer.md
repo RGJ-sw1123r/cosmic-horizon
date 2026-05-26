@@ -18,7 +18,7 @@ tags:
 * Codex is the lower execution layer that moves inside already declared coordinates.
 * In this document, Codex refers to the lower execution layer that is separated from the ChatGPT web conversation space, reads project context, edits files, and runs commands in the CLI.
 * The core is not the OpenAI ecosystem in general, but the separation between the web planning space and the CLI execution space.
-* This document does not argue that ChatGPT or Codex should become the standard for all AI work.
+* This document describes an operating pattern where ChatGPT serves as the planning space and Codex serves as the execution layer.
 * AGENTS.md and agent instruction files are not syntax tied to a specific vendor. They are operating devices that keep AI agents moving inside declared boundaries.
 * The cost structure and workflow of a tool are not merely pricing issues. They are operating conditions that reshape how a worker thinks and executes.
 
@@ -121,9 +121,7 @@ The document must state what the goal is, what context must be preserved, what c
 
 OpenAI’s Codex best practices also explain that good task instructions should include Goal, Context, Constraints, and Done when.
 
-I do not want this standard to be treated as a simple tip for writing better prompts.
-
-This is engineering.
+This standard is engineering for reducing the space AI must fill through inference alone.
 
 It is a way to reduce the space AI must fill through inference alone.
 
@@ -149,7 +147,7 @@ It creates reviewable output.
 
 This work does not always need to be performed directly by human hands.
 
-It does not mean implementation has no value.
+Implementation has value as execution inside a declared frame.
 
 It means the center of gravity has moved.
 
@@ -188,9 +186,7 @@ But the cost of review, rollback, and responsibility grows afterward.
 
 OpenAI Codex can currently be used within ChatGPT plans, but each plan has usage limits and Codex is included in agentic usage limits.
 
-What matters in this document is not whether Codex is unlimited.
-
-What matters is that the planning/conception space and the CLI execution space are separated.
+The key point in this document is the separation between the planning/conception space and the CLI execution space.
 
 In the current workflow, ChatGPT is used as the space for observation, questioning, refinement, and documentation.
 
@@ -271,7 +267,7 @@ Tool choice is not brand preference.
 
 A tool is part of the operating system.
 
-Therefore, this document does not present ChatGPT or Codex as the correct answer for all AI work.
+Therefore, This document examines which tool currently fits best as the execution layer in this workflow.
 
 What this document discusses is not the superiority of a specific product, but which tool currently fits best as the execution layer in this workflow.
 
