@@ -361,7 +361,7 @@ AI에게 실행을 맡긴다.\
 
 ⛵
 
-## Related Coordinates
+## 이웃 좌표계
 
 * [Ride, Don’t Race (KR)](../perspective/ride-dont-race-kr.md)는 도구의 속도에 끌려가지 않고, 자신의 리듬으로 도구를 통제하는 탑승자의 관점과 연결된다.
 * [The Gravity Behind Market Language (KR)](../perspective/the-gravity-behind-market-language-kr.md)는 시장이 붙인 AI 도구의 이름표를 구조, 비용, 위험, 책임으로 번역해야 하는 이유를 다룬다. 이 문서는 그 관점을 Codex 선택에 적용한 기록이다.
