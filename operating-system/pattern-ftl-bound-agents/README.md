@@ -309,7 +309,7 @@ The mission is to define your own boundaries before an autonomous agent defines 
 
 For the deeper perspective behind bounded, observable, and non-doctrinal AI-assisted work, read [Space Rations](../../perspective/space-rations.md).
 
-For a concrete protocol derived from this pattern, see [\[protocol\] AGENTS.md Blueprint](protocol-agents.md-blueprint.md).
+For a concrete protocol derived from this pattern, see [AGENTS.md Blueprint](protocol-agents.md-blueprint.md).
 
 Related signal:
 

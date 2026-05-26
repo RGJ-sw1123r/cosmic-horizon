@@ -364,8 +364,8 @@ That is why I use Codex.
 * Read [Ride, Don’t Race](../perspective/ride-dont-race.md) to connect this choice to the perspective of a rider who does not get dragged by the speed of the tool, but controls the tool at their own rhythm.
 * Read [The Gravity Behind Market Language](../perspective/the-gravity-behind-market-language.md) to examine why the labels the market gives to AI tools must be translated into structure, cost, risk, and responsibility. This document applies that perspective to the choice of Codex.
 * Read [AI-Assisted Development Models](ai-assisted-development-models.md) to understand the observation system behind this tool choice, and why Codex is placed in the lower execution layer only after requirements, constraints, boundaries, and completion criteria have been declared.
-* Read [\[pattern\] FTL-Bound Agents](pattern-ftl-bound-agents/) to understand how agent instruction files act as operating boundaries so that execution layers like Codex do not expand the scope of work through interpretation.
-* Read [\[protocol\] AGENTS.md Blueprint](pattern-ftl-bound-agents/protocol-agents.md-blueprint.md) to see how those boundaries can be implemented as a repeatable project instruction system in the form of AGENTS.md.
+* Read [FTL-Bound Agents](pattern-ftl-bound-agents/) to understand how agent instruction files act as operating boundaries so that execution layers like Codex do not expand the scope of work through interpretation.
+* Read [AGENTS.md Blueprint](pattern-ftl-bound-agents/protocol-agents.md-blueprint.md) to see how those boundaries can be implemented as a repeatable project instruction system in the form of AGENTS.md.
 
 ## Source Notes
 

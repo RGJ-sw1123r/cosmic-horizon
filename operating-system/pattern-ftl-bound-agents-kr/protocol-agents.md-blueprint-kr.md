@@ -12,7 +12,7 @@ tags:
 
 이 문서는 blueprint다.
 
-[\[pattern\] FTL-Bound Agents (KR)](./)에서 파생된 reference implementation이다.
+[FTL-Bound Agents (KR)](./)에서 파생된 reference implementation이다.
 
 이 구조를 그대로 복사해도 된다.
 
@@ -22,7 +22,7 @@ tags:
 
 핵심은 이 파일을 그대로 상속하는 것이 아니라, agent가 따라야 할 boundary system을 먼저 정의하는 데 있다.
 
-특히 [\[pattern\] FTL-Bound Agents (KR)](./)의 “질량을 줄여라”를 명심해야 한다.
+특히 [FTL-Bound Agents (KR)](./)의 “질량을 줄여라”를 명심해야 한다.
 
 AGENTS.md는 프로젝트 매뉴얼 전체가 아니다.
 
@@ -421,7 +421,7 @@ AGENTS.md가 모든 프로젝트 문서를 품기 시작하면 다시 무거워�
 
 그 순간 agent instruction file은 route가 아니라 project manual이 된다.
 
-이 blueprint를 사용할 때도 [\[pattern\] FTL-Bound Agents (KR)](./)의 “질량을 줄여라”를 먼저 확인해야 한다.
+이 blueprint를 사용할 때도 [FTL-Bound Agents (KR)](./)의 “질량을 줄여라”를 먼저 확인해야 한다.
 
 경계는 설정되어야 한다.
 
@@ -431,6 +431,6 @@ AGENTS.md가 모든 프로젝트 문서를 품기 시작하면 다시 무거워�
 
 ## 다음 좌표
 
-이 protocol의 상위 pattern은 [\[pattern\] FTL-Bound Agents (KR)](./)에서 설명한다.
+이 protocol의 상위 pattern은 [FTL-Bound Agents (KR)](./)에서 설명한다.
 
 bounded, observable, non-doctrinal AI-assisted work의 더 넓은 관점은 [Space Rations](../../perspective/space-rations.md)에서 이어진다.

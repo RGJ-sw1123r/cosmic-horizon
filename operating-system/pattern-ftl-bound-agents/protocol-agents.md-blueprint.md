@@ -13,7 +13,7 @@ This document is not a universal AGENTS.md.
 
 This document is a blueprint.
 
-It is a reference implementation derived from [\[pattern\] FTL-Bound Agents](./).
+It is a reference implementation derived from [FTL-Bound Agents](./).
 
 Copy this structure.
 
@@ -25,7 +25,7 @@ The point is not to inherit this exact file.
 
 The point is to define the boundary system your agents must follow before they act.
 
-Keep the “Reduce the Mass” section of [\[pattern\] FTL-Bound Agents](./) in mind.
+Keep the “Reduce the Mass” section of [FTL-Bound Agents](./) in mind.
 
 AGENTS.md is not a full project manual.
 
@@ -422,7 +422,7 @@ When AGENTS.md starts carrying every project document, it becomes heavy again.
 
 At that point, the agent instruction file stops opening a route and becomes a project manual.
 
-When using this blueprint, return first to the “Reduce the Mass” section of [\[pattern\] FTL-Bound Agents](./).
+When using this blueprint, return first to the “Reduce the Mass” section of [FTL-Bound Agents](./).
 
 Boundaries must be declared.
 
@@ -432,6 +432,6 @@ The map must remain observable.
 
 ## Next Coordinates
 
-The parent pattern for this protocol is [\[pattern\] FTL-Bound Agents](./).
+The parent pattern for this protocol is [FTL-Bound Agents](./).
 
 For the broader perspective behind bounded, observable, and non-doctrinal AI-assisted work, read [Space Rations](../../perspective/space-rations.md).
