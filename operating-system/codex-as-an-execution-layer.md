@@ -267,9 +267,9 @@ Tool choice is not brand preference.
 
 A tool is part of the operating system.
 
-Therefore, This document examines which tool currently fits best as the execution layer in this workflow.
+Therefore, this document examines the criteria for placing a tool in the execution layer of this workflow.
 
-What this document discusses is not the superiority of a specific product, but which tool currently fits best as the execution layer in this workflow.
+The question is tool fit: whether the tool preserves the separation between planning space and execution layer.
 
 AGENTS.md and agent instruction files must be viewed by the same standard.
 

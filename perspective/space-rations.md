@@ -209,23 +209,17 @@ Then they record the path they crossed for the next voyage.
 
 That is why this page leaves observed coordinates.
 
-It records one observed way of navigating this orbit.
-
-It simply leaves observed coordinates.
+It records one way of navigating this orbit: use the tool, keep it bounded, and take responsibility for the result.
 
 Do not mistake Difference for Wrong.
 
 Do not turn technology into doctrine.
-
-Use the tool, but take responsibility for its result.
 
 Those who understand this signal may take what they need.
 
 Those who do not need this signal may continue along their own orbit.
 
 Cosmic Horizon is a coordinate left in the distance.
-
-It is a coordinate left in the distance.
 
 ## Related Coordinates
 
@@ -252,9 +246,9 @@ To some, this may look slow and inconvenient.
 
 But this is the navigation rule held onto in order not to drift.
 
-This way is not a doctrine to impose on everyone.
+This way remains the coordinate that brought this ship here.
 
-It is simply the coordinate that brought this ship here.
+Others may chart their own orbit from here.
 
 > Different opens the map.\
 > Wrong breaks the ship.\
