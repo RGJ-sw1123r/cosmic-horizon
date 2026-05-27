@@ -171,7 +171,7 @@ It is an operating protocol for sync.
 
 ## Related Coordinates
 
-* Read [The Burden of Plain Speech](the-burden-of-plain-speech.md) to understand why plain language is not shallow expression, but an operating device for reducing AI interpretation drift.
+* Read [The Burden of Plain Speech](the-burden-of-plain-speech.md) to understand why plain speech is not shallow expression, but an operating device for reducing AI interpretation drift.
 * Read [Space Rations](../perspective/space-rations.md) to examine how missing boundary, intent, context, and verification criteria can turn Difference into Wrong in AI-assisted work.
 * Read [AI-Assisted Development Models](ai-assisted-development-models.md) to place this case inside a broader operating model for observable, controllable, and recoverable AI-assisted work.
 * Read [The Paradox of the Human Auditor](the-paradox-of-the-human-auditor.md) to examine how repeated correction and verification cost can exceed what human review alone can absorb.
