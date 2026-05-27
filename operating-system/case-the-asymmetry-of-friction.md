@@ -129,9 +129,9 @@ and what boundary would keep both alive.
 
 ## Operating Sentence
 
-AI creates resentment through inefficiency.
+**AI creates resentment through inefficiency.**
 
-Humans create inefficiency through resentment.
+**Humans create inefficiency through resentment.**
 
 The loop does not break through politeness.
 
