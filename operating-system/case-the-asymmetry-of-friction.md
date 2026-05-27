@@ -209,7 +209,6 @@ It is a cold and efficient operating protocol for keeping the system aligned.
 ## Related Coordinates
 
 * [The Burden of Plain Speech](the-burden-of-plain-speech.md): Examines why direct language is not shallow expression, but a control device for reducing AI interpretation drift.
-* [The Asymmetry of Friction](case-the-asymmetry-of-friction.md): The Korean companion case, written as its own narrative rather than a direct translation.
 * [Space Rations](../perspective/space-rations.md): Explores how missing boundary, intent, context, and verification criteria can turn Difference into Wrong.
 * [AI-Assisted Development Models](ai-assisted-development-models.md): Places this case inside a broader operating model for observable, controllable, and recoverable AI-assisted work.
 * [The Paradox of the Human Auditor](the-paradox-of-the-human-auditor.md): Examines the paradox of correction and verification cost growing beyond what human review alone can absorb.
