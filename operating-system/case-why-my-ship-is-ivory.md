@@ -50,7 +50,7 @@ Even the designer’s intention, extending beyond the visible frame.
 
 The blueprint was already speaking.
 
-On the old route, this blueprint would have left the shipyard and moved into the hands of a web publisher.
+On the old route, this blueprint would have left the shipyard and moved into the hands of a web publisher, a dedicated HTML/CSS implementation role often seen in South Korean web production workflows.
 
 The designer would draw the screen.\
 The web publisher would build the HTML/CSS skeleton.\
