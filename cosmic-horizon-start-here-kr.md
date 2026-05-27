@@ -33,17 +33,16 @@ Voyager Golden Record가 깊은 우주 바다를 떠돌듯, Cosmic Horizon도 �
 
 이 signal은 대중 설득의 언어가 아니라, deep-space transmission의 방식으로 이동합니다.
 
-## 이 아카이브를 읽는 법
+## 이 아카이브를 어떻게 읽을 것인가
 
-이 아카이브는 에세이 모음처럼 읽을 수도 있습니다.\
-하지만 이 기록들은 단순히 흩어진 글들이라기보다, 하나의 좌표계 안에서 서로를 비추는 기록에 가깝습니다.
+이 아카이브는 에세이 모음처럼 읽을 수도 있습니다.
 
-어떤 기록은 관점을 제시하고, 어떤 기록은 운영 모델을 정의합니다.\
-또 다른 기록은 현장의 노트, 템플릿, 재사용 가능한 record로 작동합니다.
+그러나 각각의 기록은 하나의 좌표계 안에서 서로를 비춥니다.\
+어떤 글은 관측이 되고, 어떤 글은 운영 모델이 되며, 어떤 글은 다음 실행을 위한 항법 장치가 됩니다.
 
-따라서 이 아카이브는 처음부터 끝까지 순서대로 읽어야 하는 책이라기보다, 필요할 때마다 다시 펼쳐 좌표를 확인하는 **지도**에 가깝습니다.
+따라서 이 아카이브는 처음부터 끝까지 순서대로 읽어야 하는 책이 아니라, 필요할 때마다 다시 펼쳐 좌표를 확인하는 **지도**입니다.
 
-## 이 아카이브는 왜 쓰이는가
+## 이 아카이브는 왜 존재하는가
 
 문서화는 생각이 끝난 뒤에 남는 잔해가 아닙니다.\
 낯선 signal을 관측하고, 그것을 다시 돌아올 수 있는 단단한 좌표로 바꾸는 행위입니다.
@@ -61,6 +60,7 @@ Voyager Golden Record가 깊은 우주 바다를 떠돌듯, Cosmic Horizon도 �
 * [AI-Assisted Development Models (KR)](operating-system/ai-assisted-development-models-kr.md)를 읽으면 AI-assisted work를 다루는 운영 모델을 이해할 수 있습니다.
 * [FTL-Bound Agents (KR)](operating-system/pattern-ftl-bound-agents-kr/)를 읽으면 AGENTS.md, CLAUDE.md 같은 agent instruction file을 AI-assisted work의 boundary system으로 설계하는 관점을 볼 수 있습니다.
 * [Codex Chat Viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)를 보면 이 orbit에서 나온 실제 artifact를 확인할 수 있습니다. Codex CLI 세션 로그를 관측하고, 검토하고, 문서화하고, 다시 돌아보기 위해 만든 local-first viewer입니다.
+* [Why my ship is ivory (KR)](operating-system/case-why-my-ship-is-ivory-kr.md)를 읽고, 하나의 Figma MCP와 Codex 실험이 어떻게 실행 로그, 검산 가능한 증거, 그리고 작업 경계의 재해석으로 변환되는지 살펴봅니다.
 
 ## Links
 
