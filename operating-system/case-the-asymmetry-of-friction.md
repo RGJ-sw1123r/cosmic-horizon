@@ -133,8 +133,8 @@ The difference was not cruelty.
 
 The difference was sync.
 
-AI creates resentment through inefficiency.\
-Humans create inefficiency through resentment.
+> **AI creates resentment through inefficiency.**\
+> **Humans create inefficiency through resentment.**
 
 This loop begins when the tool repeatedly misses the user's working criteria.
 
