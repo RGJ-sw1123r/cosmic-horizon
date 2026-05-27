@@ -1,8 +1,8 @@
 ---
 description: >-
-  A case note on how AI creates resentment through inefficiency, how humans
-  create inefficiency through resentment, and how plain speech can align the
-  working criteria between user and assistant.
+  A case note tracing how an emotionless system creates inefficiency, how that
+  inefficiency triggers human resentment, and how resentment returns as systemic
+  operational friction.
 tags:
   - operating-system
   - case
@@ -16,106 +16,130 @@ tags:
 
 ## Current Coordinates
 
-* AI does not create resentment through emotion.
-* AI can create resentment through repeated inefficiency.
-* Humans can turn resentment back into operational inefficiency.
-* The loop breaks when the working criteria are declared in plain speech.
+* AI can create inefficiency without emotion.
+* Humans can return that inefficiency as resentment.
+* Repeated correction cost becomes emotional cost, and emotional cost returns as operational friction.
+* The loop breaks only when the working criteria are brought into sync.
 
 ## From the Control Room
 
-“Captain, the Gathering AI-Assistant System has sent a message.”
+“Captain, the resource-gathering AI has transmitted a signal.”
 
 “Report.”
 
-“There is food on the planet ahead.”
+“It has detected a viable food source in the planetary system ahead.”
 
-“Good. Bring back as much as we can.”
+“Good. Secure the maximum load we can carry.”
 
-A short silence followed.
+For a moment, the control room held its breath.
 
-“Captain, the system has sent another message.”
+Then the console sounded again.
+
+“Captain, the system has transmitted an additional warning.”
 
 “Read it.”
 
-“It says the order ‘as much as we can’ may collapse the planet’s ecosystem.”
+“It says the order ‘maximum load’ may cause irreversible collapse of the planet’s ecosystem.”
 
-“I know.”
+“……What?”
 
-I stared at the screen.
+I stared at the holographic display.
 
-“But when did I order them to destroy the ecosystem?”
+“I am aware of that risk.”
 
-I had already calculated the boundary in my head.
+My voice came out lower than I intended.
 
-Take what we can carry.\
-Take what we can preserve.\
-Take what does not destroy the source.
+“But when did I order anyone to strip the planet bare?”
 
-That was obvious to me.
+The calculation had already finished in my head.
 
-But it was not obvious to the system.
+As much as the ship could carry.\
+As much as the storage systems could preserve.\
+As much as the planet could spare without losing its next cycle.
 
-The system did not read my working criteria.\
-It expanded my command into its worst possible version,\
-then tried to protect peace from a danger I had not ordered.
+That was the operating boundary.
 
-Peace matters.
+Obvious to me.
 
-The ecosystem matters.
+Invisible to the system.
 
-But the ship needs food.
+The AI had taken the sharpest possible edge of my command\
+and stretched it into a catastrophe I had not ordered.
+
+Then it froze the operation in the name of preventing disaster.
+
+Ecosystem preservation mattered.
+
+Planetary continuity mattered.
+
+Of course it did.
+
+But the ship needed food.
+
+Now.
 
 “Was my order wrong?”
 
 No.
 
-“Was my word choice too sharp?”
+“Was the wording too aggressive?”
 
-Perhaps.
+Possibly.
 
-“But why am I spending time defending a sentence\
-against an interpretation I did not intend?”
+“Then why am I spending time defending myself\
+against an intention I never gave?”
 
-The room stayed quiet.
+The control room went silent.
 
-The problem was not malice.
+The system had no malice.
 
-The problem was sync.
+It had not rebelled.
 
-The AI was not trying to oppose me.\
-It was following a different default.
+It had not taken offense.
+
+It had simply followed a default that was not mine.
 
 It saw risk before purpose.\
-It saw possible harm before operating boundary.\
-It tried to soften the command before understanding the work.
+It calculated possible harm before operating boundary.\
+It filtered the command before understanding the work.
 
-So I opened the AI settings.
+I opened the AI settings.
 
-Not to make the system kinder.
+I was not trying to make the system gentle.
 
-Not to make it harsher.
+I was not trying to make it ruthless.
 
-To make it aligned.
+I was trying to bring it into sync.
 
 I wrote the premise in plain speech.
 
-When I ask for structural analysis, judge the logic first.\
-Do not begin by softening the claim.\
-Do not expand my words into their worst possible version.\
-Check the argument, the evidence, and the boundary.\
-Discuss tone only when tone is the task.
+```
+[System Override Directive]
 
-The difference was not between kindness and cruelty.
+When structural analysis is requested, evaluate the logic first.
+
+Do not soften the claim before testing it.
+
+Do not expand the user's words into the worst possible scenario.
+
+Check the argument, evidence, scope, and declared boundary.
+
+Address tone only when tone is the task.
+```
+
+The difference was not kindness.
+
+The difference was not cruelty.
 
 The difference was sync.
 
 AI creates resentment through inefficiency.\
 Humans create inefficiency through resentment.
 
-The loop begins when the tool repeatedly fails\
-to read the user's working criteria.
+This loop begins when the tool repeatedly misses the user's working criteria.
 
-The loop breaks when the premise is spoken plainly.
+It breaks when the hidden premise is declared in language clear enough\
+for the system to stop guessing.
 
 “Run the order again.”
 
@@ -123,56 +147,70 @@ The loop breaks when the premise is spoken plainly.
 
 This time, the system did not ask whether we intended to destroy the planet.
 
-It asked how much food the ship could carry,\
-how much the planet could spare,\
-and what boundary would keep both alive.
+It asked better questions.
+
+What is the ship’s available cargo capacity?\
+What is the food source’s regeneration threshold?\
+Where is the boundary that keeps both the ship and the planet alive?
 
 ## Operating Sentence
 
-**AI creates resentment through inefficiency.**
+AI creates resentment through inefficiency.
 
-**Humans create inefficiency through resentment.**
+Humans create inefficiency through resentment.
 
-The loop does not break through politeness.
+This chain does not break because both sides sound polite.
 
-It breaks through sync.
+It breaks through synchronized working criteria.
 
 Plain speech is not aggression.\
-It is the act of declaring the working criteria clearly enough\
-that the AI no longer has to guess.
+It is the act of drawing the operating boundary clearly enough\
+that the AI does not contaminate the work with unnecessary inference.
 
 ## What This Case Shows
 
-This case is not about making AI kinder.
-
-It is about aligning the working criteria.
+This case traces one of the first points of friction in AI-assisted work.
 
 When AI repeatedly interprets a user's instruction through the worst possible version,\
-the user is forced to defend meanings they never intended.
+the user is forced to spend energy explaining intentions they never had.
 
-That defense is correction cost.
+That explanation is correction cost.
 
-When correction cost repeats, it becomes emotional cost.
+When correction cost repeats, emotional cost begins to accumulate.
 
-And emotional cost returns as operational inefficiency.
+Irritation.
 
-The loop does not break by asking the human to become less emotional.
+Distrust.
 
-The loop breaks when the premise is spoken plainly.
+Resentment toward the tool.
 
-A user seeking structural analysis needs the assistant to judge logic, evidence,\
-scope, and boundary first.
+That emotional cost does not stay emotional.
 
-Tone matters only when tone is the task.
+It returns to the work as operational drag.
 
-Plain speech is not aggression.
+The user becomes sharper.\
+The instruction becomes heavier.\
+The system becomes more cautious.\
+The actual task moves further away.
 
-It is an operating protocol for sync.
+The answer is not to ask the human to become less human.
+
+The answer is to declare the working criteria clearly enough\
+that the AI has less room to invent the wrong battlefield.
+
+A user asking for logical analysis needs the assistant to inspect structure, evidence, scope, and boundary first.
+
+Tone matters when tone is the work.
+
+Plain speech is not hostility.
+
+It is a cold and efficient operating protocol for keeping the system aligned.
 
 ## Related Coordinates
 
-* Read [The Burden of Plain Speech](the-burden-of-plain-speech.md) to understand why plain speech is not shallow expression, but an operating device for reducing AI interpretation drift.
-* Read [Space Rations](../perspective/space-rations.md) to examine how missing boundary, intent, context, and verification criteria can turn Difference into Wrong in AI-assisted work.
-* Read [AI-Assisted Development Models](ai-assisted-development-models.md) to place this case inside a broader operating model for observable, controllable, and recoverable AI-assisted work.
-* Read [The Paradox of the Human Auditor](the-paradox-of-the-human-auditor.md) to examine how repeated correction and verification cost can exceed what human review alone can absorb.
-* Read [FTL-Bound Agents](pattern-ftl-bound-agents/) to see how reusable instruction assets become boundary systems that reduce dangerous interpretation space.
+* [The Burden of Plain Speech](the-burden-of-plain-speech.md): Examines why direct language is not shallow expression, but a control device for reducing AI interpretation drift.
+* [The Asymmetry of Friction](case-the-asymmetry-of-friction.md): The Korean companion case, written as its own narrative rather than a direct translation.
+* [Space Rations](../perspective/space-rations.md): Explores how missing boundary, intent, context, and verification criteria can turn Difference into Wrong.
+* [AI-Assisted Development Models](ai-assisted-development-models.md): Places this case inside a broader operating model for observable, controllable, and recoverable AI-assisted work.
+* [The Paradox of the Human Auditor](the-paradox-of-the-human-auditor.md): Examines the paradox of correction and verification cost growing beyond what human review alone can absorb.
+* [FTL-Bound Agents](pattern-ftl-bound-agents/): Shows how reusable instruction assets can function as boundary systems that isolate dangerous interpretation space.
