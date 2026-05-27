@@ -249,4 +249,5 @@ AI-assisted development는 더 빠른 코드 생성에서 끝나지 않는다.
 * [Codex as an Execution Layer (KR)](codex-as-an-execution-layer-kr.md)를 읽고, 관측, 요구사항, 제약, 경계, 완료 기준이 선언된 뒤 Codex가 하위 실행 계층에 놓이는 방식이 구체적인 도구 선택에 어떻게 적용되는지 살펴봅니다.
 * [The Paradox of the Human Auditor](the-paradox-of-the-human-auditor.md)를 읽고, 구조화된 검증 없이는 인간의 검토만으로도 충분하지 않은 이유를 살펴봅니다.
 * [The Burden of Plain Speech](the-burden-of-plain-speech.md)를 읽고, 명확한 지시가 AI-assisted work 안에서 어떻게 재사용 가능한 artifact가 되는지 탐구합니다.
+* [The Asymmetry of Friction](case-the-asymmetry-of-friction.md)를 읽고, AI의 기본 응답 기준과 사용자의 working criteria가 어긋날 때 교정 비용이 감정 비용과 운영 비용으로 전환되는 과정을 살펴봅니다.
 * [Why We Study (KR)](../perspective/why-we-study-kr.md)를 읽고, AI가 생성한 결과물을 판단하기 위해 필요한 문해력과 이 운영 모델을 연결합니다.

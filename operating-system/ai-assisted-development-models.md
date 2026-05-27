@@ -249,4 +249,5 @@ Beyond code generation, engineering begins with observation.
 * Read [Codex as an Execution Layer](codex-as-an-execution-layer.md) to see how this operating model is applied to a concrete tool choice, placing Codex downstream after observation, requirements, constraints, boundaries, and completion criteria have been declared.
 * Read [The Paradox of the Human Auditor](the-paradox-of-the-human-auditor.md) to examine why human review alone is not enough without structured verification.
 * Read [The Burden of Plain Speech](the-burden-of-plain-speech.md) to explore how clear instructions become reusable artifacts in AI-assisted work.
+* Read [The Asymmetry of Friction](case-the-asymmetry-of-friction.md) to see why observable AI-assisted work also depends on aligning the assistant with the user's working criteria.
 * Read [Why We Study](../perspective/why-we-study.md) to connect these operating models with the literacy required to judge AI-generated output.

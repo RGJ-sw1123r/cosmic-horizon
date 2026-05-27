@@ -375,5 +375,6 @@ It is a rigorous reduction of complex intent into a form that humans can finally
 ## Related Coordinates
 
 * Read [AI-Assisted Development Models](ai-assisted-development-models.md) to place clear instruction design inside a broader operating model for AI-assisted development.
+* Read [The Asymmetry of Friction](case-the-asymmetry-of-friction.md) to see how repeated mismatch between AI defaults and a user's working criteria turns correction cost into emotional and operational friction.
 * Read [The Paradox of the Human Auditor](the-paradox-of-the-human-auditor.md) to examine why unclear instructions increase the burden of verification.
 * Read [Why We Study](../perspective/why-we-study.md) to connect plain speech with the literacy required to judge, refine, and take responsibility for AI-generated output.

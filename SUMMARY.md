@@ -24,6 +24,7 @@
 * [Codex as an Execution Layer (KR)](operating-system/codex-as-an-execution-layer-kr.md)
 * [The Paradox of the Human Auditor](operating-system/the-paradox-of-the-human-auditor.md)
 * [The Burden of Plain Speech](operating-system/the-burden-of-plain-speech.md)
+* [\[case\] The Asymmetry of Friction](operating-system/case-the-asymmetry-of-friction.md)
 * [\[pattern\] FTL-Bound Agents](operating-system/pattern-ftl-bound-agents/README.md)
   * [\[protocol\] AGENTS.md Blueprint](operating-system/pattern-ftl-bound-agents/protocol-agents.md-blueprint.md)
 * [\[pattern\] FTL-Bound Agents (KR)](operating-system/pattern-ftl-bound-agents-kr/README.md)
