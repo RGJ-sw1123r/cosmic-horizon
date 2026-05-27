@@ -26,6 +26,7 @@
 * [The Burden of Plain Speech](operating-system/the-burden-of-plain-speech.md)
 * [\[case\] The Asymmetry of Friction](operating-system/case-the-asymmetry-of-friction.md)
 * [\[case\] The Asymmetry of Friction (KR)](operating-system/case-the-asymmetry-of-friction-kr.md)
+* [🛸 \[case\] Why my ship is ivory](operating-system/case-why-my-ship-is-ivory.md)
 * [🛸 \[case\] Why my ship is ivory (KR)](operating-system/case-why-my-ship-is-ivory-kr.md)
 * [\[pattern\] FTL-Bound Agents](operating-system/pattern-ftl-bound-agents/README.md)
   * [\[protocol\] AGENTS.md Blueprint](operating-system/pattern-ftl-bound-agents/protocol-agents.md-blueprint.md)
