@@ -41,6 +41,13 @@ But it is more accurately understood as a **map**.
 
 Some entries present perspective. Some define operating models. Others serve as field notes, templates, and reusable records.
 
+Many entries in this archive are case-driven.
+
+They begin with field friction, experiments, conversations, tools, or failures.\
+Those observations are compressed into language, then branch into operating models, protocols, cases, templates, and reusable records.
+
+Rather than attaching examples to abstract principles, this archive turns lived cases into coordinates that can be returned to.
+
 ## Why This Archive Is Written
 
 Documentation is not debris left after thought.\
