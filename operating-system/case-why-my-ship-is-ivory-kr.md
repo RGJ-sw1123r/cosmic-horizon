@@ -251,7 +251,9 @@ frontend/public/figma-publish-lab/
 
 > “Rien ne se crée, rien ne se perd, tout se transforme.”
 >
-> — Antoine Lavoisier
+> “아무것도 새로 생겨나지 않고, 아무것도 사라지지 않는다. 모든 것은 변형된다.”
+>
+> — 앙투안 라부아지에
 
 공정의 총비용도 같은 법칙을 따른다.
 
