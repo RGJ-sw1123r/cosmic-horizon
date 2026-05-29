@@ -776,5 +776,5 @@ AI가 달릴 때, 우리는 수평선이 어디에 있는지 알아야 한다.
 * [Counterargument After Observation](case-counterargument-after-observation.md)를 읽고, 빠른 판단으로 비판에 들어가기 전에, 왜 먼저 관측을 붙잡아야 하는지 살펴봅니다.
 * [The Gravity Behind Market Language (KR)](the-gravity-behind-market-language-kr.md)를 읽고, 엔지니어가 시장의 이름표를 구조, 비용, 위험, 책임으로 번역하는 방식을 탐구합니다.
 * [The Vanishing Senior (KR)](the-vanishing-senior-kr.md)를 읽고, AI가 배움, 검증, 시니어의 판단 사이의 관계를 어떻게 바꾸어 놓는지 추적합니다.
-* [The Paradox of the Human Auditor](../operating-system/the-paradox-of-the-human-auditor.md)를 읽고, 구조화된 검증 없이는 인간의 판단만으로도 충분하지 않은 이유를 살펴봅니다.
+* [The Paradox of the Human Auditor (KR)](../operating-system/the-paradox-of-the-human-auditor-kr.md)를 읽고, 구조화된 검증 없이는 인간의 판단만으로도 충분하지 않은 이유를 살펴봅니다.
 * [Why my ship is ivory (KR)](../operating-system/case-why-my-ship-is-ivory-kr.md)를 읽고, AI가 화면 구현을 가속하더라도 인간이 디자인 맥락, 코드 구조, 제품 책임을 검산할 수 있어야 하는 이유를 살펴봅니다.

@@ -117,5 +117,5 @@ AI는 인간이 저지르는 이러한 결함과 오류를 말끔하게 제거�
 * [The Gravity Behind Market Language (KR)](the-gravity-behind-market-language-kr.md)를 읽고, 시장의 기술 유행어(Label)를 구조, 비용, 위험, 책임이라는 단단한 엔지니어링 현실로 번역하는 법을 배웁니다.
 * [Why We Study (KR)](why-we-study-kr.md)를 읽고, 기계가 인간보다 언제나 빠르게 정답을 뱉어내는 시대에 왜 인간의 배움과 맥락 유지가 더 치열해져야 하는지 탐구합니다.
 * [Counterargument After Observation](case-counterargument-after-observation.md)를 읽고, 시니어의 빠른 판단과 구조화 능력이 오히려 타인의 신호(Signal)를 내 편견의 소음(Noise)으로 오염시키는 맹점을 해부합니다.
-* [The Paradox of the Human Auditor](../operating-system/the-paradox-of-the-human-auditor.md)를 읽고, 모든 것이 자동화된 세계에서 인간의 판단력이 생존하는 방식과 진화하는 역할을 추적합니다.
+* [The Paradox of the Human Auditor (KR)](../operating-system/the-paradox-of-the-human-auditor-kr.md)를 읽고, 모든 것이 자동화된 세계에서 인간의 판단력이 생존하는 방식과 진화하는 역할을 추적합니다.
 * [Space Rations](space-rations.md)를 읽고, AI 보조 엔지니어링 환경에서 마주하는 '진짜 틀린 패턴'과 '그저 나와 다를 뿐인 패턴'의 경계를 판별하는 법을 이해합니다.
