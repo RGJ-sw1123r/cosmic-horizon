@@ -522,6 +522,60 @@ AI가 즉시 찾아낼 수 있는 정보를 기억하는지 확인하는 시험.
 
 그리고 대리 지표가 너무 편리해지는 순간, 그것은 마케팅처럼 동작하기 시작한다.
 
+## 증명의 위치는 이동할 수 있다
+
+이 변화는 이론에만 머무르지 않는다.
+
+2025년 Palantir의 Meritocracy Fellowship은 의도적으로 도발적인 문장을 내세웠다.
+
+> “빚을 건너뛰고, 세뇌를 건너뛰고, Palantir degree를 얻으라.”
+
+핵심은 대학 학위가 아무 가치 없다는 말이 아니다.
+
+핵심은 credential이 만들어지는 위치가 흔들리고 있다는 점이다.
+
+학위는 한때 여러 신호를 한 번에 압축했다. 선발, 지속력, 문해력, 계층, 제도적 신뢰, 그리고 긴 공식 경로를 완주하는 능력.
+
+하지만 AI가 노동시장의 속도를 바꾸는 순간, 다른 종류의 credential이 등장하기 시작한다.
+
+실제 시스템 안에서 수행한 작업.
+
+검산을 견디는 artifact.
+
+압박 속에서 드러나는 agency.
+
+결과물 자체가 더 이상 희소하지 않은 환경에서, 충분히 빠르게 배우고, 충분히 신중하게 검증하며, 책임을 들고 갈 수 있는 능력.
+
+Alex Karp는 Palantir의 2025년 2분기 earnings call에서 같은 압력을 다른 각도에서 드러냈다.
+
+누군가 Palantir에 들어오는 순간, 그 사람이 Harvard, Princeton, Yale을 나왔든, 덜 유명한 학교를 나왔든, 학교를 가지 않았든, 그는 Palantirian이 된다.
+
+그 순간 회사는 작업 이력 자체를 credential로 바꾸려 한다.
+
+이것은 공부를 폐기하지 않는다.
+
+오히려 질문을 더 날카롭게 만든다.
+
+학위가 더 이상 혼자 충분히 크게 말하지 못한다면, 한 사람은 무엇을 남겨야 자신의 역량을 읽히게 할 수 있는가?
+
+답은 자신감일 수 없다.
+
+흔적이어야 한다.
+
+작동하는 artifact여야 한다.
+
+의사결정 기록이어야 한다.
+
+설명할 수 있는 시스템이어야 한다.
+
+책임과 접촉한 뒤에도 무너지지 않는 판단이어야 한다.
+
+credential은 사라지지 않는다.
+
+credential은 이동한다.
+
+그리고 credential이 이동할 때, 공부 역시 상징의 축적에서 읽을 수 있는 책임의 생산으로 이동해야 한다.
+
 ## 시험은 여전히 무엇을 측정하는가
 
 시험은 지능을 증명하는 최종 증거가 아니다.
@@ -769,6 +823,11 @@ AI가 달릴 때, 우리는 수평선이 어디에 있는지 알아야 한다.
 > “AI가 더 많은 결과를 만들어낼수록, 인간의 시선은 더 먼 곳을 향해야 한다. 결국 그 결과물 뒤에 서야 하는 이름은 **당신의 이름**이기 때문이다.”
 
 🧠
+
+## 참고 자료
+
+* **Palantir Meritocracy Fellowship** — Palantir, [The Meritocracy Fellowship](https://www.palantir.com/careers/meritocracy-fellowship/). 학위라는 제도적 credential에서 작업 기반 증명으로 시장 언어가 이동하는 외부 신호로 참고했다.
+* **Palantir Q2 2025 Earnings Call Remarks** — Business Insider, [Palantir CEO Alex Karp takes a shot at elite colleges](https://www.businessinsider.com/palantir-ceo-alex-karp-criticizes-elite-colleges-earnings-call-2025-8). Palantir가 계층과 학력 배경에서 독립된 credential을 만들고 있다는 Alex Karp의 발언을 확인하는 데 참고했다.
 
 ## 이웃 좌표계
 

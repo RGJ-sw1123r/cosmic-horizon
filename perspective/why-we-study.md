@@ -530,6 +530,46 @@ It means the market often prefers low-resolution proxies to high-resolution unde
 
 And the moment a proxy becomes too convenient, it starts to behave like marketing.
 
+## 증명의 위치는 이동할 수 있다
+
+이 변화는 이론의 바깥에서도 이미 모습을 드러내고 있다.
+
+2025년 Palantir의 능력주의 펠로십은 의도적으로 도발적인 문장을 내세웠다.
+
+> “빚을 건너뛰고, 세뇌를 건너뛰고, Palantir 학위를 얻으라.”
+
+이 문장은 대학 학위의 가치 자체보다, 증명이 만들어지는 위치를 흔든다.
+
+학위는 한때 여러 신호를 한 번에 압축했다. 선발, 지속력, 문해력, 계층, 제도적 신뢰, 그리고 긴 공식 경로를 완주하는 능력.
+
+인공지능이 노동시장의 속도를 바꾸면서, 증명은 제도적 학위 바깥에서도 생성되기 시작한다.
+
+실제 시스템 안에서 수행한 작업.
+
+검산을 견디는 artifact.
+
+압박 속에서 드러나는 주체성.
+
+결과물 자체가 더 이상 희소하지 않은 환경에서, 충분히 빠르게 배우고, 충분히 신중하게 검증하며, 책임을 들고 갈 수 있는 능력.
+
+Alex Karp는 Palantir의 2025년 2분기 실적 발표에서 같은 압력을 다른 각도에서 드러냈다.
+
+누군가 Palantir에 들어오는 순간, 그 사람이 Harvard, Princeton, Yale을 나왔든, 덜 유명한 학교를 나왔든, 학교를 가지 않았든, 그는 Palantir의 사람이 된다.
+
+그 순간 회사는 작업 이력 자체를 증명으로 바꾸려 한다.
+
+이 변화는 공부의 질문을 더 날카롭게 만든다.
+
+학위가 혼자 충분히 크게 말하지 못하는 시대에는, 한 사람이 무엇을 남겨야 자신의 역량을 읽히게 할 수 있는지가 더 중요해진다.
+
+답은 자신감보다 흔적에 가깝다. 작동하는 artifact여야 한다. 의사결정 기록이어야 한다. 설명할 수 있는 시스템이어야 한다. 책임과 접촉한 뒤에도 무너지지 않는 판단이어야 한다.
+
+증명은 사라지지 않는다.
+
+증명은 이동한다.
+
+그리고 증명이 이동할 때, 공부 역시 상징의 축적에서 읽을 수 있는 책임의 생산으로 이동해야 한다.
+
 ## What Do Exams Still Measure?
 
 An exam is not final proof of intelligence.
@@ -777,6 +817,11 @@ We study so that, even when we ride the machine, we do not lose direction.
 > “The more output AI produces, the farther the human gaze must reach. In the end, the name that stands behind that output is **yours**.”
 
 🧠
+
+## References
+
+* **Palantir Meritocracy Fellowship** — Palantir, [The Meritocracy Fellowship](https://www.palantir.com/careers/meritocracy-fellowship/). Used as an external signal that credential language is shifting from institutional degree toward work-based proof.
+* **Palantir Q2 2025 Earnings Call Remarks** — Business Insider, [Palantir CEO Alex Karp takes a shot at elite colleges](https://www.businessinsider.com/palantir-ceo-alex-karp-criticizes-elite-colleges-earnings-call-2025-8). Used to contextualize Alex Karp’s remarks on Palantir as a credential independent of class and educational background.
 
 ## Related Coordinates
 
