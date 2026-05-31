@@ -8,7 +8,7 @@ tags:
 
 # The Burden of Plain Speech
 
-> Translation Log
+> Navigation Log
 
 ## Current Coordinates
 
@@ -240,7 +240,7 @@ It can be reused.
 
 And above all, it can be audited.
 
-Without scaled thought, AI collaboration becomes code gacha barely above improvisational gambling.
+Without scaled thought, AI collaboration becomes improvised code gacha barely above gambling.
 
 With scaled thought, AI collaboration becomes controllable infrastructure.
 
