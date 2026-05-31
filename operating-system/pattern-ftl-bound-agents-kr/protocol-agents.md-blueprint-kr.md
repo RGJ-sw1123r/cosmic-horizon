@@ -433,4 +433,4 @@ AGENTS.md가 모든 프로젝트 문서를 품기 시작하면 다시 무거워�
 
 이 protocol의 상위 pattern은 [FTL-Bound Agents (KR)](./)에서 설명한다.
 
-bounded, observable, non-doctrinal AI-assisted work의 더 넓은 관점은 [Space Rations](../../perspective/space-rations.md)에서 이어진다.
+bounded, observable, non-doctrinal AI-assisted work의 더 넓은 관점은 [Space Rations (KR)](../../perspective/space-rations-kr.md)에서 이어진다.

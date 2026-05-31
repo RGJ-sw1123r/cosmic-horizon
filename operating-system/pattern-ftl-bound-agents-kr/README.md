@@ -299,7 +299,7 @@ AI 에이전트는 여전히 컨텍스트를 읽고, 패턴을 비교하고, 도
 
 ## 다음 좌표
 
-제한되고, 관측 가능하며, 교리화되지 않은 AI 보조 작업에 대한 더 깊은 관점은 [Space Rations](../../perspective/space-rations.md)에서 이어진다.
+제한되고, 관측 가능하며, 교리화되지 않은 AI 보조 작업에 대한 더 깊은 관점은 [Space Rations (KR)](../../perspective/space-rations-kr.md)에서 이어진다.
 
 이 패턴에서 파생된 구체적 프로토콜은 [AGENTS.md Blueprint (KR)](protocol-agents.md-blueprint-kr.md)에서 확인할 수 있다.
 

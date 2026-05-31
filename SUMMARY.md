@@ -15,6 +15,7 @@
 * [Why We Study (KR)](perspective/why-we-study-kr.md)
 * [\[case\] Counterargument After Observation](perspective/case-counterargument-after-observation.md)
 * [Space Rations](perspective/space-rations.md)
+* [Space Rations (KR)](perspective/space-rations-kr.md)
 
 ## Operating System
 

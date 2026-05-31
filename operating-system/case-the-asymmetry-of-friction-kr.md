@@ -193,7 +193,7 @@ AI가 쓸데없는 가정을 하지 못하도록 전제 조건을 칼같이 선�
 ## 이웃 좌표계
 
 * [The Burden of Plain Speech (KR)](the-burden-of-plain-speech-kr.md)는 직설적인 언어가 얕은 표현이 아니라, AI의 해석 왜곡(Drift)을 차단하는 강력한 통제 장치가 되는 이유를 분석합니다.
-* [Space Rations](../perspective/space-rations.md)는 경계, 의도, 맥락, 검증 기준이 누락되었을 때, 단순한 차이(Difference)가 어떻게 틀림(Wrong)으로 오인되는지 그 구조를 살핍니다.
+* [Space Rations (KR)](../perspective/space-rations-kr.md)는 경계, 의도, 맥락, 검증 기준이 누락되었을 때, 단순한 차이(Difference)가 어떻게 틀림(Wrong)으로 오인되는지 그 구조를 살핍니다.
 * [AI-Assisted Development Models (KR)](ai-assisted-development-models-kr.md)는 본 케이스를 관측 가능하고, 통제 가능하며, 복구 가능한 AI 협업 운영 모델의 프레임워크 안에 배치합니다.
 * [The Paradox of the Human Auditor (KR)](the-paradox-of-the-human-auditor-kr.md)는 인간의 검토만으로는 감당하기 어려울 정도로 불어나는 반복적 교정 및 검증 비용의 모순을 다룹니다.
 * [FTL-Bound Agents (KR)](pattern-ftl-bound-agents-kr/)는 재사용 가능한 프롬프트 자산이 AI의 위험한 자의적 해석 공간을 격리하는 방화벽(Boundary System)으로 기능하는 방식을 살펴봅니다.
