@@ -12,7 +12,7 @@ tags:
 
 ## Current Coordinates
 
-* Prompts are engineered artifacts, not disposable requests.
+* Prompts are engineered artifacts designed to endure, rather than disposable requests.
 * Plain speech begins with deep thought, scales through repeatable instruction patterns, and ends as language humans can understand and defend.
 * A good instruction reduces drift by defining the world in which AI is allowed to act.
 
@@ -20,7 +20,7 @@ tags:
 
 Instructions are interpreted, not merely executed.
 
-This is the first reality we must accept.
+This is the first cold reality we must accept.
 
 AI does not execute human words in a serial, copy-like manner.
 
@@ -34,7 +34,7 @@ It weighs priorities among conflicting conditions.
 
 It patches uncertainty with the most plausible form of false confidence.
 
-That is why, when an instruction is vague, AI does not stop.
+That is why, even when an instruction is vague, AI does not stop.
 
 In most cases, it does not ask a question.
 
@@ -42,11 +42,11 @@ It simply chooses a path.
 
 And that path may have little resemblance to the trajectory originally intended.
 
-When you say “Make it clean,” what core elements must the system preserve?
+When you say “Make it clean,” what core elements must the system maintain?
 
 When you say “Keep it simple,” where is the lower boundary of abstraction?
 
-When you say “Make it natural,” should the sharp intent of the original text remain intact?
+When you say “Make it natural,” how far should the sharp intent of the original text remain alive?
 
 When you say “Make it good,” what is the metric of “good”?
 
@@ -54,7 +54,7 @@ If these questions are not fixed into the instruction, AI will shape its own ans
 
 That answer may not be obviously wrong on the surface.
 
-But it will not be the answer you needed.
+But it may be a different result from the one you needed.
 
 The moment you accept this, prompting moves beyond simple writing.
 
@@ -62,7 +62,7 @@ A prompt is not merely an imperative sentence.
 
 It is an engineered artifact that combines intent, constraints, context, judgment criteria, prohibitions, and verification conditions.
 
-A superior instruction is not a longer instruction.
+A good instruction is not judged by length.
 
 A superior instruction preserves exactly enough autonomy for execution while blocking the dangerous space of misinterpretation.
 
@@ -70,7 +70,7 @@ Writing a good prompt is not about pouring countless words into the machine.
 
 It is about fixing the boundary lines that AI must never interpret differently.
 
-## The Same Prompt Is Not the Same Instruction
+## Same Sentence, Different Instruction
 
 The same prompt does not guarantee the same result.
 
@@ -162,7 +162,7 @@ Weak input can be transformed into a plausible, polished, and beautifully struct
 
 A shallow prompt does not always produce visible defects.
 
-Sometimes, it produces elegant garbage.
+Sometimes, it produces **elegant garbage**.
 
 Deep thought does not blindly make a prompt longer.
 
@@ -184,9 +184,9 @@ The deeper the thought, the less the instruction drifts.
 
 ## Scale the Thought
 
-A good thought must not stop inside the narrow fence of personal understanding.
+There is little value in leaving a good thought inside one person’s head.
 
-It must scale.
+That thought must scale.
 
 An instruction that only I can barely grasp is fragile.
 
@@ -216,17 +216,17 @@ It must have strict prohibitions.
 
 This is what it means to scale the thought.
 
-A scaled thought is not merely a larger thought.
+A scaled thought is judged by repeatability, not size.
 
-It is a repeatable thought.
+It is also a repeatable thought.
 
-It is a thought that can be transplanted into another context.
+And it is a thought that can be transplanted into another context.
 
-It is a thought that preserves its original direction even when executed by someone else.
+A scaled thought preserves its original direction even when executed by someone else.
 
-It is not a disposable phrase thrown at AI and then lost.
+It is not a disposable phrase that disappears after being thrown once at AI.
 
-It becomes a permanent coordinate for engineering.
+It becomes an enduring coordinate for engineering.
 
 The moment a prompt passes through this stage, it ceases to be a one-time conversation.
 
@@ -240,7 +240,7 @@ It can be reused.
 
 And above all, it can be audited.
 
-Without scaled thought, AI collaboration remains improvisational gambling.
+Without scaled thought, AI collaboration becomes code gacha barely above improvisational gambling.
 
 With scaled thought, AI collaboration becomes controllable infrastructure.
 
@@ -248,9 +248,9 @@ With scaled thought, AI collaboration becomes controllable infrastructure.
 
 Only at the final stage should we speak plainly.
 
-To speak simply and plainly does not mean to think shallowly.
+Simple, plain language should be the result of deep thought compressed to the end.
 
-It does not mean denying the complex reality of engineering.
+Plain speech is formed by passing straight through the complex reality of engineering.
 
 Plain speech is a high-level act of abstraction: the distillation of extreme complexity into a final form that human judgment can actually digest.
 
@@ -260,13 +260,13 @@ It is a sentence that allows the executor to immediately understand what must be
 
 A good explanation does not expose raw complexity in its unrefined state.
 
-It tames that complexity, leaving only the essence so the reader never loses the core structure.
+It contains that complexity, leaving only the essence so the reader never loses the core structure.
 
 AI can generate an almost infinite volume of output.
 
 But humans cannot take responsibility for results they cannot comprehend.
 
-AI can produce millions of lines of machine logs.
+AI can produce tens of thousands of lines of machine logs.
 
 But logs that humans cannot interpret will never translate into decisions.
 
@@ -274,7 +274,7 @@ AI can perform astonishingly complex refactoring.
 
 But if the intent behind that change cannot be explained plainly, the code will never earn the trust of the team.
 
-That is why plain speech is not mere kindness.
+That is why plain speech is more than mere kindness.
 
 It is an engineering obligation required to bear responsibility.
 
@@ -286,9 +286,7 @@ The verification metrics must be presented in plain language.
 
 When the system breaks, the first place to inspect must be pinpointed in plain language.
 
-Plain speech is not the opposite of deep thought.
-
-Plain speech is the final form that remains after complex thought survives the filters of verification and scale.
+Plain speech is the final form that remains after complex thought survives the filters of scale and verification.
 
 Think deeper.
 
@@ -350,9 +348,9 @@ We must build the infrastructure that allows that thought to scale into a repeat
 
 And at the final milestone, we must translate that immense complexity back into language humans can understand and take responsibility for.
 
-To speak plainly is not to become shallow.
+To speak plainly is a high-level form of control.
 
-It is a high-level form of control: the translation of uncontrollable complexity into a structure that can be judged.
+It is the translation of uncontrollable complexity into a structure that can be judged.
 
 If AI generates countless hypotheses in the language of machines, humans must declare a clear framework of value amidst the noise of possibility.
 
@@ -366,9 +364,7 @@ The best explanation is not a simple summary.
 
 It is a rigorous reduction of complex intent into a form that humans can finally stand behind with their own name.
 
-> **Plain speech is not the opposite of deep thought.**
->
-> **Plain speech is what remains after deep thought has survived contact with scale.**
+> **Plain speech is the final form left after deep thought has passed through scale and verification.**
 
 🧭
 
@@ -378,3 +374,4 @@ It is a rigorous reduction of complex intent into a form that humans can finally
 * Read [The Asymmetry of Friction](case-the-asymmetry-of-friction.md) to see how repeated mismatch between AI defaults and a user's working criteria turns correction cost into emotional and operational friction.
 * Read [The Paradox of the Human Auditor](the-paradox-of-the-human-auditor.md) to examine why unclear instructions increase the burden of verification.
 * Read [Why We Study](../perspective/why-we-study.md) to connect plain speech with the literacy required to judge, refine, and take responsibility for AI-generated output.
+* Read [FTL-Bound Agents](pattern-ftl-bound-agents/) to see how reusable instruction assets extend into boundary systems for AI-assisted work.
