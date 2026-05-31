@@ -25,6 +25,7 @@
 * [The Paradox of the Human Auditor](operating-system/the-paradox-of-the-human-auditor.md)
 * [The Paradox of the Human Auditor (KR)](operating-system/the-paradox-of-the-human-auditor-kr.md)
 * [The Burden of Plain Speech](operating-system/the-burden-of-plain-speech.md)
+* [The Burden of Plain Speech (KR)](operating-system/the-burden-of-plain-speech-kr.md)
 * [\[case\] The Asymmetry of Friction](operating-system/case-the-asymmetry-of-friction.md)
 * [\[case\] The Asymmetry of Friction (KR)](operating-system/case-the-asymmetry-of-friction-kr.md)
 * [🛸 \[case\] Why my ship is ivory](operating-system/case-why-my-ship-is-ivory.md)
