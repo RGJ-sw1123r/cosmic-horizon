@@ -770,8 +770,8 @@ AI가 달릴 때, 우리는 수평선이 어디에 있는지 알아야 한다.
 
 ## 참고 자료
 
-* **Palantir Meritocracy Fellowship** — Palantir, [The Meritocracy Fellowship](https://www.palantir.com/careers/meritocracy-fellowship/). 학위라는 제도적 credential에서 작업 기반 증명으로 시장 언어가 이동하는 외부 신호로 참고했다.
-* **Palantir Q2 2025 Earnings Call Remarks** — Business Insider, [Palantir CEO Alex Karp takes a shot at elite colleges](https://www.businessinsider.com/palantir-ceo-alex-karp-criticizes-elite-colleges-earnings-call-2025-8). Palantir가 계층과 학력 배경에서 독립된 credential을 만들고 있다는 Alex Karp의 발언을 확인하는 데 참고했다.
+* **Palantir 능력주의 펠로십** — Palantir, [The Meritocracy Fellowship](https://www.palantir.com/careers/meritocracy-fellowship/). 학위라는 제도적 credential에서 작업 기반 증명으로 시장 언어가 이동하는 외부 신호로 참고했다.
+* **Palantir 2025년 2분기 실적 발표 발언** — Business Insider, [Palantir CEO Alex Karp takes a shot at elite colleges](https://www.businessinsider.com/palantir-ceo-alex-karp-criticizes-elite-colleges-earnings-call-2025-8). Palantir가 계층과 학력 배경에서 독립된 credential을 만들고 있다는 Alex Karp의 발언을 확인하는 데 참고했다.
 
 ## 이웃 좌표계
 
