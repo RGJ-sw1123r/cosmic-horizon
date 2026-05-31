@@ -19,7 +19,7 @@ tags:
 ## Current Coordinates
 
 * AI-assisted development is not a doctrine to worship; it is space rations, taken out only when the mission requires it.
-* Difference is a coordinate to observe and coordinate; Wrong is a risk to audit and control.
+* Difference is a coordinate to observe and work with; Wrong is a risk to audit and control.
 * Security does not end with a declaration of blocking. It becomes engineering only when it designs conditions for controlled usability.
 
 ## Different is not Wrong
@@ -244,7 +244,7 @@ Cosmic Horizon is a coordinate left in the distance.
 * Read [The Asymmetry of Friction](../operating-system/case-the-asymmetry-of-friction.md) to examine how an AI can expand a user's instruction into its worst possible version when working criteria are not declared plainly.
 * Read [FTL-Bound Agents](../operating-system/pattern-ftl-bound-agents/) to see how bounded, observable, and non-doctrinal AI-assisted work becomes an agent instruction pattern.
 
-### Navigation Log — day 15102: Captain’s Doctrine
+## Navigation Log — day 15102: Captain’s Doctrine
 
 Refusing to turn technology into doctrine does not mean drifting without any rule.
 
