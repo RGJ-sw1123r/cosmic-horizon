@@ -514,11 +514,9 @@ Alex Karp는 Palantir의 2025년 2분기 실적 발표에서 같은 압력을 �
 
 답은 자신감보다 흔적에 가깝다. 작동하는 artifact여야 한다. 의사결정 기록이어야 한다. 설명할 수 있는 시스템이어야 한다. 책임과 접촉한 뒤에도 무너지지 않는 판단이어야 한다.
 
-증명은 사라지지 않는다.
+증명은 형태와 위치를 바꾸며 이동한다.
 
-증명은 이동한다.
-
-그리고 증명이 이동할 때, 공부 역시 상징의 축적에서 읽을 수 있는 책임의 생산으로 이동해야 한다.
+그 이동과 함께 공부 역시 상징의 축적에서 읽을 수 있는 책임의 생산으로 옮겨 가야 한다.
 
 ## 시험은 여전히 무엇을 측정하는가
 
@@ -770,8 +768,8 @@ AI가 달릴 때, 우리는 수평선이 어디에 있는지 알아야 한다.
 
 ## 참고 자료
 
-* **Palantir 능력주의 펠로십** — Palantir, [The Meritocracy Fellowship](https://www.palantir.com/careers/meritocracy-fellowship/). 학위라는 제도적 credential에서 작업 기반 증명으로 시장 언어가 이동하는 외부 신호로 참고했다.
-* **Palantir 2025년 2분기 실적 발표 발언** — Business Insider, [Palantir CEO Alex Karp takes a shot at elite colleges](https://www.businessinsider.com/palantir-ceo-alex-karp-criticizes-elite-colleges-earnings-call-2025-8). Palantir가 계층과 학력 배경에서 독립된 credential을 만들고 있다는 Alex Karp의 발언을 확인하는 데 참고했다.
+* **Palantir 능력주의 펠로십** — Palantir, [The Meritocracy Fellowship](https://www.palantir.com/careers/meritocracy-fellowship/). 학위라는 제도적 증명에서 작업 기반 증명으로 시장 언어가 이동하는 외부 신호로 참고했다.
+* **Palantir 2025년 2분기 실적 발표 발언** — Business Insider, [Palantir CEO Alex Karp takes a shot at elite colleges](https://www.businessinsider.com/palantir-ceo-alex-karp-criticizes-elite-colleges-earnings-call-2025-8). Palantir가 계층과 학력 배경에서 독립된 증명을 만들고 있다는 Alex Karp의 발언을 확인하는 데 참고했다.
 
 ## 이웃 좌표계
 
