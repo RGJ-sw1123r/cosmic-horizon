@@ -10,17 +10,23 @@ tags:
 # Space Rations
 
 > AI-assisted development is not doctrine.\
-> It is a ration: useful, compressed, situational, and dangerous when mistaken for a complete diet.
+> It is closer to space rations: useful, compressed, situational, and dangerous when mistaken for a complete diet.
 >
 > **Captain’s Order**\
 > Take only what the mission requires.\
 > Do not mistake rations for the whole diet.
 
+## Current Coordinates
+
+* AI-assisted development is not a doctrine to worship; it is space rations, taken out only when the mission requires it.
+* Difference is a coordinate to observe and coordinate; Wrong is a risk to audit and control.
+* Security does not end with a declaration of blocking. It becomes engineering only when it designs conditions for controlled usability.
+
 ## Different is not Wrong
 
-Wars happen more often between those who believe they share the same root than between completely separate worlds.
+Conflicts last longer, and break out more often, around heresy than around foreign faith.
 
-When two worlds are accepted as different, their boundaries remain intact.\
+When two worlds are accepted as different, their boundaries remain relatively intact.\
 The problem begins when one side tries to bind the other inside the same system and judges small differences as errors.
 
 Human relationships work the same way.
@@ -29,56 +35,55 @@ When someone speaks strongly, we move too quickly toward “you are wrong.” Bu
 
 To distinguish Wrong from Different, we sometimes need the discipline to say:
 
-That is not my concern.
+> That is not my concern.
 
-This is not indifference.\
-It is the act of temporarily turning off one’s own subjective standards and judgments. Only then does the other person’s world begin to appear without distortion.
+This may sound like indifference. In practice, it is the act of temporarily suspending one’s own subjective standards and judgments. Only then does the other person’s world begin to appear without distortion.
 
-First, observe.\
+First, observe.\
 Listen to what the other person is saying, and look at the experience and assumptions behind their position.
 
-Then, understand.\
+Then, understand.\
 Open the argument, and separate its logic, emotion, interests, and boundaries.
 
-Only after that can we declare.\
-We may say, “That is wrong.”\
+Only after that can we declare.\
+We may say, “That is wrong.”\
 Or we may say, “From your position, that makes sense.”
 
-Many conflicts grow when this order is skipped.\
+Many conflicts grow when this order is skipped.\
 When we judge without observation, and declare without understanding, Different turns into Wrong too easily.
 
 AI works the same way.
 
-AI cannot accurately understand a world it was never allowed to observe.\
+AI cannot accurately understand a world it was never allowed to observe.\
 If I do not provide enough boundary, intent, context, and verification criteria, AI fills the empty space in its own way.
 
 The result may look highly plausible.
 
-Plausibility is not correctness.
+But plausibility alone proves neither correctness nor truth.
 
-Plausibility is not truth.
-
-If I fail to explain the Different I want, AI returns Wrong to me in a polished form.\
+If I fail to explain the Different I want, AI returns Wrong to me in a polished form.\
 It packages incorrect answers as if they were correct, fills missing context with inference, and presents unverified results as if they were complete.
 
-Therefore, the central question in AI-assisted development is not whether we trust AI or distrust it.
+Therefore, the central question in AI-assisted development does not remain at whether we trust AI or distrust it.
 
-Make it observe first.\
-Make it understand next.\
+Make it observe first.\
+Make it understand next.\
 Make it declare before execution.
 
-Most AI failures happen not because the model lacks ability, but because a human allowed execution without first providing boundaries.
+Many AI failures do not happen because the model lacks ability.\
+They happen because a human allowed execution before providing boundaries.
 
-Different is something to coordinate.\
+Different is something to coordinate.\
 Wrong is a risk to control.
 
-When this distinction collapses, engineering stops being judgment and becomes an inquisition.
+When this distinction collapses, engineering judgment turns into an inquisition.
 
 ## Two Arrogances, Two Isolations
 
 The development market in the age of AI is being torn into a strange set of extremes.
 
-On one side, there is legacy fundamentalism: the belief that the way we have always worked is the only correct way, and that unfamiliar technical systems should be rejected as wrong. Instead of accepting the speed of change, it hides behind familiar conventions.
+On one side, there is legacy fundamentalism.\
+It is the belief that the way we have always worked is the only correct way, and that unfamiliar technical systems should be rejected as wrong. Instead of accepting the speed of change, it hides behind familiar conventions.
 
 On the other side, there are those who claim that AI will replace most of the existing development process, and that vibe coding—producing code from a few lines of prompt—is the only future. They are intoxicated by generation speed without fully seeing the structural risks.
 
@@ -87,7 +92,7 @@ The two positions appear to stand on opposite sides.
 At their core, they resemble each other.
 
 Both turn their own method into doctrine.\
-Both judge other methods as wrong.\
+Both judge other methods as Wrong.\
 Both interpret coordinates they cannot see as danger.
 
 The moment technology becomes a religious doctrine, one side becomes isolated and the other sinks.
@@ -95,7 +100,7 @@ The moment technology becomes a religious doctrine, one side becomes isolated an
 The problem is not a specific technology stack.\
 The problem is not a specific language, a specific framework, or vibe coding itself.
 
-The problem is the attitude that turns any technology or methodology into the only correct answer.
+The real problem is the attitude that turns any technology or methodology into the only correct answer.
 
 ## Security-Driven Starvation
 
@@ -105,13 +110,13 @@ Sending internal code, customer information, or business data directly into exte
 
 But if an organization cuts off internet access and blocks external AI use in the name of an internal network, it must also provide usable alternatives inside that same network.
 
-Blocking external AI because of an internal network, while providing no open-source LLM, approved internal model, local inference environment, AI usage logs, verifiable work boundaries, approval process, or auditable record system, is closer to systemic engineering starvation than security.
+If an organization blocks external AI because of an internal network, while providing no open-source LLM, approved internal model, local inference environment, AI usage logs, verifiable work boundaries, approval process, or auditable record system, that is engineering starvation.
 
 That environment does not make developers better engineers.
 
 Instead of expanding their capacity to structure requirements, evaluate alternatives, and verify results, it produces coders who process given specifications inside a sealed environment.
 
-It is not a humane engineering environment.
+It is difficult to call that a humane engineering environment.
 
 It is closer to minimum survival rations that barely prevent starvation.
 
@@ -123,7 +128,7 @@ An organization that labels AI-assisted development as Wrong by default does not
 
 It needs controlled usability.
 
-Blocking AI and controlling AI are not the same.
+Blocking AI and controlling AI are different.
 
 Blocking is easy.\
 Design is hard.
@@ -138,15 +143,18 @@ It is one method among many that an engineer may choose. It can be powerful in t
 
 An unfamiliar technical system is not wrong simply because it is unfamiliar.
 
-Conversely, the human process of building structure from the ground up is not primitive simply because AI can generate an implementation in seconds.
+Conversely, the human process of building structure from the ground up does not become primitive simply because AI can generate an implementation in seconds.
 
-AI-assisted development is compressed rations: useful for survival in specific situations, dangerous when turned into doctrine.
+AI-assisted development is closer to space rations.\
+It is compressed rations that can help survival in specific situations, and it becomes dangerous the moment it turns into doctrine.
 
-It is compressed. It can be taken out quickly. It can help survival in specific situations.
+It is compressed.\
+It can be taken out quickly.\
+It can help survival in specific situations.
 
 But the moment it is mistaken for a complete development system, it becomes dangerous.
 
-Without the basic physical strength of architectural literacy, system invariants, data flow, responsibility boundaries, and verifiability, AI-centered development becomes malnutrition, not productivity.
+Without the basic physical strength of architectural literacy, system invariants, data flow, responsibility boundaries, and verifiability, AI-centered development becomes malnutrition in the name of productivity.
 
 There is no absolute doctrine in engineering.
 
@@ -165,11 +173,11 @@ A development style I am not familiar with?\
 An unfamiliar structure proposed by AI?\
 An automated pipeline instead of a manual process?
 
-Those are not Wrong.
+These are not Wrong.
 
 They are Different.
 
-Different is something to observe, understand, and orchestrate when needed.
+Different is something to observe, understand, and coordinate when needed.
 
 The real Wrong lies elsewhere.
 
@@ -190,26 +198,33 @@ Wrong must be audited and controlled.
 
 ## The Flexibility of the One Holding the Reins
 
-A true engineer does not stake everything on style and judge another person’s method as wrong.
+A true engineer does not stake everything on one style and judge another person’s method as Wrong.
 
-To organizations that cling to legacy, they must be able to show that there is another way: using AI inside observable boundaries to reduce risk.
+To organizations that cling to legacy, they must be able to show that there is another way.\
+They must be able to explain how AI can reduce risk when used inside observable boundaries.
 
-To those who worship vibe coding, they must also be able to say that it is only one method, and that generation without architectural literacy is close to gambling.
+To those who worship vibe coding, they must also be able to say that it is only one method.\
+They must also be able to say that repeating generation without the ability to read architecture is close to gambling.
 
 We do not worship machines or technology.\
 We do not reject them either.
 
-We take only what is needed, consume it inside observable boundaries, and take responsibility for the result.
+We take only what the mission requires.\
+We consume it inside observable boundaries.\
+And we take responsibility for the result.
 
 In an age without doctrine, a true engineer does not turn their own method into gospel.
 
 They enjoy Difference, but control Wrong with precision.\
-They use tools when the mission requires them, and keep them under observable boundaries.\
+They use tools when the mission requires them, and keep those tools inside observable boundaries.\
 Then they record the path they crossed for the next voyage.
 
 That is why this page leaves observed coordinates.
 
-It records one way of navigating this orbit: use the tool, keep it bounded, and take responsibility for the result.
+It records one way of navigating this orbit.\
+Use the tool.\
+Keep the boundary.\
+Take responsibility for the result.
 
 Do not mistake Difference for Wrong.
 
@@ -229,7 +244,7 @@ Cosmic Horizon is a coordinate left in the distance.
 * Read [The Asymmetry of Friction](../operating-system/case-the-asymmetry-of-friction.md) to examine how an AI can expand a user's instruction into its worst possible version when working criteria are not declared plainly.
 * Read [FTL-Bound Agents](../operating-system/pattern-ftl-bound-agents/) to see how bounded, observable, and non-doctrinal AI-assisted work becomes an agent instruction pattern.
 
-## Navigation Log — day 15102: Captain’s Doctrine
+### Navigation Log — day 15102: Captain’s Doctrine
 
 Refusing to turn technology into doctrine does not mean drifting without any rule.
 
@@ -253,6 +268,6 @@ Others may chart their own orbit from here.
 
 > Different opens the map.\
 > Wrong breaks the ship.\
-> **Coordinates remain for those who can read the signal.**
+> **The coordinates remain with those who can read the signal.**
 >
 > — Cosmic Horizon
