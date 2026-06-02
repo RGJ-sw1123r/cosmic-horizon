@@ -8,9 +8,9 @@ tags:
 
 # \[protocol] AGENTS.md Blueprint (KR)
 
-이 문서는 보편 AGENTS.md가 아니다.
+이 문서는 보편 AGENTS.md를 목표로 하지 않는다.
 
-이 문서는 blueprint다.
+blueprint다.
 
 [FTL-Bound Agents (KR)](./)에서 파생된 reference implementation이다.
 
@@ -20,19 +20,19 @@ tags:
 
 거부하고 자기 프로젝트에 맞는 구조를 새로 만들어도 된다.
 
-핵심은 이 파일을 그대로 상속하는 것이 아니라, agent가 따라야 할 boundary system을 먼저 정의하는 데 있다.
+핵심은 이 파일을 그대로 복제하는 데 있지 않다. agent가 따라야 할 boundary system을 먼저 정의하는 데 있다.
 
 특히 [FTL-Bound Agents (KR)](./)의 “질량을 줄여라”를 명심해야 한다.
 
-AGENTS.md는 프로젝트 매뉴얼 전체가 아니다.
+AGENTS.md가 프로젝트 매뉴얼 전체를 떠안기 시작하면 무거워진다.
 
-이 문서는 이런 방식으로 경계를 설정할 수 있다는 방향을 제시한다. 이대로 쓰라는 뜻이 아니다.
+이 문서는 이런 방식으로 경계를 설정할 수 있다는 방향을 제시한다. 그대로 쓰라는 명령으로 읽어서는 안 된다.
 
 ## Prompt 언어 원칙
 
-Agent에게 직접 전달되는 prompt, instruction, rule file은 되도록 영어로 작성하는 편이 안전하다.
+agent가 직접 읽는 prompt, instruction, rule file은 되도록 영어로 작성하는 편이 안전하다.
 
-한글 prompt도 사람이 읽기에는 자연스럽지만, agent가 내부적으로 한 번 더 영어로 번역해 처리하는 과정에서 개발자가 의도하지 않은 오독이 발생할 수 있다.
+한글 prompt는 사람이 읽기에는 자연스럽지만, agent가 내부적으로 한 번 더 영어로 번역해 처리하는 과정에서 개발자가 의도하지 않은 오독이 발생할 수 있다.
 
 이 오독은 문법 오류처럼 바로 드러나지 않는다.
 
@@ -48,7 +48,7 @@ Agent는 그 오독을 바탕으로 정상적으로 추론한 것처럼 행동�
 
 이 blueprint는 indirect prompt injection, 즉 IPI를 줄이기 위한 Untrusted Content Boundary를 포함한다.
 
-이 규칙만으로 platform-level protection이 활성화되는 것은 아니다.
+이 규칙만으로 platform-level protection이 활성화되지는 않는다.
 
 이 문서는 boundary rule을 정의한다. 신뢰할 수 없는 외부 콘텐츠는 관측될 수 있지만, instruction authority가 되어서는 안 된다.
 
@@ -413,13 +413,11 @@ If that world is not defined enough to act safely, the agent must not widen it b
 
 필요 없다면 거부해도 된다.
 
-중요한 것은 이 AGENTS.md 본문 자체가 아니다.
-
-중요한 것은 agent가 실행하기 전에 어떤 세계 안에서 행동할 수 있는지, 어떤 경계를 넘으면 멈춰야 하는지, 무엇을 관측하고 무엇을 검증해야 하는지를 먼저 정의하는 것이다.
+중요한 것은 AGENTS.md 본문 자체보다, agent가 실행하기 전에 어떤 세계 안에서 행동할 수 있는지, 어떤 경계를 넘으면 멈춰야 하는지, 무엇을 관측하고 무엇을 검증해야 하는지를 먼저 정의하는 데 있다.
 
 AGENTS.md가 모든 프로젝트 문서를 품기 시작하면 다시 무거워진다.
 
-그 순간 agent instruction file은 route가 아니라 project manual이 된다.
+그 순간 agent instruction file은 route에서 project manual로 변한다.
 
 이 blueprint를 사용할 때도 [FTL-Bound Agents (KR)](./)의 “질량을 줄여라”를 먼저 확인해야 한다.
 
@@ -431,6 +429,6 @@ AGENTS.md가 모든 프로젝트 문서를 품기 시작하면 다시 무거워�
 
 ## 다음 좌표
 
-이 protocol의 상위 pattern은 [FTL-Bound Agents (KR)](./)에서 설명한다.
+이 protocol의 상위 패턴은 [FTL-Bound Agents (KR)](./)에서 설명한다.
 
 bounded, observable, non-doctrinal AI-assisted work의 더 넓은 관점은 [Space Rations (KR)](../../perspective/space-rations-kr.md)에서 이어진다.
