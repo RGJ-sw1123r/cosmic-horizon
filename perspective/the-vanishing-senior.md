@@ -124,3 +124,4 @@ Only true architects can lead the next great voyage: those who can stand under t
 * Read [Counterargument After Observation](case-counterargument-after-observation.md) to examine the blind spot where a senior's fast judgment and structuring ability can contaminate another person's signal into the noise of their own bias.
 * Read [The Paradox of the Human Auditor](../operating-system/the-paradox-of-the-human-auditor.md) to trace how human judgment survives and evolves in a world where everything is automated.
 * Read [Space Rations](space-rations.md) to understand how to distinguish between patterns that are genuinely wrong and patterns that are merely different in AI-assisted engineering.
+* Read [The Engine: That Which No Single Name Can Hold](the-engine-that-which-no-single-name-can-hold.md) to see why titles and years of experience cannot fully replace the load, operating history, and working structure beneath a name.

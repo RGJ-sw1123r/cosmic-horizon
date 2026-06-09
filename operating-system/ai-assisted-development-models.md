@@ -251,3 +251,4 @@ Beyond code generation, engineering begins with observation.
 * Read [The Burden of Plain Speech](the-burden-of-plain-speech.md) to explore how clear instructions become reusable artifacts in AI-assisted work.
 * Read [The Asymmetry of Friction](case-the-asymmetry-of-friction.md) to see why observable AI-assisted work also depends on aligning the assistant with the user's working criteria.
 * Read [Why We Study](../perspective/why-we-study.md) to connect these operating models with the literacy required to judge AI-generated output.
+* Read [The Engine: That Which No Single Name Can Hold](../perspective/the-engine-that-which-no-single-name-can-hold.md) to see how a workflow that cannot be folded into a single name can be extended into an operating model for AI-assisted development.

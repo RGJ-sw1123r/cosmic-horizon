@@ -366,6 +366,7 @@ That is why I use Codex.
 * Read [AI-Assisted Development Models](ai-assisted-development-models.md) to understand the observation system behind this tool choice, and why Codex is placed in the lower execution layer only after requirements, constraints, boundaries, and completion criteria have been declared.
 * Read [FTL-Bound Agents](pattern-ftl-bound-agents/) to understand how agent instruction files act as operating boundaries so that execution layers like Codex do not expand the scope of work through interpretation.
 * Read [AGENTS.md Blueprint](pattern-ftl-bound-agents/protocol-agents.md-blueprint.md) to see how those boundaries can be implemented as a repeatable project instruction system in the form of AGENTS.md.
+* Read [The Engine: That Which No Single Name Can Hold](../perspective/the-engine-that-which-no-single-name-can-hold.md) to see how judgment, execution, load, and operating history move beneath the name of a tool.
 
 ## Source Notes
 

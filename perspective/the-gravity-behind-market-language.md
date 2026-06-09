@@ -293,3 +293,4 @@ It is the one who observes why that label appeared, what force pushed that word 
 * Read [Counterargument After Observation](case-counterargument-after-observation.md) to examine how fast structuring ability can contaminate another person's signal into the noise of one's own bias.
 * Read [Space Rations](space-rations.md) to examine the difference between Different and Wrong, and the hidden side of responsibility, in AI-assisted engineering.
 * Read [AI-Assisted Development Models](../operating-system/ai-assisted-development-models.md) to move beyond personal perspective and into an operating model for AI-assisted development.
+* Read [The Engine: That Which No Single Name Can Hold](the-engine-that-which-no-single-name-can-hold.md) to see how the working structure beneath a market name can be folded into a single nameplate.

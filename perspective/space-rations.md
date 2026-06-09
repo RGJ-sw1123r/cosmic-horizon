@@ -243,6 +243,7 @@ Cosmic Horizon is a coordinate left in the distance.
 * Read [AI-Assisted Development Models](../operating-system/ai-assisted-development-models.md) to move from this perspective into an operating model for AI-assisted development.
 * Read [The Asymmetry of Friction](../operating-system/case-the-asymmetry-of-friction.md) to examine how an AI can expand a user's instruction into its worst possible version when working criteria are not declared plainly.
 * Read [FTL-Bound Agents](../operating-system/pattern-ftl-bound-agents/) to see how bounded, observable, and non-doctrinal AI-assisted work becomes an agent instruction pattern.
+* Read [The Engine: That Which No Single Name Can Hold](the-engine-that-which-no-single-name-can-hold.md) to see what is lost when the name of a technology or methodology begins to stand in for the whole working structure.
 
 ## Navigation Log — day 15102: Captain’s Doctrine
 
