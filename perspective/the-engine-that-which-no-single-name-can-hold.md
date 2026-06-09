@@ -32,7 +32,7 @@ It has a model name, a manufacturer, a displacement, and a fuel type. Maintenanc
 
 A name is an entrance.
 
-An engine needs a name in order to be found, compared, and placed inside a market. Without that name, the engine is hard to discover.
+An engine needs a name in order to be found, compared, and placed in a market. Without that name, the engine is hard to discover.
 
 Yet the name attached for discovery can begin, at some point, to stand in for the entire engine. From that point on, the actual working structure is pushed behind the nameplate.
 
@@ -139,7 +139,7 @@ The way the engine actually created force disappears.
 
 The engine moves beneath the nameplate.
 
-The name is attached to the outside, and the real force is made inside. Old wear, repeated maintenance, endured load, newly connected devices, and the road ahead together form the engine's present.
+The name is attached to the outside, and the real force is generated inside. Old wear, repeated maintenance, endured load, newly connected devices, and the road ahead together form the engine's present.
 
 That is why no single name can explain an engine all the way down.
 
@@ -164,7 +164,7 @@ This is a story about an engine, and also a captain's record of reading the dire
 
 The nameplate was necessary.
 
-Without it, the engine could not be found in the market. No one could refer to it. No one could know which parts had to be found in which warehouse.
+Without it, the engine could not be found in the market. No one could refer to it. No one could know where to find which parts.
 
 But the nameplate was never enough.
 
