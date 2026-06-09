@@ -28,7 +28,7 @@ tags:
 
 Every engine is given a name.
 
-It has a model name, a manufacturer, a displacement, and a fuel type. Maintenance records need a name. Warehouses need a name when parts have to be found. Without a name, it is difficult to call, difficult to find, and difficult to trade.
+It has a model name, a manufacturer, a displacement, and a fuel type. Maintenance records need a name. Warehouses need a name when parts have to be found. Without a name, it is difficult to refer to, difficult to find, and difficult to trade.
 
 A name is an entrance.
 
@@ -46,7 +46,7 @@ The names attached to the outside may look similar.
 
 The structures moving inside are different.
 
-The nameplate is attached to the outside, and the real force is made inside. What the name shows is only the thinnest surface of the engine. To understand the engine, one has to look beneath that surface.
+The nameplate is attached to the outside, and the real force is generated inside. What the name shows is only the thinnest surface of the engine. To understand the engine, one has to look beneath that surface.
 
 ## The List of Parts, the Motion of the Engine
 
@@ -63,7 +63,7 @@ Fuel enters. Air mixes. Pressure builds. Heat is generated. That force is delive
 
 Some vibrations are signs of failure.\
 Some noises are the way an old structure endures.\
-Some losses of output are not problems with a part, but problems in the environment where the engine is placed.
+Some losses of output are not problems with a part, but problems in the operating environment.
 
 A name cannot hold all of this complexity.
 
@@ -77,7 +77,7 @@ The mechanic listens to the engine, feels the heat, reads the vibration, and che
 
 The name is a starting point.
 
-To understand the engine, one has to look inside the name. One has to see what kind of force it was designed to create, where that force is delivered, what loads it has endured, and where it wears down most often. One also has to see what must be preserved and what must be changed in order to make it move again.
+To understand the engine, one has to look beneath the name. One has to see what kind of force it was designed to create, where that force is delivered, what loads it has endured, and where it wears down most often. One also has to see what must be preserved and what must be changed in order to make it move again.
 
 Reading the nameplate is easy.
 
@@ -160,11 +160,11 @@ And that size is proven not by the name, but by the load it has endured and the 
 
 ## Calibration Log — day 15124: Captain's Record
 
-This is a story about an engine, and also a captain's record of reading the direction and load of a system behind the nameplate called a tech stack.
+This is a story about an engine, and also a captain's record of reading the direction and load of a system behind the nameplate of a tech stack.
 
 The nameplate was necessary.
 
-Without it, the engine could not be found inside the market. No one could call it. No one could know which parts had to be found in which warehouse.
+Without it, the engine could not be found in the market. No one could refer to it. No one could know which parts had to be found in which warehouse.
 
 But the nameplate was never enough.
 
