@@ -176,6 +176,7 @@ The working structure is the voyage.
 
 > A name lets the engine be found.\
 > The load proves the engine.\
+> The captain sails within the sound, heat, vibration, and load of the engine.\
 > **Coordinates remain with those who can read the structure moving beneath the nameplate.**
 >
 > — Cosmic Horizon
