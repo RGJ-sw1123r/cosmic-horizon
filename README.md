@@ -8,6 +8,9 @@ description: >-
 
 **Language:** English | [한국어](cosmic-horizon-start-here-kr.md)
 
+> AI now writes code.\
+> The harder problem is deciding what humans must judge, verify, and take responsibility for.
+
 ## What This Archive Is
 
 Cosmic Horizon is an essay-driven engineering archive for turning observations about software, AI-assisted work, and human judgment into coordinates that can be understood, refined, and returned to.
@@ -39,7 +42,9 @@ This is how the signal travels: not through mass persuasion, but through deep-sp
 You may read this archive as a set of essays.\
 But it is more accurately understood as a **map**.
 
-Some entries present perspective. Some define operating models. Others serve as field notes, templates, and reusable records.
+This archive does not need to be read from beginning to end like a book. It is a map to reopen when a coordinate needs to be checked again.
+
+Some entries present perspective. Some define operating models. Others serve as field notes, templates, reusable records, and navigational instruments for the next execution.
 
 Many entries in this archive are case-driven.
 
