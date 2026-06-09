@@ -239,6 +239,7 @@ Cosmic Horizon은 먼 곳에 남겨 둔 좌표다.
 * [AI-Assisted Development Models (KR)](../operating-system/ai-assisted-development-models-kr.md)를 읽고, 이 관점을 AI 보조 개발의 운영 모델로 확장합니다.
 * [The Asymmetry of Friction (KR)](../operating-system/case-the-asymmetry-of-friction-kr.md)를 읽고, 작업 기준이 명료하게 선언되지 않았을 때 AI가 사용자의 지시를 최악의 형태로 확장하는 과정을 살펴봅니다.
 * [FTL-Bound Agents (KR)](../operating-system/pattern-ftl-bound-agents-kr/)를 읽고, 경계가 있고 관측 가능하며 교리화되지 않은 AI 보조 작업이 어떻게 에이전트 지시 패턴으로 바뀌는지 확인합니다.
+* [The Engine: That Which No Single Name Can Hold (KR)](the-engine-that-which-no-single-name-can-hold-kr.md)를 읽고, 기술과 방법론의 이름이 작동 구조 전체를 대신하기 시작할 때 어떤 손실이 생기는지 확인합니다.
 
 ## 항법 로그 — day 15102: 함장의 교리
 

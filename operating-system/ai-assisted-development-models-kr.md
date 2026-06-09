@@ -249,3 +249,4 @@ AI-assisted development는 더 빠른 코드 생성에서 끝나지 않는다.
 * [The Burden of Plain Speech (KR)](the-burden-of-plain-speech-kr.md)를 읽고, 명확한 지시가 AI-assisted work 안에서 어떻게 재사용 가능한 artifact가 되는지 탐구합니다.
 * [The Asymmetry of Friction (KR)](case-the-asymmetry-of-friction-kr.md)를 읽고, AI의 기본 응답 기준과 사용자의 working criteria가 어긋날 때 교정 비용이 감정 비용과 운영 비용으로 전환되는 과정을 살펴봅니다.
 * [Why We Study (KR)](../perspective/why-we-study-kr.md)를 읽고, AI가 생성한 결과물을 판단하기 위해 필요한 문해력과 이 운영 모델을 연결합니다.
+* [The Engine: That Which No Single Name Can Hold (KR)](../perspective/the-engine-that-which-no-single-name-can-hold-kr.md)를 읽고, 하나의 직무명이나 기술 스택으로 축소되지 않는 작업 흐름이 AI 보조 개발 모델 안에서 어떻게 확장되는지 확인합니다.

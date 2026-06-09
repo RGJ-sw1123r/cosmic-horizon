@@ -9,6 +9,7 @@
 * [🐎 Ride, Don’t Race (KR)](perspective/ride-dont-race-kr.md)
 * [The Gravity Behind Market Language](perspective/the-gravity-behind-market-language.md)
 * [The Gravity Behind Market Language (KR)](perspective/the-gravity-behind-market-language-kr.md)
+* [The Engine: That Which No Single Name Can Hold (KR)](perspective/the-engine-that-which-no-single-name-can-hold-kr.md)
 * [The Vanishing Senior](perspective/the-vanishing-senior.md)
 * [The Vanishing Senior (KR)](perspective/the-vanishing-senior-kr.md)
 * [Why We Study](perspective/why-we-study.md)

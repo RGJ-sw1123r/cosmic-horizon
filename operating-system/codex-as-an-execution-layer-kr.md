@@ -338,6 +338,7 @@ AI에게 실행을 맡긴다.\
 * [AI-Assisted Development Models (KR)](ai-assisted-development-models-kr.md)는 이 도구 선택의 배경이 되는 observation system을 설명합니다. 요구사항, 제약, 경계, 완료 기준이 선언된 뒤 Codex가 하위 실행 계층에 놓이는 이유와 연결됩니다.
 * [FTL-Bound Agents (KR)](pattern-ftl-bound-agents-kr/)는 Codex 같은 실행 계층의 작업 범위를 선언된 경계 안에 유지하기 위해, agent instruction file을 운영 경계로 다루는 방식을 설명합니다.
 * [AGENTS.md Blueprint (KR)](pattern-ftl-bound-agents-kr/protocol-agents.md-blueprint-kr.md)는 그 경계를 AGENTS.md 형태의 반복 가능한 프로젝트 지시 체계로 구현하는 방식을 보여줍니다.
+* [The Engine: That Which No Single Name Can Hold (KR)](../perspective/the-engine-that-which-no-single-name-can-hold-kr.md)를 읽고, 도구의 이름보다 그 아래에서 움직이는 판단, 실행, 부하의 구조를 확인합니다.
 
 ## Source Notes
 
