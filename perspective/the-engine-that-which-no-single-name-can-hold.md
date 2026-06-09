@@ -19,9 +19,9 @@ tags:
 
 ## Current Coordinates
 
-* A name is the minimum entrance required to be found inside a market.
+* A name is the minimum entrance required to be found in a market.
 * No single name can hold all of the technology, layer, domain, responsibility, load, and operating history.
-* A nameplate is necessary. That marker alone cannot explain the working structure of the engine to the end.
+* A nameplate is necessary. That marker alone cannot fully explain the working structure of the engine.
 * When the name of a tech stack begins to point to the whole engine, explanation shrinks into classification.
 
 ## The Entrance Called a Name
@@ -85,7 +85,7 @@ Reading what is actually interlocked and moving beneath the nameplate is much ha
 
 ## Large Engines with Small Nameplates
 
-At times, I see a strange disproportion.
+At times, I see a strange sense of disproportion.
 
 Engines with sufficiently complex structures try to explain themselves with a very small name. One engine calls itself a piston. Another calls itself a cooling system. Another calls itself an output shaft.
 
@@ -95,13 +95,13 @@ Still, the question remains.
 
 Why do those engines try to explain only one thing, when they are able to explain many?
 
-There is a strange disproportion in the sight of an engine with enormous output fitting its body to a mere nameplate. An engine that may be able to produce great force, endure for a long time, and withstand rough loads crams itself into a small nameplate.
+There is a strange sense of disproportion in the sight of an engine with enormous output fitting its body to a mere nameplate. An engine that may be able to produce great force, endure for a long time, and withstand rough loads crams itself into a small nameplate.
 
 That smallness is not a matter of performance.
 
 The more precise and powerful the engine is, the larger the actual working structure hidden behind that short name becomes. The longer an engine has run, the more operating history it carries beyond what a few catalog lines can explain.
 
-The problem begins when the engine itself starts accepting that name as its whole self. The nameplate helps the engine be found, but an engine that fits its body to the nameplate begins to forget the force that was actually moving inside it.
+The problem begins when the engine itself starts accepting that name as its entire self. The nameplate helps the engine be found, but an engine that fits its body to the nameplate begins to forget the force that was actually moving inside it.
 
 ## Classification and Reality
 
@@ -141,7 +141,7 @@ The engine moves beneath the nameplate.
 
 The name is attached to the outside, and the real force is made inside. Old wear, repeated maintenance, endured load, newly connected devices, and the road ahead together form the engine's present.
 
-That is why an engine cannot be explained to the end by a single name.
+That is why no single name can explain an engine all the way down.
 
 A name is necessary.\
 An engine trapped inside a name cannot go farther.
@@ -168,7 +168,7 @@ Without it, the engine could not be found inside the market. No one could call i
 
 But the nameplate was never enough.
 
-The voyage always happened beneath the nameplate. The load was applied inside. The heat seethed inside. The wear remained in the operating history. How far this engine can go is not decided by a single name.
+The voyage always happened beneath the nameplate. The load was borne inside. The heat seethed inside. The wear remained in the operating history. How far this engine can go is not decided by a single name.
 
 A name is only a signal.
 
