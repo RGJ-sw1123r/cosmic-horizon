@@ -234,7 +234,7 @@ Cosmic Horizon은 먼 곳에 남겨 둔 좌표다.
 
 ## 이웃 좌표계
 
-* [Counterargument After Observation](case-counterargument-after-observation.md)를 읽고, Different와 Wrong의 경계가 AI 응답을 넘어 인간의 피드백, 반론, 리더십으로 어떻게 확장되는지 확인합니다.
+* [Counterargument After Observation (KR)](case-counterargument-after-observation-kr.md)를 읽고, Different와 Wrong의 경계가 AI 응답을 넘어 인간의 피드백, 반론, 리더십으로 어떻게 확장되는지 확인합니다.
 * [Ride, Don’t Race (KR)](ride-dont-race-kr.md)를 읽고, Cosmic Horizon의 핵심 항법 철학으로 돌아갑니다.
 * [AI-Assisted Development Models (KR)](../operating-system/ai-assisted-development-models-kr.md)를 읽고, 이 관점을 AI 보조 개발의 운영 모델로 확장합니다.
 * [The Asymmetry of Friction (KR)](../operating-system/case-the-asymmetry-of-friction-kr.md)를 읽고, 작업 기준이 명료하게 선언되지 않았을 때 AI가 사용자의 지시를 최악의 형태로 확장하는 과정을 살펴봅니다.

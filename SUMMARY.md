@@ -16,6 +16,7 @@
 * [Why We Study](perspective/why-we-study.md)
 * [Why We Study (KR)](perspective/why-we-study-kr.md)
 * [\[case\] Counterargument After Observation](perspective/case-counterargument-after-observation.md)
+* [\[case\] Counterargument After Observation (KR)](perspective/case-counterargument-after-observation-kr.md)
 * [Space Rations](perspective/space-rations.md)
 * [Space Rations (KR)](perspective/space-rations-kr.md)
 
