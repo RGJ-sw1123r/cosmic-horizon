@@ -7,7 +7,7 @@ tags:
 
 # \[case] The Asymmetry of Friction (KR)
 
-> 항법 로그
+> 관측 로그
 >
 > **지휘통제실(Control Room)에서**
 
