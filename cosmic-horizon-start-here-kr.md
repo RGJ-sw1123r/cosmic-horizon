@@ -1,5 +1,5 @@
 ---
-description: AI 보조 개발, 인간의 판단, 관측 가능한 엔지니어링 작업을 다루는 에세이 기반 엔지니어링 아카이브입니다.
+description: AI 활용 개발, 인간의 판단, 관측 가능한 엔지니어링 작업을 다루는 에세이 기반 엔지니어링 아카이브입니다.
 ---
 
 # 🔭 Cosmic Horizon: Start Here (KR)
@@ -9,17 +9,25 @@ description: AI 보조 개발, 인간의 판단, 관측 가능한 엔지니어�
 > AI는 코드를 작성하는 시대입니다.\
 > 더 어려운 문제는 인간이 무엇을 판단하고, 검증하고, 책임질 것인지 정하는 일입니다.
 
+## Cosmic Horizon의 의미
+
+천문학에서 우주 지평선(Cosmic Horizon)은 관측 가능한 우주의 가장 바깥 경계, 곧 우리에게 신호가 닿을 수 있는 가장 먼 한계를 뜻합니다.
+
+이 궤도에서 **Cosmic Horizon**은 내가 경험한 AI 활용 개발의 관측 가능한 세계 전체를 가리킵니다. 코드, 도구, 프롬프트, 문서, 판단, 검증, 회복, 책임이 모두 이 안에 들어옵니다.
+
+정제되지 않은 기술적 신호와, 그 신호들을 하나의 작업으로 붙들어 두는 인간의 결정이 맞닿는 경계선입니다.
+
 ## 이 아카이브는 무엇인가
 
-Cosmic Horizon은 소프트웨어, AI 보조 개발, 그리고 인간의 판단을 둘러싼 관측을 기록하고, 이해하고, 다시 돌아올 좌표로 바꾸는 에세이 기반 엔지니어링 아카이브입니다.
+Cosmic Horizon은 소프트웨어, AI 활용 개발, 그리고 인간의 판단을 둘러싼 관측을 기록하고 이해하여, 언제든 다시 돌아올 수 있는 좌표로 변환하는 에세이 기반 엔지니어링 아카이브입니다.
 
 이 아카이브는 AI가 개발 속도를 바꾸는 시대에, 소프트웨어 작업 안에서 구조, 제약, 검증, 복귀, 책임을 어떻게 다룰 것인지에 집중합니다.
 
 ## 누구를 위한 문서인가
 
-이 아카이브는 AI와 함께 일하되, 구조, 판단, 책임을 포기하지 않으려는 개발자, 기술 리더, 그리고 아키텍처를 고민하는 사람들을 위한 문서입니다.
+이 아카이브는 AI와 협업하되 구조, 판단, 책임을 타협하지 않는 개발자, 기술 리더, 그리고 아키텍처적 관점을 지닌 엔지니어들을 위한 기록입니다.
 
-동시에 내 사고의 속도가 관측보다 앞서 나갈 때마다, 다시 원점으로 돌아오기 위한 나만의 이정표이기도 합니다.
+동시에 내 사고의 속도가 관측을 앞지를 때마다, 다시 원점으로 돌아오기 위한 나만의 이정표이기도 합니다.
 
 ## 은유를 읽는 법
 
@@ -47,43 +55,40 @@ _이것 또한 의도한 바입니다._
 
 ## 이 아카이브를 어떻게 읽을 것인가
 
-이 아카이브는 에세이 모음처럼 읽을 수도 있습니다.
+이 페이지들은 첫눈에 에세이처럼 보일 수 있지만, 본질은 **지도**에 가깝습니다.
 
-그러나 각각의 기록은 하나의 좌표계 안에서 서로를 비춥니다.\
-어떤 글은 관측이 되고, 어떤 글은 운영 모델이 되며, 어떤 글은 다음 실행을 위한 항법 장치가 됩니다.
+이 아카이브는 책처럼 처음부터 끝까지 순서대로 읽을 필요가 없습니다. 필요할 때마다 다시 펼쳐 좌표를 확인하는 지도입니다.
 
-따라서 이 아카이브는 책처럼 처음부터 끝까지 따라 읽을 필요가 없습니다. 필요할 때마다 다시 펼쳐 좌표를 확인하는 **지도**입니다.
+이 좌표계 안에서 각각의 기록은 서로를 비춥니다. 어떤 글은 관측이 되고, 어떤 글은 운영 모델이 되며, 어떤 글은 다음 실행을 위한 항법 장치가 됩니다.
 
-이 아카이브의 많은 기록은 case-driven 방식으로 전개됩니다.
+이 아카이브의 많은 기록은 사례 중심(case-driven)으로 전개됩니다.
 
-먼저 현장의 마찰, 실험, 대화, 도구 사용, 실패가 관측됩니다.\
-그 관측은 문장으로 압축되고, 다시 운영 모델, protocol, case, template, record로 갈라집니다.
+먼저 현장의 마찰, 실험, 대화, 도구 사용, 실패가 관측됩니다. 그 관측은 문장으로 압축되고, 다시 운영 모델, 프로토콜(protocol), 케이스(case), 템플릿(template), 재사용 가능한 기록(record)으로 갈라집니다.
 
-그래서 이곳의 글들은 추상 원칙을 사례에 덧붙이는 흐름보다, 사례에서 출발해 반복 가능한 좌표로 정리되는 흐름을 따릅니다.
+그래서 이곳의 글들은 추상적인 원칙에 사례를 덧붙이는 흐름이 아니라, 생생한 사례에서 출발해 반복 가능한 좌표로 정리되는 흐름을 따릅니다.
 
 ## 이 아카이브는 왜 존재하는가
 
-문서화는 생각이 끝난 뒤에 남는 잔해가 아닙니다.\
-낯선 signal을 관측하고, 그것을 다시 돌아올 수 있는 단단한 좌표로 바꾸는 행위입니다.
+문서화는 생각이 끝난 뒤에 남는 잔해(debris)가 아닙니다. 낯선 신호(signal)를 관측하고, 그것을 다시 돌아올 수 있는 단단한 좌표로 선언하는 행위입니다.
 
-인사이트가 그저 한 번 스쳐 지나가는 반응으로 사라지지 않도록 이 아카이브를 씁니다.\
-무언가를 관측하면 이해하려고 하고, 이해한 것은 다시 돌아올 수 있는 형태로 선언해 두려는 시도입니다.
+인사이트가 그저 한 번 스쳐 지나가는 잔상으로 사라지지 않도록 이 아카이브를 씁니다. 무언가를 관측하면 이해하려고 하고, 이해한 것은 다시 돌아올 수 있는 형태로 선언해 두려는 시도입니다.
 
-이 아카이브는 내가 다시 돌아오기 위한 좌표입니다.
+이 페이지들은 내가 다시 돌아오기 위한 좌표입니다.
 
 판단이 너무 빨라질 때, 언어가 모호해질 때, 혹은 AI가 책임보다 빠르게 작업을 가속할 때, 이 아카이브는 언제든 원점으로 돌아오기 위한 이정표가 됩니다.
 
 ## 이 아카이브가 움직이는 방식
 
-* [Ride, Don’t Race (KR)](perspective/ride-dont-race-kr.md)에서 출발하면 이 아카이브의 기본 철학을 확인할 수 있습니다.
-* [AI-Assisted Development Models (KR)](operating-system/ai-assisted-development-models-kr.md)를 읽으면 AI-assisted work를 다루는 운영 모델을 이해할 수 있습니다.
-* [FTL-Bound Agents (KR)](operating-system/pattern-ftl-bound-agents-kr/)를 읽으면 AGENTS.md, CLAUDE.md 같은 agent instruction file을 AI-assisted work의 boundary system으로 설계하는 관점을 볼 수 있습니다.
-* [Codex Chat Viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)를 보면 이 orbit에서 나온 실제 artifact를 확인할 수 있습니다. Codex CLI 세션 로그를 관측하고, 검토하고, 문서화하고, 다시 돌아보기 위해 만든 local-first viewer입니다.
-* [Why my ship is ivory (KR)](operating-system/case-why-my-ship-is-ivory-kr.md)를 읽고, 하나의 Figma MCP와 Codex 실험이 어떻게 실행 로그, 검산 가능한 증거, 그리고 작업 경계의 재해석으로 변환되는지 살펴봅니다.
+* 이 아카이브를 지탱하는 철학적 원점(Origin)은 [Ride, Don’t Race (KR)](perspective/ride-dont-race-kr.md)에서 시작됩니다.
+* AI 보조 작업을 다루는 운영 모델을 이해하고 싶다면 [AI-Assisted Development Models (KR)](operating-system/ai-assisted-development-models-kr.md)를 읽어보세요.
+* AGENTS.md, CLAUDE.md 같은 에이전트 지침 파일을 AI 보조 작업의 경계 시스템(boundary system)으로 설계하는 관점을 보려면 [FTL-Bound Agents (KR)](operating-system/pattern-ftl-bound-agents-kr/)를 확인합니다.
+* 이 궤도에서 나온 실제 결과물을 확인하려면 [Codex Chat Viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)를 살펴봅니다. Codex CLI 세션 로그를 관측, 검토, 문서화하고 다시 돌아보기 위해 구축한 로컬 우선(local-first) 뷰어입니다.
+* 하나의 Figma MCP와 Codex 실험이 어떻게 실행 로그, 검산 가능한 증거, 그리고 작업 경계의 재해석으로 변환되는지 보려면 [Why My Ship Is Ivory (KR)](operating-system/case-why-my-ship-is-ivory-kr.md)를 읽어보세요.
 
 ## Links
 
 * GitHub: [@RGJ-sw1123r](https://github.com/RGJ-sw1123r)
+* LinkedIn: [Riu Salze](https://www.linkedin.com/in/riusalze)
 * Published Site: [Visit Cosmic Horizon](https://riu-salze-studio.gitbook.io/cosmic-horizon/)
 
 ## License
