@@ -7,7 +7,7 @@ tags:
   - case
 ---
 
-# 🛸 \[case] Why my ship is ivory
+# 🛸 \[case] Why My Ship Is Ivory
 
 > Navigation log
 >
@@ -50,10 +50,10 @@ Even the designer’s intention, extending beyond the visible frame.
 
 The blueprint was already speaking.
 
-On the old route, this blueprint would have left the shipyard and moved into the hands of a web publisher, a dedicated HTML/CSS implementation role often seen in South Korean web production workflows.
+On the old route, this blueprint would have left the shipyard and moved into the hands of an intermediate HTML/CSS implementer, a role that often sits between design and development in South Korean web production workflows.
 
 The designer would draw the screen.\
-The web publisher would build the HTML/CSS skeleton.\
+The intermediate implementer would build the HTML/CSS skeleton.\
 The developer would connect state and data on top of it.
 
 For a long time, this process was treated as a safe division of labor.
@@ -221,13 +221,13 @@ frontend/public/figma-publish-lab/
 
 ## What This Case Shows
 
-This experiment is less a declaration that deletes the web publisher role and more a record of how ownership over screen implementation can move.
+This experiment is less a declaration that deletes an intermediate implementation role and more a record of how ownership over screen implementation can move.
 
 The milestone is clear.
 
 > By combining Figma MCP and Codex,\
 > a developer can obtain first-pass screen implementation directly from a designer’s Figma blueprint,\
-> without routing the work through a dedicated web publisher.
+> without routing the work through a dedicated intermediate implementer.
 
 The quality bar remains.
 
@@ -246,7 +246,7 @@ The work moves from building the wall from zero to inspecting the cracks and off
 
 The developer’s responsibility moves with it.
 
-In this flow, the developer does not remain a downstream connector who simply receives a static screen from a publisher.
+In this flow, the developer does not remain a downstream connector who simply receives a static screen from an intermediate implementer.
 
 The developer moves into the position of inspecting and reconciling the difference between design context, AI-generated code, and product architecture.
 
@@ -264,7 +264,7 @@ In the traditional process, cost accumulated in a linear waiting chain.
 
 ```
 Designer
-→ Web Publisher
+→ Intermediate Implementer
 → Developer
 → Revision Request
 → Re-publishing
@@ -291,11 +291,11 @@ Codex usage and developer attention are finite resources.
 
 When a developer spends AI usage and judgment energy on screen implementation, less remains for other development work.
 
-At this point, the web publisher role may be preserved by being rearranged rather than erased.
+At this point, the intermediate implementation role may be preserved by being rearranged rather than erased.
 
 The core of this change is not the disappearance of a single job title. It is the renegotiation of ownership over the intermediate process between design and development.
 
-A web publisher may move toward becoming an AI-assisted UI implementer.\
+The person holding that intermediate role may move toward becoming an AI-assisted UI implementer.\
 A web designer may expand their role from Figma into first-pass implementation.\
 A developer may take responsibility for review and product integration earlier in the process.
 
@@ -332,7 +332,7 @@ That is why my ship is ivory.
 
 ## Operating Sentence
 
-A screen can be launched without a dedicated web publisher.
+A screen can be launched without a dedicated intermediate implementer.
 
 This sentence does not lower the UI quality bar. It relocates the screen implementation process while keeping that bar in place.
 
