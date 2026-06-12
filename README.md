@@ -25,17 +25,25 @@ It focuses on structure, constraints, verification, recovery, and responsibility
 This archive is for developers, technical leads, and those who care about architecture while working with AI without giving up structure, judgment, or responsibility.\
 It is also my own landmark for returning to origin whenever the speed of my thinking moves ahead of observation.
 
-## Deep-Space Transmission
+## Reading the Metaphors
 
-Cosmic Horizon is not an archive built to persuade the masses.
+> A month of typhoons in the China Sea, a cracked mainmast, and a crew on half-rations.
+>
+> Yet, it is all settled the moment the first chest is opened in London.
+>
+> One sip of that black tea, and you realize the ocean was never our master.
 
-It exists to leave artifacts with clear coordinates.
+This archive speaks in the language of navigation, orbit, signal, rations, and return.
 
-Like the Voyager Golden Record drifting through the deep cosmic ocean, this archive does not shout at the crowd.
+These terms compress the raw, complex realities of engineering: uncertainty, constraints, drift, recovery, judgment, and responsibility. They serve as a precise vehicle to carry technical weight across different minds, roles, and depths of knowledge.
 
-It waits to be discovered by those who can read its signal.
+I enjoy reinterpreting my own understanding and reframing it for others. If these metaphors fail to land, it is simply because our focal points and perspectives diverge.
 
-This is how the signal travels: not through mass persuasion, but through deep-space transmission.
+_That, too, is by design._
+
+What is your domain of choice? Bring it forward, and I will gladly re-map it into the metaphors of your own world.
+
+_This, too, is by design._
 
 ## How to Read This Archive
 
