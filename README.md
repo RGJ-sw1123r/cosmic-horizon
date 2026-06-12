@@ -89,6 +89,7 @@ When judgment moves too fast, when language becomes vague, or when AI accelerate
 ## Links
 
 * GitHub: [@RGJ-sw1123r](https://github.com/RGJ-sw1123r)
+* LinkedIn: [Riu Salze](https://www.linkedin.com/in/riusalze)
 * Published Site: [Visit Cosmic Horizon](https://riu-salze-studio.gitbook.io/cosmic-horizon/)
 
 ## License
