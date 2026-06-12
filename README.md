@@ -8,8 +8,20 @@ description: >-
 
 **Language:** English | [한국어](cosmic-horizon-start-here-kr.md)
 
-> AI now writes code.\
-> The harder problem is deciding what humans must judge, verify, and take responsibility for.
+> **Are you using AI?**\
+> &#xNAN;_&#x52;eally?_
+>
+> **Do you trust what it produces?**\
+> &#xNAN;_&#x52;eally?_
+>
+> **Have you inspected what it changed, what it broke, and what you are now responsible for?**\
+> &#xNAN;_&#x52;eally?_
+>
+> ***
+>
+> AI can now produce code faster than people can verify it.
+>
+> Cosmic Horizon is a map for the work that remains human: judgment, verification, recovery, and responsibility.
 
 ## What Cosmic Horizon Means
 
