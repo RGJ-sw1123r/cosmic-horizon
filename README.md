@@ -17,13 +17,10 @@ Cosmic Horizon is an essay-driven engineering archive for turning observations a
 
 It focuses on structure, constraints, verification, recovery, and responsibility in software work shaped by AI.
 
-> “The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.”\
-> — Often attributed to Marcel Proust
-
 ## Who This Is For
 
 This archive is for developers, technical leads, and those who care about architecture while working with AI without giving up structure, judgment, or responsibility.\
-It is also my own landmark for returning to origin whenever the speed of my thinking moves ahead of observation.
+It is also my own landmark for returning to origin whenever the speed of my thinking outpaces observation.
 
 ## Reading the Metaphors
 
@@ -47,7 +44,7 @@ _This, too, is by design._
 
 ## How to Read This Archive
 
-You may read this archive as a set of essays.\
+These pages may resemble essays at first glance, but they are better understood as a map.\
 But it is more accurately understood as a **map**.
 
 This archive does not need to be read from beginning to end like a book. It is a map to reopen when a coordinate needs to be checked again.
