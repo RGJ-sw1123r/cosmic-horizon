@@ -9,13 +9,13 @@ description: >-
 **Language:** English | [한국어](cosmic-horizon-start-here-kr.md)
 
 > **Are you using AI?**\
-> &#xNAN;_&#x52;eally?_
+> Really?
 >
 > **Do you trust what it produces?**\
-> &#xNAN;_&#x52;eally?_
+> Really?
 >
 > **Have you inspected what it changed, what it broke, and what you are now responsible for?**\
-> &#xNAN;_&#x52;eally?_
+> Really?
 >
 > ***
 >
