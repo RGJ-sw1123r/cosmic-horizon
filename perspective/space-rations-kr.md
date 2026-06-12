@@ -8,7 +8,7 @@ tags:
 
 # Space Rations (KR)
 
-> AI 보조 개발은 교리가 아니다.\
+> AI 활용 개발은 교리가 아니다.\
 > 그것은 우주 전투식량에 가깝다. 유용하고, 압축되어 있고, 상황 의존적이며, 완전한 식단으로 오해되는 순간 위험해진다.
 >
 > **함장 명령**\
@@ -17,7 +17,7 @@ tags:
 
 ## 현재 좌표계
 
-* AI 보조 개발은 숭배할 교리보다, 임무에 맞춰 꺼내 쓰는 우주 전투식량(Space Rations)에 가깝다.
+* AI 활용 개발은 숭배할 교리보다, 임무에 맞춰 꺼내 쓰는 우주 전투식량(Space Rations)에 가깝다.
 * Different는 관측하고 조율해야 할 좌표이고, Wrong은 감사하고 통제해야 할 위험이다.
 * 보안은 차단 선언에서 끝나지 않는다. 통제 가능한 사용 조건을 설계할 때 비로소 엔지니어링이 된다.
 
@@ -63,7 +63,7 @@ AI는 관측할 기회를 받지 못한 세계를 정확히 이해할 수 없다
 내가 원하는 Different를 설명하지 못하면, AI는 Wrong을 매끈하게 포장해서 돌려준다.\
 틀린 답을 맞는 것처럼 감싸고, 빠진 맥락을 추론으로 메우며, 검증되지 않은 결과를 완성된 것처럼 제시한다.
 
-그래서 AI 보조 개발의 핵심 질문은 AI를 믿을지 의심할지보다 먼저 놓인다.
+그래서 AI 활용 개발의 핵심 질문은 AI를 믿을지 의심할지보다 먼저 놓인다.
 
 먼저 관측하게 하라.\
 다음에 이해하게 하라.\
@@ -123,7 +123,7 @@ AI 시대의 개발 시장은 이상한 극단들 사이에서 찢기고 있다.
 
 보안은 어떤 조건에서 도구를 사용할 수 있는지, 어떤 데이터는 반드시 금지되어야 하는지, 어떤 기록을 남겨야 하는지, 어떤 검증이 뒤따라야 하는지 설계하는 일이다.
 
-AI 보조 개발을 기본값으로 Wrong이라고 낙인찍는 조직이 곧바로 모든 문을 열 필요는 없다.
+AI 활용 개발을 기본값으로 Wrong이라고 낙인찍는 조직이 곧바로 모든 문을 열 필요는 없다.
 
 그 조직에 필요한 것은 통제 가능한 사용성이다.
 
@@ -144,7 +144,7 @@ AI를 활용한 고속 개발을 절대적인 복음으로 다루면 위험하�
 
 반대로, 인간이 바닥부터 구조를 쌓아 올리는 과정 역시 AI가 몇 초 만에 구현을 생성할 수 있다는 이유만으로 원시적인 일이 되지 않는다.
 
-AI 보조 개발은 우주 전투식량에 가깝다.\
+AI 활용 개발은 우주 전투식량에 가깝다.\
 특정 상황에서 생존에 도움이 되는 압축 식량이며, 교리로 바뀌는 순간 위험해진다.
 
 압축되어 있다.\
@@ -236,9 +236,9 @@ Cosmic Horizon은 먼 곳에 남겨 둔 좌표다.
 
 * [Counterargument After Observation (KR)](case-counterargument-after-observation-kr.md)를 읽고, Different와 Wrong의 경계가 AI 응답을 넘어 인간의 피드백, 반론, 리더십으로 어떻게 확장되는지 확인합니다.
 * [Ride, Don’t Race (KR)](ride-dont-race-kr.md)를 읽고, Cosmic Horizon의 핵심 항법 철학으로 돌아갑니다.
-* [AI-Assisted Development Models (KR)](../operating-system/ai-assisted-development-models-kr.md)를 읽고, 이 관점을 AI 보조 개발의 운영 모델로 확장합니다.
+* [AI-Assisted Development Models (KR)](../operating-system/ai-assisted-development-models-kr.md)를 읽고, 이 관점을 AI 활용 개발의 운영 모델로 확장합니다.
 * [The Asymmetry of Friction (KR)](../operating-system/case-the-asymmetry-of-friction-kr.md)를 읽고, 작업 기준이 명료하게 선언되지 않았을 때 AI가 사용자의 지시를 최악의 형태로 확장하는 과정을 살펴봅니다.
-* [FTL-Bound Agents (KR)](../operating-system/pattern-ftl-bound-agents-kr/)를 읽고, 경계가 있고 관측 가능하며 교리화되지 않은 AI 보조 작업이 어떻게 에이전트 지시 패턴으로 바뀌는지 확인합니다.
+* [FTL-Bound Agents (KR)](../operating-system/pattern-ftl-bound-agents-kr/)를 읽고, 경계가 있고 관측 가능하며 교리화되지 않은 AI 활용 작업이 어떻게 에이전트 지시 패턴으로 바뀌는지 확인합니다.
 * [The Engine: That Which No Single Name Can Hold (KR)](the-engine-that-which-no-single-name-can-hold-kr.md)를 읽고, 기술과 방법론의 이름이 작동 구조 전체를 대신하기 시작할 때 어떤 손실이 생기는지 확인합니다.
 
 ## 항법 로그 — day 15102: 함장의 교리

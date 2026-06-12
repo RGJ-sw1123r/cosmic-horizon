@@ -80,8 +80,8 @@ _이것 또한 의도한 바입니다._
 ## 이 아카이브가 움직이는 방식
 
 * 이 아카이브를 지탱하는 철학적 원점(Origin)은 [Ride, Don’t Race (KR)](perspective/ride-dont-race-kr.md)에서 시작됩니다.
-* AI 활용 개발을 다루는 운영 모델을 이해하고 싶다면 [AI-Assisted Development Models (KR)](operating-system/ai-assisted-development-models-kr.md)를 읽어보세요.
-* AGENTS.md, CLAUDE.md 같은 에이전트 지침 파일을 AI 활용 개발의 경계 시스템(boundary system)으로 설계하는 관점을 보려면 [FTL-Bound Agents (KR)](operating-system/pattern-ftl-bound-agents-kr/)를 확인합니다.
+* AI 활용 작업을 다루는 운영 모델을 이해하고 싶다면 [AI-Assisted Development Models (KR)](operating-system/ai-assisted-development-models-kr.md)를 읽어보세요.
+* AGENTS.md, CLAUDE.md 같은 에이전트 지침 파일을 AI 활용 작업의 경계 시스템(boundary system)으로 설계하는 관점을 보려면 [FTL-Bound Agents (KR)](operating-system/pattern-ftl-bound-agents-kr/)를 확인합니다.
 * 이 궤도에서 나온 실제 결과물을 확인하려면 [Codex Chat Viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)를 살펴봅니다. Codex CLI 세션 로그를 관측, 검토, 문서화하고 다시 돌아보기 위해 구축한 로컬 우선(local-first) 뷰어입니다.
 * 하나의 Figma MCP와 Codex 실험이 어떻게 실행 로그, 검산 가능한 증거, 그리고 작업 경계의 재해석으로 변환되는지 보려면 [Why My Ship Is Ivory (KR)](operating-system/case-why-my-ship-is-ivory-kr.md)를 읽어보세요.
 

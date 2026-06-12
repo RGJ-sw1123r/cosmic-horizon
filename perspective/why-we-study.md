@@ -844,4 +844,4 @@ We study so that, even when we ride the machine, we do not lose direction.
 * Read [The Gravity Behind Market Language](the-gravity-behind-market-language.md) to explore how engineers translate market labels into structure, cost, risk, and responsibility.
 * Read [The Vanishing Senior](the-vanishing-senior.md) to trace how AI changes the relationship between learning, verification, and senior judgment.
 * Read [The Paradox of the Human Auditor](../operating-system/the-paradox-of-the-human-auditor.md) to examine why human judgment is not sufficient without structured verification.
-* Read [Why my ship is ivory](../operating-system/case-why-my-ship-is-ivory.md) to examine why AI-accelerated screen implementation still requires humans who can audit design context, code structure, and product responsibility.
+* Read [Why My Ship Is Ivory](../operating-system/case-why-my-ship-is-ivory.md) to examine why AI-accelerated screen implementation still requires humans who can audit design context, code structure, and product responsibility.

@@ -223,7 +223,7 @@ AI 에이전트는 여전히 컨텍스트를 읽고, 패턴을 비교하고, 도
 
 간단한 문구 수정이 아키텍처 리팩터링, 의존성 변경, 배포 변경과 같은 절차적 무게를 가져서는 안 된다.
 
-대부분의 AI 보조 작업 흐름은 세 가지 궤도만으로 충분히 통제할 수 있다.
+대부분의 AI 활용 작업 흐름은 세 가지 궤도만으로 충분히 통제할 수 있다.
 
 ### 1. 빠른 경로 — 낮은 위험
 
@@ -299,13 +299,13 @@ AI 에이전트는 여전히 컨텍스트를 읽고, 패턴을 비교하고, 도
 
 ## 다음 좌표
 
-제한되고, 관측 가능하며, 교리화되지 않은 AI 보조 작업에 대한 더 깊은 관점은 [Space Rations (KR)](../../perspective/space-rations-kr.md)에서 이어진다.
+제한되고, 관측 가능하며, 교리화되지 않은 AI 활용 작업에 대한 더 깊은 관점은 [Space Rations (KR)](../../perspective/space-rations-kr.md)에서 이어진다.
 
 이 패턴에서 파생된 구체적 프로토콜은 [AGENTS.md Blueprint (KR)](protocol-agents.md-blueprint-kr.md)에서 확인할 수 있다.
 
 관련 신호:
 
-Codex Chat Viewer는 이 궤도에서 나온 실물 산출물 중 하나다. Codex CLI 세션 로그를 로컬 우선 방식으로 읽고, AI 보조 작업을 작업 이후에도 점검하고, 검토하고, 문서화하고, 다시 살펴보기 쉽게 만들기 위해 만든 뷰어다.
+Codex Chat Viewer는 이 궤도에서 나온 실물 산출물 중 하나다. Codex CLI 세션 로그를 로컬 우선 방식으로 읽고, AI 활용 작업을 작업 이후에도 점검하고, 검토하고, 문서화하고, 다시 살펴보기 쉽게 만들기 위해 만든 뷰어다.
 
 GitHub: [RGJ-sw1123r/codex-chat-viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)
 
