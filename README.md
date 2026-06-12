@@ -19,7 +19,7 @@ It focuses on structure, constraints, verification, recovery, and responsibility
 
 ## Who This Is For
 
-This archive is for developers, technical leads, and those who care about architecture while working with AI without giving up structure, judgment, or responsibility.\
+This archive is for developers, technical leads, and architecture-minded practitioners who work with AI without giving up structure, judgment, or responsibility.\
 It is also my own landmark for returning to origin whenever the speed of my thinking outpaces observation.
 
 ## Reading the Metaphors
@@ -48,7 +48,7 @@ These pages may resemble essays at first glance, but they are more accurately un
 
 This archive does not need to be read from beginning to end like a book. It is a map to reopen when a coordinate needs to be checked again.
 
-Some entries present perspective. Some define operating models. Others serve as field notes, templates, reusable records, and navigational instruments for the next execution.
+Some entries present perspective. Some define operating models. Others serve as field notes, templates, reusable records, and navigational instruments for the next round of execution.
 
 Many entries in this archive are case-driven.
 
@@ -76,7 +76,7 @@ When judgment moves too fast, when language becomes vague, or when AI accelerate
 * Read [AI-Assisted Development Models](operating-system/ai-assisted-development-models.md) if you want to understand the operating model.
 * Read [FTL-Bound Agents](operating-system/pattern-ftl-bound-agents/) if you want to design AGENTS.md, CLAUDE.md, or similar agent instruction files as boundary systems for AI-assisted work.
 * Explore [Codex Chat Viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer) if you want to see a practical artifact from this orbit: a local-first viewer for Codex CLI session logs, built to inspect, review, document, and revisit AI-assisted work.
-* Read [Why my ship is ivory](operating-system/case-why-my-ship-is-ivory.md) to see how this archive turns an actual Figma MCP and Codex experiment into a record of execution, verification, and changing work boundaries.
+* Read [Why My Ship Is Ivory](operating-system/case-why-my-ship-is-ivory.md) to see how this archive turns an actual Figma MCP and Codex experiment into a record of execution, verification, and changing work boundaries.
 
 ## Links
 
