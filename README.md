@@ -11,6 +11,14 @@ description: >-
 > AI now writes code.\
 > The harder problem is deciding what humans must judge, verify, and take responsibility for.
 
+## What Cosmic Horizon Means
+
+In astronomy, the cosmic horizon is the outer boundary of the observable universe: the farthest limit from which signals can still reach us.
+
+In this orbit, **Cosmic Horizon** names the entire observable world of AI-assisted development as I experience it—encompassing code, tools, prompts, documents, judgment, verification, recovery, and responsibility.
+
+It is the boundary line where raw technical signals meet the human decisions that hold them together.
+
 ## What This Archive Is
 
 Cosmic Horizon is an essay-driven engineering archive for turning observations about software, AI-assisted work, and human judgment into coordinates that can be understood, refined, and returned to.
