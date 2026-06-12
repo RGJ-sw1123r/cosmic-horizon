@@ -19,9 +19,9 @@ description: >-
 >
 > ***
 >
-> AI can now produce code faster than people can verify it.
+> AI can now produce code faster than humans can verify it.
 >
-> Cosmic Horizon is a map for the work that remains human: judgment, verification, recovery, and responsibility.
+> **Cosmic Horizon** is a map for the work that remains human: judgment, verification, recovery, and responsibility.
 
 ## What Cosmic Horizon Means
 
