@@ -44,8 +44,7 @@ _This, too, is by design._
 
 ## How to Read This Archive
 
-These pages may resemble essays at first glance, but they are better understood as a map.\
-But it is more accurately understood as a **map**.
+These pages may resemble essays at first glance, but they are more accurately understood as a **map**.
 
 This archive does not need to be read from beginning to end like a book. It is a map to reopen when a coordinate needs to be checked again.
 
