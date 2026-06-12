@@ -1,7 +1,7 @@
 ---
 description: >-
   A record of using Figma MCP and Codex to turn a design file into an isolated
-  first-pass publishing surface inside an existing project.
+  first-pass implementation surface inside an existing project.
 tags:
   - operating-system
   - case
@@ -19,7 +19,7 @@ tags:
 * Figma MCP can expose screen structure, dimensions, typography, colors, and asset context to an AI coding agent.
 * Codex can use that context to build an isolated UI draft without touching the core system of an existing project.
 * The result is not a pixel-perfect final artifact. It is a first physical screen that gives designers and developers something concrete to inspect, discuss, and correct.
-* Under these conditions, a significant part of static web publishing work can be pulled into the development flow.
+* Under these conditions, a significant part of static screen implementation work can be pulled into the development flow.
 
 ## Between the Shipyard and the Engine Room
 
@@ -128,7 +128,7 @@ The API, database, authentication, and existing service flow were preserved as t
 The hypothesis was simple.
 
 > Based on the design context interpreted through Figma MCP,\
-> can Codex safely build an independent first-pass publishing route inside an existing project?
+> can Codex safely build an independent first-pass implementation route inside an existing project?
 
 The implementation area was limited to `/figma-publish-lab`.
 
@@ -267,7 +267,7 @@ Designer
 → Intermediate Implementer
 → Developer
 → Revision Request
-→ Re-publishing
+→ Re-implementation
 → Re-integration
 ```
 
