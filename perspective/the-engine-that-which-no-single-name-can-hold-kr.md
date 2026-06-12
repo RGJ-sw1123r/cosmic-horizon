@@ -131,7 +131,7 @@ tags:
 * [The Gravity Behind Market Language (KR)](the-gravity-behind-market-language-kr.md)를 읽고, 시장의 언어가 신호는 될 수 있지만 현실 그 자체를 대신하지 못하는 현상을 확인합니다.
 * [The Vanishing Senior (KR)](the-vanishing-senior-kr.md)를 읽고, 직함과 연차가 검증 가능한 판단의 무게를 끝까지 대신하지 못하는 과정을 살펴봅니다.
 * [Space Rations (KR)](space-rations-kr.md)를 읽고, 기술이나 방법론이 교리로 굳어질 때 발생하는 위험을 확인합니다.
-* [AI-Assisted Development Models (KR)](../operating-system/ai-assisted-development-models-kr.md)를 읽고, 하나의 이름으로 접히지 않는 작업 흐름을 AI 보조 개발 모델로 확장합니다.
+* [AI-Assisted Development Models (KR)](../operating-system/ai-assisted-development-models-kr.md)를 읽고, 하나의 이름으로 접히지 않는 작업 흐름을 AI 활용 개발 모델로 확장합니다.
 * [Codex as an Execution Layer (KR)](../operating-system/codex-as-an-execution-layer-kr.md)를 읽고, 도구의 이름 뒤에 숨은 인간의 판단과 실행 계층이 어떻게 분리되어야 하는지 확인합니다.
 
 ## 캘리브레이션 로그 — day 15124: 함장의 기록

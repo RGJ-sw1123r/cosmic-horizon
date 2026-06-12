@@ -144,4 +144,4 @@ tags:
 * [Space Rations (KR)](space-rations-kr.md)를 읽고, Different와 Wrong의 경계가 관측 없이 얼마나 쉽게 무너지는지 살펴봅니다.
 * [Why We Study (KR)](why-we-study-kr.md)를 읽고, AI가 인간보다 빠르게 답을 내놓는 시대에 문해력과 감사(audit) 시스템이 왜 판단의 기반이 되는지 확인합니다.
 * [The Vanishing Senior (KR)](the-vanishing-senior-kr.md)를 읽고, 빠른 판단과 구조화 능력이 타인의 신호를 자기 논리 안으로 흡수할 때 생기는 맹점을 추적합니다.
-* [AI-Assisted Development Models (KR)](../operating-system/ai-assisted-development-models-kr.md)를 읽고, 관측, 그라운딩, 실행, 보고가 하나의 AI 보조 개발 운영 구조로 이어지는 방식을 살펴봅니다.
+* [AI-Assisted Development Models (KR)](../operating-system/ai-assisted-development-models-kr.md)를 읽고, 관측, 그라운딩, 실행, 보고가 하나의 AI 활용 개발 운영 구조로 이어지는 방식을 살펴봅니다.

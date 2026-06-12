@@ -283,5 +283,5 @@ AI 시대에 살아남는 개발자는 새로 나온 이름표를 요란하게 �
 * [Why We Study (KR)](why-we-study-kr.md)를 읽고, AI가 순식간에 정답을 뱉어내는 시대에도 왜 인간의 배움이 여전히 본질적인 가치를 갖는지 탐구합니다.
 * [Counterargument After Observation (KR)](case-counterargument-after-observation.md)를 읽고, 빠른 구조화 능력이 오히려 타인의 신호(Signal)를 내 편견의 소음(Noise)으로 오염시키는 위험을 짚어봅니다.
 * [Space Rations (KR)](space-rations-kr.md)를 읽고, AI 보조 엔지니어링 환경에서 마주하는 다름(Different)과 틀림(Wrong), 그리고 책임의 이면을 파헤칩니다.
-* [AI-Assisted Development Models (KR)](../operating-system/ai-assisted-development-models-kr.md)를 읽고, 개인의 관점을 넘어, AI 보조 개발을 실제 구동 가능한 팀의 운영 모델(Operating Model)로 이식하는 법을 다룹니다.
+* [AI-Assisted Development Models (KR)](../operating-system/ai-assisted-development-models-kr.md)를 읽고, 개인의 관점을 넘어, AI 활용 개발을 실제 구동 가능한 팀의 운영 모델(Operating Model)로 이식하는 법을 다룹니다.
 * [The Engine: That Which No Single Name Can Hold (KR)](the-engine-that-which-no-single-name-can-hold-kr.md)를 읽고, 시장의 이름이 만든 중력 아래에서 실제 작동 구조가 어떻게 명판 하나로 축소되는지 확인합니다.
