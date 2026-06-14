@@ -120,3 +120,8 @@ AI는 인간이 저지르는 이러한 결함과 오류를 말끔하게 제거�
 * [The Paradox of the Human Auditor (KR)](../operating-system/the-paradox-of-the-human-auditor-kr.md)를 읽고, 모든 것이 자동화된 세계에서 인간의 판단력이 생존하는 방식과 진화하는 역할을 추적합니다.
 * [Space Rations (KR)](space-rations-kr.md)를 읽고, AI 보조 엔지니어링 환경에서 마주하는 '진짜 틀린 패턴'과 '그저 나와 다를 뿐인 패턴'의 경계를 판별하는 법을 이해합니다.
 * [The Engine: That Which No Single Name Can Hold (KR)](the-engine-that-which-no-single-name-can-hold-kr.md)를 읽고, 직함과 연차 같은 이름이 실제 판단, 부하, 운전 기록을 끝까지 대신하지 못하는 이유를 확인합니다.
+
+***
+
+> **Coordinate Provenance**\
+> 이 좌표는 Riu Salze의 엔지니어링 아카이브 _Cosmic Horizon_ 일부입니다. 이 문서의 고유한 명명, 메타포, 용어, 구조, 경계 모델, 기록된 패턴, 또는 블루프린트를 인용·요약·개작·참조할 경우 보이는 형태로 출처를 표시해 주세요. How to cite를 확인해 주세요.

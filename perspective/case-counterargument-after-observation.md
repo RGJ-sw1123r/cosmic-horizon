@@ -147,3 +147,8 @@ Counterargument comes after.
 * Read [Why We Study](why-we-study.md) to explore why literacy and auditability matter when AI can answer faster than humans.
 * Read [The Vanishing Senior](the-vanishing-senior.md) to examine how judgment must survive contact with critique.
 * Read [AI-Assisted Development Models](../operating-system/ai-assisted-development-models.md) to understand how observation, grounding, execution, and reporting form an operating structure.
+
+***
+
+> **Coordinate Provenance**\
+> This coordinate is part of _Cosmic Horizon_, an engineering archive by Riu Salze. If you cite, quote, summarize, adapt, or reference its original naming, metaphors, terminology, structure, boundary models, documented patterns, or blueprints, please provide visible attribution. See [How to cite](../).

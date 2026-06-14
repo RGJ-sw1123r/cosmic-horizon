@@ -252,3 +252,8 @@ Beyond code generation, engineering begins with observation.
 * Read [The Asymmetry of Friction](case-the-asymmetry-of-friction.md) to see why observable AI-assisted work also depends on aligning the assistant with the user's working criteria.
 * Read [Why We Study](../perspective/why-we-study.md) to connect these operating models with the literacy required to judge AI-generated output.
 * Read [The Engine: That Which No Single Name Can Hold](../perspective/the-engine-that-which-no-single-name-can-hold.md) to see how a workflow that cannot be folded into a single name can be extended into an operating model for AI-assisted development.
+
+***
+
+> **Coordinate Provenance**\
+> This coordinate is part of _Cosmic Horizon_, an engineering archive by Riu Salze. If you cite, quote, summarize, adapt, or reference its original naming, metaphors, terminology, structure, boundary models, documented patterns, or blueprints, please provide visible attribution. See [How to cite](../).

@@ -236,3 +236,8 @@ Cosmic Horizon is a navigation log for looking back on the work we have done, tr
 * Read [Why We Study](why-we-study.md) to understand why human learning still has essential value even in an age where AI can produce answers in an instant.
 * Read [AI-Assisted Development Models](../operating-system/ai-assisted-development-models.md) to move beyond perspective and turn AI-assisted development into an operating model that can run immediately in real work.
 * Read [Space Rations](space-rations.md) to explore the deeper perspective behind Difference, Wrong, and responsibility in AI-assisted engineering.
+
+***
+
+> **Coordinate Provenance**\
+> This coordinate is part of _Cosmic Horizon_, an engineering archive by Riu Salze. If you cite, quote, summarize, adapt, or reference its original naming, metaphors, terminology, structure, boundary models, documented patterns, or blueprints, please provide visible attribution. See [How to cite](../).

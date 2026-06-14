@@ -197,3 +197,8 @@ AI가 쓸데없는 가정을 하지 못하도록 전제 조건을 칼같이 선�
 * [AI-Assisted Development Models (KR)](ai-assisted-development-models-kr.md)는 본 케이스를 관측 가능하고, 통제 가능하며, 복구 가능한 AI 협업 운영 모델의 프레임워크 안에 배치합니다.
 * [The Paradox of the Human Auditor (KR)](the-paradox-of-the-human-auditor-kr.md)는 인간의 검토만으로는 감당하기 어려울 정도로 불어나는 반복적 교정 및 검증 비용의 모순을 다룹니다.
 * [FTL-Bound Agents (KR)](pattern-ftl-bound-agents-kr/)는 재사용 가능한 프롬프트 자산이 AI의 위험한 자의적 해석 공간을 격리하는 방화벽(Boundary System)으로 기능하는 방식을 살펴봅니다.
+
+***
+
+> **Coordinate Provenance**\
+> 이 좌표는 Riu Salze의 엔지니어링 아카이브 _Cosmic Horizon_ 일부입니다. 이 문서의 고유한 명명, 메타포, 용어, 구조, 경계 모델, 기록된 패턴, 또는 블루프린트를 인용·요약·개작·참조할 경우 보이는 형태로 출처를 표시해 주세요. How to cite를 확인해 주세요.

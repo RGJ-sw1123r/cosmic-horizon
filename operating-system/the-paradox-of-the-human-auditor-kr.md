@@ -326,3 +326,8 @@ AI는 생산 속도를 바꿨다.
 * [The Asymmetry of Friction (KR)](case-the-asymmetry-of-friction-kr.md)는 어긋난 AI 응답이 반복적인 교정 비용과 감정 비용으로 증폭되는 과정을 추적합니다. 이 문서는 그 마찰이 개인의 피로를 넘어 감사 비용으로 전환되는 지점을 함께 바라봅니다.
 * [Why We Study (KR)](../perspective/why-we-study-kr.md)는 AI 산출물을 판단하기 위해 인간에게 필요한 문해력과 감사 능력을 연결합니다. 인간 감사자는 도구의 출력을 읽는 사람인 동시에, 그 출력이 놓인 구조를 이해해야 하는 사람입니다.
 * [The Vanishing Senior (KR)](../perspective/the-vanishing-senior-kr.md)는 AI가 인간 판단의 권위와 책임 구조를 어떻게 재배치하는지 탐구합니다. 이 문서는 그 재배치 속에서 인간 감사자의 역할이 어디로 이동하는지 다룹니다.
+
+***
+
+> **Coordinate Provenance**\
+> 이 좌표는 Riu Salze의 엔지니어링 아카이브 _Cosmic Horizon_ 일부입니다. 이 문서의 고유한 명명, 메타포, 용어, 구조, 경계 모델, 기록된 패턴, 또는 블루프린트를 인용·요약·개작·참조할 경우 보이는 형태로 출처를 표시해 주세요. How to cite를 확인해 주세요.

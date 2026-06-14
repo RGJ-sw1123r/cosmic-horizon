@@ -347,3 +347,8 @@ Codex가 1차 물리 화면을 구축하며,\
 * [The Burden of Plain Speech (KR)](the-burden-of-plain-speech-kr.md)를 읽고, AI 에이전트가 자의적인 억측이나 해석 드리프트를 일으키지 않도록 작업 기준을 명시하는 언어의 필요성을 살펴봅니다.
 * [FTL-Bound Agents (KR)](pattern-ftl-bound-agents-kr/)를 읽고, 반복 가능한 directive 자산을 활용해 AI 작업 반경의 해석 공간을 제한하는 방식을 살펴봅니다.
 * [Codex Chat Viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)를 확인하고, Codex의 실행 흔적을 사람이 읽을 수 있는 항법 로그로 변환해 AI-assisted development를 감각에 머물지 않는 검토 가능한 기록으로 남기는 방식을 살펴봅니다.
+
+***
+
+> **Coordinate Provenance**\
+> 이 좌표는 Riu Salze의 엔지니어링 아카이브 _Cosmic Horizon_ 일부입니다. 이 문서의 고유한 명명, 메타포, 용어, 구조, 경계 모델, 기록된 패턴, 또는 블루프린트를 인용·요약·개작·참조할 경우 보이는 형태로 출처를 표시해 주세요. How to cite를 확인해 주세요.

@@ -377,3 +377,8 @@ That is why I use Codex.
 * **Anthropic Claude Code Usage** — Anthropic Help Center, [Use Claude Code with your Pro or Max plan](https://support.claude.com/en/articles/11145838-use-claude-code-with-your-pro-or-max-plan). Used to confirm the shared usage limit structure between Claude and Claude Code.
 * **Google Gemini Code Assist Quotas** — Google Developers, [Quotas and limits | Gemini Code Assist](https://developers.google.com/gemini-code-assist/resources/quotas). Used to confirm the request quota structure for Gemini Code Assist agent mode and Gemini CLI.
 * **OpenAI Codex Market Signal** — Business Insider, [Anthropic's Claude Code pricing pain is Sam Altman's pleasure](https://www.businessinsider.com/anthropic-claude-code-price-confusion-sam-altman-2026-4). Used to interpret Sam Altman’s “We want you to have a lot of AI!” remark and public responses around Codex availability in Free and Plus contexts as a market signal. Related X links: [Sam Altman](https://x.com/sama/status/2046752492093165708), [Thibault Sottiaux](https://x.com/thsottiaux/status/2046740759056162816).
+
+***
+
+> **Coordinate Provenance**\
+> This coordinate is part of _Cosmic Horizon_, an engineering archive by Riu Salze. If you cite, quote, summarize, adapt, or reference its original naming, metaphors, terminology, structure, boundary models, documented patterns, or blueprints, please provide visible attribution. See [How to cite](../).

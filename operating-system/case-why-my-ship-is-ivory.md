@@ -359,3 +359,8 @@ One question remains.
 * Read [The Burden of Plain Speech](the-burden-of-plain-speech.md) to examine why clear boundary-setting language matters when working with AI agents prone to over-interpretation and drift.
 * Read [FTL-Bound Agents](pattern-ftl-bound-agents/) to examine how reusable directive assets can compress and isolate the interpretation space of AI work.
 * Visit [Codex Chat Viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer) to see how Codex execution traces can be turned into human-readable navigation logs, making AI-assisted development reviewable as a record rather than a vague feeling.
+
+***
+
+> **Coordinate Provenance**\
+> This coordinate is part of _Cosmic Horizon_, an engineering archive by Riu Salze. If you cite, quote, summarize, adapt, or reference its original naming, metaphors, terminology, structure, boundary models, documented patterns, or blueprints, please provide visible attribution. See [How to cite](../).

@@ -349,3 +349,8 @@ AI에게 실행을 맡긴다.\
 * **Anthropic Claude Code Usage** — Anthropic Help Center, [Use Claude Code with your Pro or Max plan](https://support.claude.com/en/articles/11145838-use-claude-code-with-your-pro-or-max-plan). Claude와 Claude Code의 사용량 한도 공유 구조를 확인하는 데 사용했다.
 * **Google Gemini Code Assist Quotas** — Google Developers, [Quotas and limits | Gemini Code Assist](https://developers.google.com/gemini-code-assist/resources/quotas). Gemini Code Assist agent mode와 Gemini CLI의 요청 쿼터 구조를 확인하는 데 사용했다.
 * **OpenAI Codex Market Signal** — Business Insider, [Anthropic's Claude Code pricing pain is Sam Altman's pleasure](https://www.businessinsider.com/anthropic-claude-code-price-confusion-sam-altman-2026-4). Sam Altman의 “We want you to have a lot of AI!” 발언과 Codex Free/Plus 제공 관련 공개 반응을 시장 신호로 해석하는 데 사용했다. 관련 X 링크: [Sam Altman](https://x.com/sama/status/2046752492093165708), [Thibault Sottiaux](https://x.com/thsottiaux/status/2046740759056162816).
+
+***
+
+> **Coordinate Provenance**\
+> 이 좌표는 Riu Salze의 엔지니어링 아카이브 _Cosmic Horizon_ 일부입니다. 이 문서의 고유한 명명, 메타포, 용어, 구조, 경계 모델, 기록된 패턴, 또는 블루프린트를 인용·요약·개작·참조할 경우 보이는 형태로 출처를 표시해 주세요. How to cite를 확인해 주세요.

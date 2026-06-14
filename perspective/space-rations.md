@@ -272,3 +272,8 @@ Others may chart their own orbit from here.
 > **The coordinates remain with those who can read the signal.**
 >
 > — Cosmic Horizon
+
+***
+
+> **Coordinate Provenance**\
+> This coordinate is part of _Cosmic Horizon_, an engineering archive by Riu Salze. If you cite, quote, summarize, adapt, or reference its original naming, metaphors, terminology, structure, boundary models, documented patterns, or blueprints, please provide visible attribution. See [How to cite](../).

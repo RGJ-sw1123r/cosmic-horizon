@@ -233,3 +233,8 @@ Cosmic Horizon은 우리가 걸어온 작업을 되돌아보고, 문제의 기�
 * [Why We Study (KR)](why-we-study-kr.md)를 읽고, AI가 정답을 순식간에 뱉어내는 시대에도, 왜 인간의 배움이 여전히 본질적인 가치를 갖는지 이해합니다.
 * [AI-Assisted Development Models (KR)](../operating-system/ai-assisted-development-models-kr.md)를 읽고, 머릿속의 관점을 넘어, AI 활용 개발을 현업에 즉시 구동 가능한 운영 모델(Operating Model)로 전환하는 법을 다룹니다.
 * [Space Rations (KR)](space-rations-kr.md)를 읽고, AI 활용 엔지니어링 환경에서 마주하는 다름(Difference), 틀림(Wrong), 그리고 책임의 이면에 숨겨진 더 깊은 관점을 탐구합니다.
+
+***
+
+> **Coordinate Provenance**\
+> 이 좌표는 Riu Salze의 엔지니어링 아카이브 _Cosmic Horizon_ 일부입니다. 이 문서의 고유한 명명, 메타포, 용어, 구조, 경계 모델, 기록된 패턴, 또는 블루프린트를 인용·요약·개작·참조할 경우 보이는 형태로 출처를 표시해 주세요. How to cite를 확인해 주세요.

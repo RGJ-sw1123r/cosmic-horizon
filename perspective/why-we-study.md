@@ -845,3 +845,8 @@ We study so that, even when we ride the machine, we do not lose direction.
 * Read [The Vanishing Senior](the-vanishing-senior.md) to trace how AI changes the relationship between learning, verification, and senior judgment.
 * Read [The Paradox of the Human Auditor](../operating-system/the-paradox-of-the-human-auditor.md) to examine why human judgment is not sufficient without structured verification.
 * Read [Why My Ship Is Ivory](../operating-system/case-why-my-ship-is-ivory.md) to examine why AI-accelerated screen implementation still requires humans who can audit design context, code structure, and product responsibility.
+
+***
+
+> **Coordinate Provenance**\
+> This coordinate is part of _Cosmic Horizon_, an engineering archive by Riu Salze. If you cite, quote, summarize, adapt, or reference its original naming, metaphors, terminology, structure, boundary models, documented patterns, or blueprints, please provide visible attribution. See [How to cite](../).

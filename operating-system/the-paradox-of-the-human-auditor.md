@@ -385,3 +385,8 @@ Human responsibility lies in designing a verifiable world and auditing whether t
 * Read [The Asymmetry of Friction](case-the-asymmetry-of-friction.md) for how misaligned AI responses amplify repeated correction cost and emotional cost, and how that friction can turn into audit cost.
 * Read [Why We Study](../perspective/why-we-study.md) for the literacy humans need in order to judge AI-generated output and understand the structure in which that output sits.
 * Read [The Vanishing Senior](../perspective/the-vanishing-senior.md) for how AI rearranges the authority and responsibility structure of human judgment, and where the human auditor moves inside that rearrangement.
+
+***
+
+> **Coordinate Provenance**\
+> This coordinate is part of _Cosmic Horizon_, an engineering archive by Riu Salze. If you cite, quote, summarize, adapt, or reference its original naming, metaphors, terminology, structure, boundary models, documented patterns, or blueprints, please provide visible attribution. See [How to cite](../).

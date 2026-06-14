@@ -213,3 +213,8 @@ It is a cold and efficient operating protocol for keeping the system aligned.
 * [AI-Assisted Development Models](ai-assisted-development-models.md): Places this case inside a broader operating model for observable, controllable, and recoverable AI-assisted work.
 * [The Paradox of the Human Auditor](the-paradox-of-the-human-auditor.md): Examines the paradox of correction and verification cost growing beyond what human review alone can absorb.
 * [FTL-Bound Agents](pattern-ftl-bound-agents/): Shows how reusable instruction assets can function as boundary systems that isolate dangerous interpretation space.
+
+***
+
+> **Coordinate Provenance**\
+> This coordinate is part of _Cosmic Horizon_, an engineering archive by Riu Salze. If you cite, quote, summarize, adapt, or reference its original naming, metaphors, terminology, structure, boundary models, documented patterns, or blueprints, please provide visible attribution. See [How to cite](../).

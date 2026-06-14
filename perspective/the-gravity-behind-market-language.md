@@ -294,3 +294,8 @@ It is the one who observes why that label appeared, what force pushed that word 
 * Read [Space Rations](space-rations.md) to examine the difference between Different and Wrong, and the hidden side of responsibility, in AI-assisted engineering.
 * Read [AI-Assisted Development Models](../operating-system/ai-assisted-development-models.md) to move beyond personal perspective and into an operating model for AI-assisted development.
 * Read [The Engine: That Which No Single Name Can Hold](the-engine-that-which-no-single-name-can-hold.md) to see how the working structure beneath a market name can be folded into a single nameplate.
+
+***
+
+> **Coordinate Provenance**\
+> This coordinate is part of _Cosmic Horizon_, an engineering archive by Riu Salze. If you cite, quote, summarize, adapt, or reference its original naming, metaphors, terminology, structure, boundary models, documented patterns, or blueprints, please provide visible attribution. See [How to cite](../).

@@ -375,3 +375,8 @@ It is a rigorous reduction of complex intent into a form that humans can finally
 * Read [The Paradox of the Human Auditor](the-paradox-of-the-human-auditor.md) to examine why unclear instructions increase the burden of verification.
 * Read [Why We Study](../perspective/why-we-study.md) to connect plain speech with the literacy required to judge, refine, and take responsibility for AI-generated output.
 * Read [FTL-Bound Agents](pattern-ftl-bound-agents/) to see how reusable instruction assets extend into boundary systems for AI-assisted work.
+
+***
+
+> **Coordinate Provenance**\
+> This coordinate is part of _Cosmic Horizon_, an engineering archive by Riu Salze. If you cite, quote, summarize, adapt, or reference its original naming, metaphors, terminology, structure, boundary models, documented patterns, or blueprints, please provide visible attribution. See [How to cite](../).

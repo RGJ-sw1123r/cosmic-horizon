@@ -359,3 +359,8 @@ AI가 기계의 언어로 수많은 가설을 생성한다면, 인간은 가능�
 * [The Paradox of the Human Auditor (KR)](the-paradox-of-the-human-auditor-kr.md)를 읽고, 모호한 지시가 검증 부담을 어떻게 키우는지 확인합니다.
 * [Why We Study (KR)](../perspective/why-we-study-kr.md)를 읽고, AI 산출물을 판단하고 다듬고 책임지기 위해 필요한 문해력과 명료한 언어의 관계를 연결합니다.
 * [FTL-Bound Agents (KR)](pattern-ftl-bound-agents-kr/)를 읽고, 재사용 가능한 지시 자산이 AI-assisted work의 boundary system으로 확장되는 방식을 살펴봅니다.
+
+***
+
+> **Coordinate Provenance**\
+> 이 좌표는 Riu Salze의 엔지니어링 아카이브 _Cosmic Horizon_ 일부입니다. 이 문서의 고유한 명명, 메타포, 용어, 구조, 경계 모델, 기록된 패턴, 또는 블루프린트를 인용·요약·개작·참조할 경우 보이는 형태로 출처를 표시해 주세요. How to cite를 확인해 주세요.

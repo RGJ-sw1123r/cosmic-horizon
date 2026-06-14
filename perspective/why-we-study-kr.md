@@ -768,3 +768,8 @@ AI가 달릴 때, 우리는 수평선이 어디에 있는지 알아야 한다.
 * [The Vanishing Senior (KR)](the-vanishing-senior-kr.md)를 읽고, AI가 배움, 검증, 시니어의 판단 사이의 관계를 어떻게 바꾸어 놓는지 추적합니다.
 * [The Paradox of the Human Auditor (KR)](../operating-system/the-paradox-of-the-human-auditor-kr.md)를 읽고, 구조화된 검증 없이는 인간의 판단만으로도 충분하지 않은 이유를 살펴봅니다.
 * [Why My Ship Is Ivory (KR)](../operating-system/case-why-my-ship-is-ivory-kr.md)를 읽고, AI가 화면 구현을 가속하더라도 인간이 디자인 맥락, 코드 구조, 제품 책임을 검산할 수 있어야 하는 이유를 살펴봅니다.
+
+***
+
+> **Coordinate Provenance**\
+> 이 좌표는 Riu Salze의 엔지니어링 아카이브 _Cosmic Horizon_ 일부입니다. 이 문서의 고유한 명명, 메타포, 용어, 구조, 경계 모델, 기록된 패턴, 또는 블루프린트를 인용·요약·개작·참조할 경우 보이는 형태로 출처를 표시해 주세요. How to cite를 확인해 주세요.

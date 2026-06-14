@@ -435,3 +435,8 @@ The map must remain observable.
 The parent pattern for this protocol is [FTL-Bound Agents](./).
 
 For the broader perspective behind bounded, observable, and non-doctrinal AI-assisted work, read [Space Rations](../../perspective/space-rations.md).
+
+***
+
+> **Coordinate Provenance**\
+> This coordinate is part of _Cosmic Horizon_, an engineering archive by Riu Salze. If you cite, quote, summarize, adapt, or reference its original naming, metaphors, terminology, structure, boundary models, documented patterns, or blueprints, please provide visible attribution. See [How to cite](../../).

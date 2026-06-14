@@ -268,3 +268,8 @@ Difference를 너무 빠르게 Wrong으로 판정하지 마라.
 > **좌표는 신호를 읽을 수 있는 자들의 몫으로 남아 있다.**
 >
 > — Cosmic Horizon
+
+***
+
+> **Coordinate Provenance**\
+> 이 좌표는 Riu Salze의 엔지니어링 아카이브 _Cosmic Horizon_ 일부입니다. 이 문서의 고유한 명명, 메타포, 용어, 구조, 경계 모델, 기록된 패턴, 또는 블루프린트를 인용·요약·개작·참조할 경우 보이는 형태로 출처를 표시해 주세요. How to cite를 확인해 주세요.

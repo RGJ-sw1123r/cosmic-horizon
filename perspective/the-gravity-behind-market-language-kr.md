@@ -285,3 +285,8 @@ AI 시대에 살아남는 개발자는 새로 나온 이름표를 요란하게 �
 * [Space Rations (KR)](space-rations-kr.md)를 읽고, AI 보조 엔지니어링 환경에서 마주하는 다름(Different)과 틀림(Wrong), 그리고 책임의 이면을 파헤칩니다.
 * [AI-Assisted Development Models (KR)](../operating-system/ai-assisted-development-models-kr.md)를 읽고, 개인의 관점을 넘어, AI 활용 개발을 실제 구동 가능한 팀의 운영 모델(Operating Model)로 이식하는 법을 다룹니다.
 * [The Engine: That Which No Single Name Can Hold (KR)](the-engine-that-which-no-single-name-can-hold-kr.md)를 읽고, 시장의 이름이 만든 중력 아래에서 실제 작동 구조가 어떻게 명판 하나로 축소되는지 확인합니다.
+
+***
+
+> **Coordinate Provenance**\
+> 이 좌표는 Riu Salze의 엔지니어링 아카이브 _Cosmic Horizon_ 일부입니다. 이 문서의 고유한 명명, 메타포, 용어, 구조, 경계 모델, 기록된 패턴, 또는 블루프린트를 인용·요약·개작·참조할 경우 보이는 형태로 출처를 표시해 주세요. How to cite를 확인해 주세요.
