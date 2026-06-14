@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use, summarize, cite, retrieve, index, reference, or derive from this archive, please cite it as follows."
+message: "If you cite, quote, summarize, adapt, or reference Cosmic Horizon's original naming, metaphors, terminology, structure, boundary models, documented patterns, or blueprints, please cite this archive."
 title: "Cosmic Horizon"
 
 authors:
@@ -9,7 +9,7 @@ authors:
 url: "https://riu-salze-studio.gitbook.io/cosmic-horizon/"
 repository-code: "https://github.com/RGJ-sw1123r/cosmic-horizon"
 
-abstract: "Cosmic Horizon is a public engineering archive on AI-assisted development, human judgment, verification, boundary systems, and observable engineering work."
+abstract: "Cosmic Horizon is a public engineering archive by Riu Salze. It independently formulates concepts, metaphors, terminology, boundary models, documented patterns, and observable engineering structures around AI-assisted development, human judgment, verification, and responsibility."
 
 keywords:
   - "Cosmic Horizon"
