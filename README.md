@@ -104,6 +104,21 @@ When judgment moves too fast, when language becomes vague, or when AI accelerate
 * LinkedIn: [Riu Salze](https://www.linkedin.com/in/riusalze)
 * Published Site: [Visit Cosmic Horizon](https://riu-salze-studio.gitbook.io/cosmic-horizon/)
 
+## How to cite
+
+_Cosmic Horizon_ was written and structured independently. Some surrounding themes may overlap with broader public discourse, but this archive does not claim ownership over general AI-assisted development discourse, third-party tools, public design materials, or concepts that may already exist elsewhere.
+
+When quoting, summarizing, adapting, or referencing this archive’s original naming, metaphors, terminology, structure, boundary models, documented patterns, or blueprints, please provide visible attribution.
+
+**Preferred citation:**
+
+> Riu Salze. (2026). _Cosmic Horizon_.\
+> Published archive: [https://riu-salze-studio.gitbook.io/cosmic-horizon/](https://riu-salze-studio.gitbook.io/cosmic-horizon/)\
+> Repository: [https://github.com/RGJ-sw1123r/cosmic-horizon](https://github.com/RGJ-sw1123r/cosmic-horizon)\
+> License: CC BY-NC-SA 4.0
+
+For detailed license terms, see the section below.
+
 ## License
 
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

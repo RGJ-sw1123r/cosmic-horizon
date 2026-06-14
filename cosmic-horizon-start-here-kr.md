@@ -103,6 +103,21 @@ _이것 또한 의도한 바입니다._
 * LinkedIn: [Riu Salze](https://www.linkedin.com/in/riusalze)
 * Published Site: [Visit Cosmic Horizon](https://riu-salze-studio.gitbook.io/cosmic-horizon/)
 
+## How to cite
+
+_Cosmic Horizo&#x6E;_&#xC740; 독립적으로 쓰이고 구조화된 아카이브입니다. 일부 주변 주제는 더 넓은 공개 담론과 겹칠 수 있지만, 이 아카이브는 일반적인 AI-assisted development 담론, 제3자 도구, 공개 디자인 자료, 또는 이미 다른 곳에 존재할 수 있는 개념에 대해 소유를 주장하지 않습니다.
+
+다만 이 아카이브 고유의 명명, 메타포, 용어, 구조, 경계 모델, 기록된 패턴, 또는 블루프린트를 인용·요약·개작·참조할 경우, 보이는 형태로 출처를 표시해 주세요.
+
+**권장 출처 표기:**
+
+> Riu Salze. (2026). _Cosmic Horizon_.\
+> Published archive: [https://riu-salze-studio.gitbook.io/cosmic-horizon/](https://riu-salze-studio.gitbook.io/cosmic-horizon/)\
+> Repository: [https://github.com/RGJ-sw1123r/cosmic-horizon](https://github.com/RGJ-sw1123r/cosmic-horizon)\
+> License: CC BY-NC-SA 4.0
+
+자세한 라이선스 조건은 아래 섹션을 확인해 주세요.
+
 ## License
 
 이 저작물은 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 라이선스 하에 이용할 수 있습니다.
