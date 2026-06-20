@@ -95,7 +95,7 @@ When judgment moves too fast, when language becomes vague, or when AI accelerate
 * Start with [Ride, Don’t Race](perspective/ride-dont-race.md) if you want the philosophy behind this archive.
 * Read [AI-Assisted Development Models](operating-system/ai-assisted-development-models.md) if you want to understand the operating model.
 * Read [FTL-Bound Agents](operating-system/pattern-ftl-bound-agents/) if you want to design AGENTS.md, CLAUDE.md, or similar agent instruction files as boundary systems for AI-assisted work.
-* Explore [Codex Chat Viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer) if you want to see a practical artifact from this orbit: a local-first viewer for Codex CLI session logs, built to inspect, review, document, and revisit AI-assisted work.
+* Explore [Codex Chat Viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer) if you want to see an earlier practical artifact from this orbit: a local-first viewer for Codex CLI session logs, built to inspect, review, document, and revisit AI-assisted work. A newer version continuing this direction has since been released as [Codex JSONL Observatory](https://github.com/RGJ-sw1123r/codex-jsonl-observatory), extending the work from transcript viewing into versionable worklog bundle export.
 * Read [Why My Ship Is Ivory](operating-system/case-why-my-ship-is-ivory.md) to see how this archive turns an actual Figma MCP and Codex experiment into a record of execution, verification, and changing work boundaries.
 
 ## Links

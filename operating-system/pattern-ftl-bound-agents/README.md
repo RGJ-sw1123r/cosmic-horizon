@@ -315,7 +315,10 @@ Related signal:
 
 Codex Chat Viewer is one practical artifact from this orbit: a local-first viewer for Codex CLI session logs, built to make AI-assisted work easier to inspect, review, document, and revisit after the work is done.
 
-GitHub: [RGJ-sw1123r/codex-chat-viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)
+A newer version continuing this direction has since been released as Codex JSONL Observatory, extending the work from local transcript viewing into versionable worklog bundle export.
+
+GitHub: [RGJ-sw1123r/codex-chat-viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)\
+GitHub: [RGJ-sw1123r/codex-jsonl-observatory](https://github.com/RGJ-sw1123r/codex-jsonl-observatory)
 
 > Personal coordinates guide the traveler.
 >

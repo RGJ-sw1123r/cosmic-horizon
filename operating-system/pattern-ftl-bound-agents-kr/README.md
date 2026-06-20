@@ -307,7 +307,10 @@ AI 에이전트는 여전히 컨텍스트를 읽고, 패턴을 비교하고, 도
 
 Codex Chat Viewer는 이 궤도에서 나온 실물 산출물 중 하나다. Codex CLI 세션 로그를 로컬 우선 방식으로 읽고, AI 활용 작업을 작업 이후에도 점검하고, 검토하고, 문서화하고, 다시 살펴보기 쉽게 만들기 위해 만든 뷰어다.
 
-GitHub: [RGJ-sw1123r/codex-chat-viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)
+이후 Codex Chat Viewer를 계승하는 새 버전으로 Codex JSONL Observatory를 공개했다. Codex CLI 세션 로그를 단순히 읽는 데서 멈추지 않고, 사용자의 요청 단위로 작업 흐름을 나누어 프로젝트에 함께 남길 수 있는 worklog bundle로 내보내도록 확장한 도구다.
+
+GitHub: [RGJ-sw1123r/codex-chat-viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)\
+GitHub: [RGJ-sw1123r/codex-jsonl-observatory](https://github.com/RGJ-sw1123r/codex-jsonl-observatory)
 
 > 개인 좌표는 항해자를 인도한다.
 >
