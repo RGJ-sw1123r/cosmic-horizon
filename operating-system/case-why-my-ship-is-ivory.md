@@ -157,7 +157,7 @@ This experiment was designed to validate a first-pass screen implementation proc
 
 ### Codex Execution Log
 
-[Codex execution log](assets/why-my-ship-is-ivory/05_figma_mcp_codex_execution_log.md)
+[Codex execution log](https://github.com/RGJ-sw1123r/cosmic-horizon/blob/main/operating-system/assets/why-my-ship-is-ivory/05_figma_mcp_codex_execution_log.md)
 
 ## What Codex Read
 
@@ -358,7 +358,7 @@ One question remains.
 * Read [The Paradox of the Human Auditor](the-paradox-of-the-human-auditor.md) to examine how human review cost becomes a new bottleneck when AI can generate results faster than people can inspect them.
 * Read [The Burden of Plain Speech](the-burden-of-plain-speech.md) to examine why clear boundary-setting language matters when working with AI agents prone to over-interpretation and drift.
 * Read [FTL-Bound Agents](pattern-ftl-bound-agents/) to examine how reusable directive assets can compress and isolate the interpretation space of AI work.
-* Visit [Codex Chat Viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer) to see how Codex execution traces can be turned into human-readable navigation logs, making AI-assisted development reviewable as a record rather than a vague feeling. A newer version continuing this direction has since been released as [Codex JSONL Observatory](https://github.com/RGJ-sw1123r/codex-jsonl-observatory), extending the work from transcript viewing into `[YOU]`-grouped, versionable worklog bundle export.
+* Visit [Codex Chat Viewer](https://github.com/revertable/codex-chat-viewer) to see how Codex execution traces can be turned into human-readable navigation logs, making AI-assisted development reviewable as a record rather than a vague feeling. A newer version continuing this direction has since been released as [Codex JSONL Observatory](https://github.com/revertable/codex-jsonl-observatory), extending the work from transcript viewing into `[YOU]`-grouped, versionable worklog bundle export.
 
 ***
 

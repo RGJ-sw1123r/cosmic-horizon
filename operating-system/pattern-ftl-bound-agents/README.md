@@ -317,8 +317,8 @@ Codex Chat Viewer is one practical artifact from this orbit: a local-first viewe
 
 A newer version continuing this direction has since been released as Codex JSONL Observatory, extending the work from local transcript viewing into versionable worklog bundle export.
 
-GitHub: [RGJ-sw1123r/codex-chat-viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)\
-GitHub: [RGJ-sw1123r/codex-jsonl-observatory](https://github.com/RGJ-sw1123r/codex-jsonl-observatory)
+GitHub: [revertable/codex-chat-viewer](https://github.com/revertable/codex-chat-viewer)\
+GitHub: [revertable/codex-jsonl-observatory](https://github.com/revertable/codex-jsonl-observatory)
 
 > Personal coordinates guide the traveler.
 >

@@ -309,8 +309,8 @@ Codex Chat Viewer는 이 궤도에서 나온 실물 산출물 중 하나다. Cod
 
 이후 Codex Chat Viewer를 계승하는 새 버전으로 Codex JSONL Observatory를 공개했다. Codex CLI 세션 로그를 단순히 읽는 데서 멈추지 않고, 사용자의 요청 단위로 작업 흐름을 나누어 프로젝트에 함께 남길 수 있는 worklog bundle로 내보내도록 확장한 도구다.
 
-GitHub: [RGJ-sw1123r/codex-chat-viewer](https://github.com/RGJ-sw1123r/codex-chat-viewer)\
-GitHub: [RGJ-sw1123r/codex-jsonl-observatory](https://github.com/RGJ-sw1123r/codex-jsonl-observatory)
+GitHub: [revertable/codex-chat-viewer](https://github.com/revertable/codex-chat-viewer)\
+GitHub: [revertable/codex-jsonl-observatory](https://github.com/revertable/codex-jsonl-observatory)
 
 > 개인 좌표는 항해자를 인도한다.
 >
