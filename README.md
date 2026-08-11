@@ -100,7 +100,7 @@ When judgment moves too fast, when language becomes vague, or when AI accelerate
 
 ## Links
 
-* GitHub: [@RGJ-sw1123r](https://github.com/RGJ-sw1123r)
+* GitHub: [@revertable](https://github.com/revertable)
 * LinkedIn: [Riu Salze](https://www.linkedin.com/in/riusalze)
 * Published Site: [Visit Cosmic Horizon](https://riu-salze-studio.gitbook.io/cosmic-horizon/)
 
@@ -114,7 +114,7 @@ When quoting, summarizing, adapting, or referencing this archive’s original na
 
 > Riu Salze. (2026). _Cosmic Horizon_.\
 > Published archive: [https://riu-salze-studio.gitbook.io/cosmic-horizon/](https://riu-salze-studio.gitbook.io/cosmic-horizon/)\
-> Repository: [https://github.com/RGJ-sw1123r/cosmic-horizon](https://github.com/RGJ-sw1123r/cosmic-horizon)\
+> Repository: [https://github.com/revertable/cosmic-horizon](https://github.com/revertable/cosmic-horizon)\
 > License: CC BY-NC-SA 4.0
 
 For detailed license terms, see the section below.
