@@ -155,7 +155,7 @@ API, DB, 인증, 기존 서비스 흐름은 기준 상태로 보존했다.
 
 ### Codex 실행 로그
 
-[Codex 실행 로그](https://github.com/RGJ-sw1123r/cosmic-horizon/blob/main/operating-system/assets/why-my-ship-is-ivory/05_figma_mcp_codex_execution_log.md)
+[Codex 실행 로그](https://github.com/revertable/cosmic-horizon/blob/main/operating-system/assets/why-my-ship-is-ivory/05_figma_mcp_codex_execution_log.md)
 
 ## Codex가 읽은 것
 

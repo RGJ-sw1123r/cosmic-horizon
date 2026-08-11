@@ -157,7 +157,7 @@ This experiment was designed to validate a first-pass screen implementation proc
 
 ### Codex Execution Log
 
-[Codex execution log](https://github.com/RGJ-sw1123r/cosmic-horizon/blob/main/operating-system/assets/why-my-ship-is-ivory/05_figma_mcp_codex_execution_log.md)
+[Codex execution log](https://github.com/revertable/cosmic-horizon/blob/main/operating-system/assets/why-my-ship-is-ivory/05_figma_mcp_codex_execution_log.md)
 
 ## What Codex Read
 
